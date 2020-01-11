@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="main__wc_8c" kind="file"><name>main_wc.c</name>
+  </compound>
+  <compound refid="src_2main__wc_8c" kind="file"><name>main_wc.c</name>
+    <member refid="src_2main__wc_8c_1a0ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="header_8h" kind="file"><name>header.h</name>
+    <member refid="header_8h_1a24f52ac52d6e714cb04a5aa01be3bdd0" kind="define"><name>BUF</name></member>
+  </compound>
+  <compound refid="main_8c" kind="file"><name>main.c</name>
+    <member refid="main_8c_1a0ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir"><name>src</name>
+  </compound>
+</doxygenindex>

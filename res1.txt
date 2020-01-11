@@ -1,0 +1,2435 @@
+.:
+total 28
+drwxrwxr-x  7 shaik shaik 4096 Dec  4 11:33 .
+drwxr-xr-x 47 shaik shaik 4096 Dec  4 11:33 ..
+drwxrwxr-x  6 shaik shaik 4096 Oct  8 14:47 c
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ds
+drwxrwxr-x  9 shaik shaik 4096 Dec  3 14:31 linux
+drwxrwxr-x  3 shaik shaik 4096 Dec  3 19:53 networking
+-rw-rw-r--  1 shaik shaik    0 Dec  4 11:33 res1.txt
+drwxrwxr-x  2 shaik shaik 4096 Jul 25 16:00 tc
+
+./c:
+total 24
+drwxrwxr-x  6 shaik shaik 4096 Oct  8 14:47 .
+drwxrwxr-x  7 shaik shaik 4096 Dec  4 11:33 ..
+drwxrwxr-x  2 shaik shaik 4096 Aug 27 12:14 assessment
+drwxrwxr-x  5 shaik shaik 4096 Oct  8 14:46 assignment
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 exp
+drwxrwxr-x  5 shaik shaik 4096 Oct 22 18:56 lab_assessment
+
+./c/assessment:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Aug 27 12:14 .
+drwxrwxr-x 6 shaik shaik 4096 Oct  8 14:47 ..
+
+./c/assignment:
+total 20
+drwxrwxr-x 5 shaik shaik 4096 Oct  8 14:46 .
+drwxrwxr-x 6 shaik shaik 4096 Oct  8 14:47 ..
+drwxrwxr-x 5 shaik shaik 4096 Sep 27 14:48 assignment_1
+drwxrwxr-x 5 shaik shaik 4096 Dec  4 11:21 assignment_2
+drwxrwxr-x 3 shaik shaik 4096 Aug 29 11:13 assignment_3
+
+./c/assignment/assignment_1:
+total 20
+drwxrwxr-x 5 shaik shaik 4096 Sep 27 14:48 .
+drwxrwxr-x 5 shaik shaik 4096 Oct  8 14:46 ..
+drwxrwxr-x 7 shaik shaik 4096 Dec  4 10:25 assignment
+drwxrwxr-x 3 shaik shaik 4096 Sep 27 14:48 html
+drwxrwxr-x 2 shaik shaik 4096 Sep 27 14:48 latex
+
+./c/assignment/assignment_1/assignment:
+total 60
+drwxrwxr-x 7 shaik shaik  4096 Dec  4 10:25 .
+drwxrwxr-x 5 shaik shaik  4096 Sep 27 14:48 ..
+-rwxrwxr-x 1 shaik shaik 27230 Dec  4 10:25 bitwise
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 10:17 hdr
+drwxrwxr-x 3 shaik shaik  4096 Sep 27 15:05 html
+drwxrwxr-x 2 shaik shaik  4096 Sep 27 15:05 latex
+-rw-rw-r-- 1 shaik shaik   375 Dec  4 10:18 makefile
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 10:25 obj
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 10:26 src
+
+./c/assignment/assignment_1/assignment/hdr:
+total 16
+drwxrwxr-x 2 shaik shaik 4096 Dec  4 10:17 .
+drwxrwxr-x 7 shaik shaik 4096 Dec  4 10:25 ..
+-rw-r--r-- 1 shaik shaik 2141 Dec  4 10:17 header.h
+-rw-rw-r-- 1 shaik shaik  630 Aug 16 10:32 tags
+
+./c/assignment/assignment_1/assignment/html:
+total 504
+drwxrwxr-x 3 shaik shaik   4096 Sep 27 15:05 .
+drwxrwxr-x 7 shaik shaik   4096 Dec  4 10:25 ..
+-rw-rw-r-- 1 shaik shaik   6713 Sep 27 15:05 12_8c_source.html
+-rw-rw-r-- 1 shaik shaik   3695 Sep 27 15:05 amin_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6096 Sep 27 15:05 assignment__4_8c_source.html
+-rw-rw-r-- 1 shaik shaik  14078 Sep 27 15:05 assignment__8_8c_source.html
+-rw-rw-r-- 1 shaik shaik    676 Sep 27 15:05 bc_s.png
+-rw-rw-r-- 1 shaik shaik    147 Sep 27 15:05 bdwn.png
+-rw-rw-r-- 1 shaik shaik   5779 Sep 27 15:05 bits__copy_8c_source.html
+-rw-rw-r-- 1 shaik shaik   3705 Sep 27 15:05 bits__swap_8c_source.html
+-rw-rw-r-- 1 shaik shaik    132 Sep 27 15:05 closed.png
+-rw-rw-r-- 1 shaik shaik   4947 Sep 27 15:05 copy__bits_8c_source.html
+-rw-rw-r-- 1 shaik shaik   7671 Sep 27 15:05 count__bits_8c_source.html
+-rw-rw-r-- 1 shaik shaik   5017 Sep 27 15:05 dec__to__binary_8c_source.html
+-rw-rw-r-- 1 shaik shaik   9552 Sep 27 15:05 dir_68267d1309a1af8e8297ef4c3efbcdba.html
+-rw-rw-r-- 1 shaik shaik  23935 Sep 27 15:05 doxygen.css
+-rw-rw-r-- 1 shaik shaik   3779 Sep 27 15:05 doxygen.png
+-rw-rw-r-- 1 shaik shaik   3265 Sep 27 15:05 dynsections.js
+-rw-rw-r-- 1 shaik shaik  10402 Sep 27 15:05 files.html
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 15:05 ftv2blank.png
+-rw-rw-r-- 1 shaik shaik    453 Sep 27 15:05 ftv2cl.png
+-rw-rw-r-- 1 shaik shaik    746 Sep 27 15:05 ftv2doc.png
+-rw-rw-r-- 1 shaik shaik    616 Sep 27 15:05 ftv2folderclosed.png
+-rw-rw-r-- 1 shaik shaik    597 Sep 27 15:05 ftv2folderopen.png
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 15:05 ftv2lastnode.png
+-rw-rw-r-- 1 shaik shaik    746 Sep 27 15:05 ftv2link.png
+-rw-rw-r-- 1 shaik shaik    246 Sep 27 15:05 ftv2mlastnode.png
+-rw-rw-r-- 1 shaik shaik    246 Sep 27 15:05 ftv2mnode.png
+-rw-rw-r-- 1 shaik shaik    403 Sep 27 15:05 ftv2mo.png
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 15:05 ftv2node.png
+-rw-rw-r-- 1 shaik shaik    388 Sep 27 15:05 ftv2ns.png
+-rw-rw-r-- 1 shaik shaik    229 Sep 27 15:05 ftv2plastnode.png
+-rw-rw-r-- 1 shaik shaik    229 Sep 27 15:05 ftv2pnode.png
+-rw-rw-r-- 1 shaik shaik    314 Sep 27 15:05 ftv2splitbar.png
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 15:05 ftv2vertline.png
+-rw-rw-r-- 1 shaik shaik   3352 Sep 27 15:05 index.html
+-rw-rw-r-- 1 shaik shaik   8431 Sep 27 15:05 input_8c_source.html
+-rw-rw-r-- 1 shaik shaik   4855 Sep 27 15:05 invert_8c_source.html
+-rw-rw-r-- 1 shaik shaik 114529 Sep 27 15:05 jquery.js
+-rw-rw-r-- 1 shaik shaik   4671 Sep 27 15:05 left__rotate_8c_source.html
+-rw-rw-r-- 1 shaik shaik   4740 Sep 27 15:05 left__rotate__n_8c_source.html
+-rw-rw-r-- 1 shaik shaik  41771 Sep 27 15:05 main_8c_source.html
+-rw-rw-r-- 1 shaik shaik    153 Sep 27 15:05 nav_f.png
+-rw-rw-r-- 1 shaik shaik     94 Sep 27 15:05 nav_g.png
+-rw-rw-r-- 1 shaik shaik     98 Sep 27 15:05 nav_h.png
+-rw-rw-r-- 1 shaik shaik    123 Sep 27 15:05 open.png
+-rw-rw-r-- 1 shaik shaik   5546 Sep 27 15:05 read__input_8c_source.html
+-rw-rw-r-- 1 shaik shaik   4668 Sep 27 15:05 right__rotate_8c_source.html
+-rw-rw-r-- 1 shaik shaik   4766 Sep 27 15:05 right__rotate__n_8c_source.html
+drwxrwxr-x 2 shaik shaik   4096 Sep 27 14:30 search
+-rw-rw-r-- 1 shaik shaik   5482 Sep 27 15:05 swap__bits_8c_source.html
+-rw-rw-r-- 1 shaik shaik   5980 Sep 27 15:05 swap__external_8c_source.html
+-rw-rw-r-- 1 shaik shaik    853 Sep 27 15:05 sync_off.png
+-rw-rw-r-- 1 shaik shaik    845 Sep 27 15:05 sync_on.png
+-rw-rw-r-- 1 shaik shaik    142 Sep 27 15:05 tab_a.png
+-rw-rw-r-- 1 shaik shaik    169 Sep 27 15:05 tab_b.png
+-rw-rw-r-- 1 shaik shaik    177 Sep 27 15:05 tab_h.png
+-rw-rw-r-- 1 shaik shaik   1163 Sep 27 15:05 tabs.css
+-rw-rw-r-- 1 shaik shaik    184 Sep 27 15:05 tab_s.png
+-rw-rw-r-- 1 shaik shaik   6090 Sep 27 15:05 ts__bits_8c_source.html
+
+./c/assignment/assignment_1/assignment/html/search:
+total 64
+drwxrwxr-x 2 shaik shaik  4096 Sep 27 14:30 .
+drwxrwxr-x 3 shaik shaik  4096 Sep 27 15:05 ..
+-rw-rw-r-- 1 shaik shaik   273 Sep 27 15:05 close.png
+-rw-rw-r-- 1 shaik shaik   563 Sep 27 15:05 mag_sel.png
+-rw-rw-r-- 1 shaik shaik   461 Sep 27 15:05 nomatches.html
+-rw-rw-r-- 1 shaik shaik  4461 Sep 27 15:05 search.css
+-rw-rw-r-- 1 shaik shaik 22000 Sep 27 15:05 search.js
+-rw-rw-r-- 1 shaik shaik   604 Sep 27 15:05 search_l.png
+-rw-rw-r-- 1 shaik shaik   158 Sep 27 15:05 search_m.png
+-rw-rw-r-- 1 shaik shaik   612 Sep 27 15:05 search_r.png
+
+./c/assignment/assignment_1/assignment/latex:
+total 32
+drwxrwxr-x 2 shaik shaik  4096 Sep 27 15:05 .
+drwxrwxr-x 7 shaik shaik  4096 Dec  4 10:25 ..
+-rw-rw-r-- 1 shaik shaik  1115 Sep 27 15:05 dir_68267d1309a1af8e8297ef4c3efbcdba.tex
+-rw-rw-r-- 1 shaik shaik 10548 Sep 27 15:05 doxygen.sty
+-rw-rw-r-- 1 shaik shaik   508 Sep 27 15:05 Makefile
+-rw-rw-r-- 1 shaik shaik  3198 Sep 27 15:05 refman.tex
+
+./c/assignment/assignment_1/assignment/obj:
+total 100
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 10:25 .
+drwxrwxr-x 7 shaik shaik  4096 Dec  4 10:25 ..
+-rw-rw-r-- 1 shaik shaik  1696 Dec  4 10:19 12.o
+-rw-rw-r-- 1 shaik shaik   780 Dec  4 10:19 amin.o
+-rw-rw-r-- 1 shaik shaik  2576 Dec  4 10:19 assignment_4.o
+-rw-rw-r-- 1 shaik shaik  3824 Dec  4 10:19 assignment_8.o
+-rw-rw-r-- 1 shaik shaik  2620 Dec  4 10:19 bits_copy.o
+-rw-rw-r-- 1 shaik shaik   785 Dec  4 10:19 bits_swap.o
+-rw-rw-r-- 1 shaik shaik  2280 Dec  4 10:19 copy_bits.o
+-rw-rw-r-- 1 shaik shaik  2688 Dec  4 10:19 count_bits.o
+-rw-rw-r-- 1 shaik shaik  2480 Dec  4 10:19 dec_to_binary.o
+-rw-rw-r-- 1 shaik shaik  4496 Dec  4 10:25 input.o
+-rw-rw-r-- 1 shaik shaik  1968 Dec  4 10:19 invert.o
+-rw-rw-r-- 1 shaik shaik  2300 Dec  4 10:19 left_rotate_n.o
+-rw-rw-r-- 1 shaik shaik  2228 Dec  4 10:19 left_rotate.o
+-rw-rw-r-- 1 shaik shaik 11088 Dec  4 10:19 main.o
+-rw-rw-r-- 1 shaik shaik  2500 Dec  4 10:19 read_input.o
+-rw-rw-r-- 1 shaik shaik  2312 Dec  4 10:19 right_rotate_n.o
+-rw-rw-r-- 1 shaik shaik  2232 Dec  4 10:19 right_rotate.o
+-rw-rw-r-- 1 shaik shaik  2604 Dec  4 10:19 swap_bits.o
+-rw-rw-r-- 1 shaik shaik  2552 Dec  4 10:19 swap_external.o
+-rw-rw-r-- 1 shaik shaik  1708 Dec  4 10:19 ts_bits.o
+
+./c/assignment/assignment_1/assignment/src:
+total 128
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 10:26 .
+drwxrwxr-x 7 shaik shaik  4096 Dec  4 10:25 ..
+-rw-rw-r-- 1 shaik shaik   510 Aug 16 10:32 12.c
+-rw-rw-r-- 1 shaik shaik     0 Aug 16 10:32 amin.c
+-rwxr-xr-x 1 shaik shaik 18232 Aug 16 10:32 app
+-rw-rw-r-- 1 shaik shaik   319 Dec  4 10:17 assignment_4.c
+-rw-rw-r-- 1 shaik shaik  1355 Oct 16 17:10 assignment_8.c
+-rw-rw-r-- 1 shaik shaik   502 Oct 16 16:38 bits_copy.c
+-rw-rw-r-- 1 shaik shaik     0 Aug 16 10:32 bits_swap.c
+-rw-rw-r-- 1 shaik shaik     0 Aug 16 10:32 cd
+-rw-rw-r-- 1 shaik shaik     0 Oct  8 19:21 clean
+-rw-r--r-- 1 shaik shaik   212 Oct  5 17:22 copy_bits.c
+-rw-rw-r-- 1 shaik shaik   504 Aug 16 10:32 count_bits.c
+-rw-rw-r-- 1 shaik shaik   154 Oct  5 17:23 dec_to_binary.c
+-rw-rw-r-- 1 shaik shaik   724 Dec  4 10:26 input.c
+-rw-rw-r-- 1 shaik shaik   161 Oct 16 18:06 invert.c
+-rw-rw-r-- 1 shaik shaik   148 Aug 16 10:32 left_rotate.c
+-rw-rw-r-- 1 shaik shaik   181 Aug 16 10:32 left_rotate_n.c
+-rw-rw-r-- 1 shaik shaik 11501 Dec  4 09:39 main.c
+-rw-rw-r-- 1 shaik shaik  8612 Oct  8 19:21 main.o
+-rw-rw-r-- 1 shaik shaik   321 Oct  8 19:21 makefile
+-rw-r--r-- 1 shaik shaik   187 Aug 16 10:32 read_input.c
+-rw-rw-r-- 1 shaik shaik   143 Oct  5 17:22 right_rotate.c
+-rw-rw-r-- 1 shaik shaik   204 Aug 16 10:32 right_rotate_n.c
+-rw-rw-r-- 1 shaik shaik   318 Aug 16 10:32 swap_bits.c
+-rw-rw-r-- 1 shaik shaik   387 Aug 16 10:32 swap_external.c
+-rw-rw-r-- 1 shaik shaik  2421 Sep 24 20:00 tags
+-rw-rw-r-- 1 shaik shaik   500 Oct 16 17:10 ts_bits.c
+
+./c/assignment/assignment_1/html:
+total 748
+drwxrwxr-x 3 shaik shaik   4096 Sep 27 14:48 .
+drwxrwxr-x 5 shaik shaik   4096 Sep 27 14:48 ..
+-rw-rw-r-- 1 shaik shaik   6218 Sep 27 14:48 12_8c.html
+-rw-rw-r-- 1 shaik shaik   7505 Sep 27 14:48 12_8c_source.html
+-rw-rw-r-- 1 shaik shaik   4404 Sep 27 14:48 amin_8c.html
+-rw-rw-r-- 1 shaik shaik   4417 Sep 27 14:48 amin_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6817 Sep 27 14:48 assignment__4_8c.html
+-rw-rw-r-- 1 shaik shaik   7920 Sep 27 14:48 assignment__4_8c_source.html
+-rw-rw-r-- 1 shaik shaik  12361 Sep 27 14:48 assignment__8_8c.html
+-rw-rw-r-- 1 shaik shaik  20068 Sep 27 14:48 assignment__8_8c_source.html
+-rw-rw-r-- 1 shaik shaik    688 Sep 27 14:48 bc_s.png
+-rw-rw-r-- 1 shaik shaik    141 Sep 27 14:48 bdwn.png
+-rw-rw-r-- 1 shaik shaik   6598 Sep 27 14:48 bits__copy_8c.html
+-rw-rw-r-- 1 shaik shaik   7056 Sep 27 14:48 bits__copy_8c_source.html
+-rw-rw-r-- 1 shaik shaik   4420 Sep 27 14:48 bits__swap_8c.html
+-rw-rw-r-- 1 shaik shaik   4433 Sep 27 14:48 bits__swap_8c_source.html
+-rw-rw-r-- 1 shaik shaik    134 Sep 27 14:48 closed.png
+-rw-rw-r-- 1 shaik shaik   6408 Sep 27 14:48 copy__bits_8c.html
+-rw-rw-r-- 1 shaik shaik   6217 Sep 27 14:48 copy__bits_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6757 Sep 27 14:48 count__bits_8c.html
+-rw-rw-r-- 1 shaik shaik   9449 Sep 27 14:48 count__bits_8c_source.html
+-rw-rw-r-- 1 shaik shaik   5773 Sep 27 14:48 dec__to__binary_8c.html
+-rw-rw-r-- 1 shaik shaik   6283 Sep 27 14:48 dec__to__binary_8c_source.html
+-rw-rw-r-- 1 shaik shaik  23935 Sep 27 14:48 doxygen.css
+-rw-rw-r-- 1 shaik shaik   3836 Sep 27 14:48 doxygen.png
+-rw-rw-r-- 1 shaik shaik   3265 Sep 27 14:48 dynsections.js
+-rw-rw-r-- 1 shaik shaik  10435 Sep 27 14:48 files.html
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 14:48 ftv2blank.png
+-rw-rw-r-- 1 shaik shaik    456 Sep 27 14:48 ftv2cl.png
+-rw-rw-r-- 1 shaik shaik    836 Sep 27 14:48 ftv2doc.png
+-rw-rw-r-- 1 shaik shaik    636 Sep 27 14:48 ftv2folderclosed.png
+-rw-rw-r-- 1 shaik shaik    690 Sep 27 14:48 ftv2folderopen.png
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 14:48 ftv2lastnode.png
+-rw-rw-r-- 1 shaik shaik    836 Sep 27 14:48 ftv2link.png
+-rw-rw-r-- 1 shaik shaik    244 Sep 27 14:48 ftv2mlastnode.png
+-rw-rw-r-- 1 shaik shaik    244 Sep 27 14:48 ftv2mnode.png
+-rw-rw-r-- 1 shaik shaik    419 Sep 27 14:48 ftv2mo.png
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 14:48 ftv2node.png
+-rw-rw-r-- 1 shaik shaik    383 Sep 27 14:48 ftv2ns.png
+-rw-rw-r-- 1 shaik shaik    221 Sep 27 14:48 ftv2plastnode.png
+-rw-rw-r-- 1 shaik shaik    221 Sep 27 14:48 ftv2pnode.png
+-rw-rw-r-- 1 shaik shaik    312 Sep 27 14:48 ftv2splitbar.png
+-rw-rw-r-- 1 shaik shaik     86 Sep 27 14:48 ftv2vertline.png
+-rw-rw-r-- 1 shaik shaik   4783 Sep 27 14:48 globals_defs.html
+-rw-rw-r-- 1 shaik shaik   7128 Sep 27 14:48 globals_func.html
+-rw-rw-r-- 1 shaik shaik   7954 Sep 27 14:48 globals.html
+-rw-rw-r-- 1 shaik shaik   5072 Sep 27 14:48 globals_vars.html
+-rw-rw-r-- 1 shaik shaik   2255 Sep 27 14:48 graph_legend.dot
+-rw-rw-r-- 1 shaik shaik   8338 Sep 27 14:48 graph_legend.html
+-rw-rw-r-- 1 shaik shaik     32 Sep 27 14:48 graph_legend.md5
+-rw-rw-r-- 1 shaik shaik   4114 Sep 27 14:48 index.html
+-rw-rw-r-- 1 shaik shaik   5633 Sep 27 14:48 input_8c.html
+-rw-rw-r-- 1 shaik shaik   9615 Sep 27 14:48 input_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6098 Sep 27 14:48 invert_8c.html
+-rw-rw-r-- 1 shaik shaik   6076 Sep 27 14:48 invert_8c_source.html
+-rw-rw-r-- 1 shaik shaik 114529 Sep 27 14:48 jquery.js
+-rw-rw-r-- 1 shaik shaik   5785 Sep 27 14:48 left__rotate_8c.html
+-rw-rw-r-- 1 shaik shaik   5941 Sep 27 14:48 left__rotate_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6074 Sep 27 14:48 left__rotate__n_8c.html
+-rw-rw-r-- 1 shaik shaik   6044 Sep 27 14:48 left__rotate__n_8c_source.html
+-rw-rw-r-- 1 shaik shaik   5658 Sep 27 14:48 main_8c.html
+-rw-rw-r-- 1 shaik shaik  60060 Sep 27 14:48 main_8c_source.html
+-rw-rw-r-- 1 shaik shaik    167 Sep 27 14:48 nav_f.png
+-rw-rw-r-- 1 shaik shaik     94 Sep 27 14:48 nav_g.png
+-rw-rw-r-- 1 shaik shaik     96 Sep 27 14:48 nav_h.png
+-rw-rw-r-- 1 shaik shaik    118 Sep 27 14:48 open.png
+-rw-rw-r-- 1 shaik shaik   5664 Sep 27 14:48 read__input_8c.html
+-rw-rw-r-- 1 shaik shaik   7158 Sep 27 14:48 read__input_8c_source.html
+-rw-rw-r-- 1 shaik shaik   5794 Sep 27 14:48 right__rotate_8c.html
+-rw-rw-r-- 1 shaik shaik   5947 Sep 27 14:48 right__rotate_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6097 Sep 27 14:48 right__rotate__n_8c.html
+-rw-rw-r-- 1 shaik shaik   6086 Sep 27 14:48 right__rotate__n_8c_source.html
+drwxrwxr-x 2 shaik shaik   4096 Sep 27 14:48 search
+-rw-rw-r-- 1 shaik shaik   6192 Sep 27 14:48 swap__bits_8c.html
+-rw-rw-r-- 1 shaik shaik   6730 Sep 27 14:48 swap__bits_8c_source.html
+-rw-rw-r-- 1 shaik shaik   6478 Sep 27 14:48 swap__external_8c.html
+-rw-rw-r-- 1 shaik shaik   7832 Sep 27 14:48 swap__external_8c_source.html
+-rw-rw-r-- 1 shaik shaik    871 Sep 27 14:48 sync_off.png
+-rw-rw-r-- 1 shaik shaik    844 Sep 27 14:48 sync_on.png
+-rw-rw-r-- 1 shaik shaik    131 Sep 27 14:48 tab_a.png
+-rw-rw-r-- 1 shaik shaik    179 Sep 27 14:48 tab_b.png
+-rw-rw-r-- 1 shaik shaik    185 Sep 27 14:48 tab_h.png
+-rw-rw-r-- 1 shaik shaik   1163 Sep 27 14:48 tabs.css
+-rw-rw-r-- 1 shaik shaik    192 Sep 27 14:48 tab_s.png
+-rw-rw-r-- 1 shaik shaik   6173 Sep 27 14:48 ts__bits_8c.html
+-rw-rw-r-- 1 shaik shaik   6894 Sep 27 14:48 ts__bits_8c_source.html
+
+./c/assignment/assignment_1/html/search:
+total 360
+drwxrwxr-x 2 shaik shaik  4096 Sep 27 14:48 .
+drwxrwxr-x 3 shaik shaik  4096 Sep 27 14:48 ..
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_0.html
+-rw-rw-r-- 1 shaik shaik    66 Sep 27 14:48 all_0.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_1.html
+-rw-rw-r-- 1 shaik shaik   230 Sep 27 14:48 all_1.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_2.html
+-rw-rw-r-- 1 shaik shaik   491 Sep 27 14:48 all_2.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_3.html
+-rw-rw-r-- 1 shaik shaik  1598 Sep 27 14:48 all_3.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_4.html
+-rw-rw-r-- 1 shaik shaik   217 Sep 27 14:48 all_4.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_5.html
+-rw-rw-r-- 1 shaik shaik   149 Sep 27 14:48 all_5.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_6.html
+-rw-rw-r-- 1 shaik shaik   108 Sep 27 14:48 all_6.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_7.html
+-rw-rw-r-- 1 shaik shaik   317 Sep 27 14:48 all_7.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_8.html
+-rw-rw-r-- 1 shaik shaik   450 Sep 27 14:48 all_8.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_9.html
+-rw-rw-r-- 1 shaik shaik   158 Sep 27 14:48 all_9.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_a.html
+-rw-rw-r-- 1 shaik shaik   147 Sep 27 14:48 all_a.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_b.html
+-rw-rw-r-- 1 shaik shaik   650 Sep 27 14:48 all_b.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_c.html
+-rw-rw-r-- 1 shaik shaik   172 Sep 27 14:48 all_c.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 14:48 all_d.html
+-rw-rw-r-- 1 shaik shaik   185 Sep 27 14:48 all_d.js
+-rw-rw-r-- 1 shaik shaik   273 Sep 27 14:48 close.png
+-rw-rw-r-- 1 shaik shaik  1015 Sep 27 14:48 defines_0.html
+-rw-rw-r-- 1 shaik shaik   108 Sep 27 14:48 defines_0.js
+-rw-rw-r-- 1 shaik shaik  1015 Sep 27 14:48 defines_1.html
+-rw-rw-r-- 1 shaik shaik   121 Sep 27 14:48 defines_1.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_0.html
+-rw-rw-r-- 1 shaik shaik    66 Sep 27 14:48 files_0.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_1.html
+-rw-rw-r-- 1 shaik shaik   230 Sep 27 14:48 files_1.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_2.html
+-rw-rw-r-- 1 shaik shaik   160 Sep 27 14:48 files_2.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_3.html
+-rw-rw-r-- 1 shaik shaik   163 Sep 27 14:48 files_3.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_4.html
+-rw-rw-r-- 1 shaik shaik   105 Sep 27 14:48 files_4.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_5.html
+-rw-rw-r-- 1 shaik shaik   133 Sep 27 14:48 files_5.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_6.html
+-rw-rw-r-- 1 shaik shaik   181 Sep 27 14:48 files_6.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_7.html
+-rw-rw-r-- 1 shaik shaik    72 Sep 27 14:48 files_7.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_8.html
+-rw-rw-r-- 1 shaik shaik   260 Sep 27 14:48 files_8.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_9.html
+-rw-rw-r-- 1 shaik shaik   172 Sep 27 14:48 files_9.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 14:48 files_a.html
+-rw-rw-r-- 1 shaik shaik    84 Sep 27 14:48 files_a.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_0.html
+-rw-rw-r-- 1 shaik shaik   351 Sep 27 14:48 functions_0.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_1.html
+-rw-rw-r-- 1 shaik shaik   951 Sep 27 14:48 functions_1.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_2.html
+-rw-rw-r-- 1 shaik shaik   132 Sep 27 14:48 functions_2.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_3.html
+-rw-rw-r-- 1 shaik shaik   149 Sep 27 14:48 functions_3.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_4.html
+-rw-rw-r-- 1 shaik shaik   204 Sep 27 14:48 functions_4.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_5.html
+-rw-rw-r-- 1 shaik shaik   289 Sep 27 14:48 functions_5.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_6.html
+-rw-rw-r-- 1 shaik shaik   106 Sep 27 14:48 functions_6.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_7.html
+-rw-rw-r-- 1 shaik shaik   147 Sep 27 14:48 functions_7.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 functions_8.html
+-rw-rw-r-- 1 shaik shaik   410 Sep 27 14:48 functions_8.js
+-rw-rw-r-- 1 shaik shaik   563 Sep 27 14:48 mag_sel.png
+-rw-rw-r-- 1 shaik shaik   461 Sep 27 14:48 nomatches.html
+-rw-rw-r-- 1 shaik shaik  4461 Sep 27 14:48 search.css
+-rw-rw-r-- 1 shaik shaik 22158 Sep 27 14:48 search.js
+-rw-rw-r-- 1 shaik shaik   604 Sep 27 14:48 search_l.png
+-rw-rw-r-- 1 shaik shaik   158 Sep 27 14:48 search_m.png
+-rw-rw-r-- 1 shaik shaik   612 Sep 27 14:48 search_r.png
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 14:48 variables_0.html
+-rw-rw-r-- 1 shaik shaik   524 Sep 27 14:48 variables_0.js
+
+./c/assignment/assignment_1/latex:
+total 116
+drwxrwxr-x 2 shaik shaik  4096 Sep 27 14:48 .
+drwxrwxr-x 5 shaik shaik  4096 Sep 27 14:48 ..
+-rw-rw-r-- 1 shaik shaik   851 Sep 27 14:48 12_8c.tex
+-rw-rw-r-- 1 shaik shaik   101 Sep 27 14:48 amin_8c.tex
+-rw-rw-r-- 1 shaik shaik  1752 Sep 27 14:48 assignment__4_8c.tex
+-rw-rw-r-- 1 shaik shaik  5927 Sep 27 14:48 assignment__8_8c.tex
+-rw-rw-r-- 1 shaik shaik  1025 Sep 27 14:48 bits__copy_8c.tex
+-rw-rw-r-- 1 shaik shaik   143 Sep 27 14:48 bits__swap_8c.tex
+-rw-rw-r-- 1 shaik shaik  1003 Sep 27 14:48 copy__bits_8c.tex
+-rw-rw-r-- 1 shaik shaik  1667 Sep 27 14:48 count__bits_8c.tex
+-rw-rw-r-- 1 shaik shaik   945 Sep 27 14:48 dec__to__binary_8c.tex
+-rw-rw-r-- 1 shaik shaik 10548 Sep 27 14:48 doxygen.sty
+-rw-rw-r-- 1 shaik shaik  2178 Sep 27 14:48 files.tex
+-rw-rw-r-- 1 shaik shaik   719 Sep 27 14:48 input_8c.tex
+-rw-rw-r-- 1 shaik shaik   783 Sep 27 14:48 invert_8c.tex
+-rw-rw-r-- 1 shaik shaik  1024 Sep 27 14:48 left__rotate_8c.tex
+-rw-rw-r-- 1 shaik shaik  1170 Sep 27 14:48 left__rotate__n_8c.tex
+-rw-rw-r-- 1 shaik shaik   698 Sep 27 14:48 main_8c.tex
+-rw-rw-r-- 1 shaik shaik   508 Sep 27 14:48 Makefile
+-rw-rw-r-- 1 shaik shaik   876 Sep 27 14:48 read__input_8c.tex
+-rw-rw-r-- 1 shaik shaik  3718 Sep 27 14:48 refman.tex
+-rw-rw-r-- 1 shaik shaik  1044 Sep 27 14:48 right__rotate_8c.tex
+-rw-rw-r-- 1 shaik shaik  1214 Sep 27 14:48 right__rotate__n_8c.tex
+-rw-rw-r-- 1 shaik shaik   945 Sep 27 14:48 swap__bits_8c.tex
+-rw-rw-r-- 1 shaik shaik  1097 Sep 27 14:48 swap__external_8c.tex
+-rw-rw-r-- 1 shaik shaik  1071 Sep 27 14:48 ts__bits_8c.tex
+
+./c/assignment/assignment_2:
+total 84
+drwxrwxr-x 5 shaik shaik  4096 Dec  4 11:21 .
+drwxrwxr-x 5 shaik shaik  4096 Oct  8 14:46 ..
+-rwxrwxr-x 1 shaik shaik  7379 Aug 24 10:07 a.out
+-rwxrwxr-x 1 shaik shaik 25919 Dec  4 11:21 app
+-rwxrwxr-x 1 shaik shaik 22466 Oct  5 20:41 bitwise
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 11:11 hdr
+-rw-r--r-- 1 shaik shaik   371 Oct 26 00:09 makefile
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 11:21 obj
+-rw-rw-r-- 1 shaik shaik     0 Nov 22 15:56 rev_str.c
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 11:21 src
+-rw-r--r-- 1 shaik shaik     0 Aug 21 14:49 .vimrc
+
+./c/assignment/assignment_2/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Dec  4 11:11 .
+drwxrwxr-x 5 shaik shaik 4096 Dec  4 11:21 ..
+-rw-r--r-- 1 shaik shaik  842 Dec  4 11:11 header.h
+
+./c/assignment/assignment_2/obj:
+total 100
+drwxrwxr-x 2 shaik shaik 4096 Dec  4 11:21 .
+drwxrwxr-x 5 shaik shaik 4096 Dec  4 11:21 ..
+-rw-rw-r-- 1 shaik shaik  785 Dec  3 20:00 bits_copy.o
+-rw-rw-r-- 1 shaik shaik 2308 Dec  3 20:00 chr_str.o
+-rw-rw-r-- 1 shaik shaik 4532 Dec  3 20:00 input.o
+-rw-rw-r-- 1 shaik shaik 2612 Dec  3 20:00 insert_char.o
+-rw-rw-r-- 1 shaik shaik 9036 Dec  4 11:21 main.o
+-rw-rw-r-- 1 shaik shaik 3924 Dec  3 20:00 malloc_input.o
+-rw-rw-r-- 1 shaik shaik 2440 Dec  3 20:00 palindrome.o
+-rw-rw-r-- 1 shaik shaik 2392 Dec  3 20:00 pointer.o
+-rw-rw-r-- 1 shaik shaik 2576 Dec  4 11:13 remstr.o
+-rw-rw-r-- 1 shaik shaik 2440 Dec  3 20:00 rev_str.o
+-rw-rw-r-- 1 shaik shaik 2376 Dec  3 20:00 sappend.o
+-rw-rw-r-- 1 shaik shaik 2696 Dec  3 20:00 snappend.o
+-rw-rw-r-- 1 shaik shaik 2580 Dec  3 20:00 squeeze.o
+-rw-rw-r-- 1 shaik shaik 2932 Dec  3 20:00 strcasecmp.o
+-rw-rw-r-- 1 shaik shaik 2328 Dec  3 20:00 str_cmp.o
+-rw-rw-r-- 1 shaik shaik 2248 Dec  4 10:35 strcpy.o
+-rw-rw-r-- 1 shaik shaik 2436 Dec  4 11:13 strncpy.o
+-rw-rw-r-- 1 shaik shaik 2568 Dec  4 11:13 strrot.o
+-rw-rw-r-- 1 shaik shaik 2440 Dec  3 20:00 str_spn.o
+-rw-rw-r-- 1 shaik shaik 2624 Dec  3 20:00 strtok.o
+
+./c/assignment/assignment_2/src:
+total 176
+drwxrwxr-x 2 shaik shaik  4096 Dec  4 11:21 .
+drwxrwxr-x 5 shaik shaik  4096 Dec  4 11:21 ..
+-rwxr-xr-x 1 shaik shaik  8464 Aug 26 22:35 a.out
+-rwxr-xr-x 1 shaik shaik 12434 Sep  3 13:57 app
+-rw-r--r-- 1 shaik shaik     0 Oct  5 17:34 bits_copy.c
+-rw-r--r-- 1 shaik shaik   448 Oct 13 19:51 chr_str.c
+-rw-rw-r-- 1 shaik shaik   924 Oct  5 17:47 chr_str.o
+-rw-r--r-- 1 shaik shaik   754 Oct  5 20:40 input.c
+-rw-rw-r-- 1 shaik shaik  1508 Oct  5 17:47 input.o
+-rw-r--r-- 1 shaik shaik   710 Aug 28 14:46 insert_char.c
+-rw-r--r-- 1 shaik shaik  5927 Dec  4 11:21 main.c
+-rw-rw-r-- 1 shaik shaik  3440 Oct  5 17:47 main.o
+-rw-r--r-- 1 shaik shaik   235 Oct 13 18:56 makefile
+-rw-r--r-- 1 shaik shaik   198 Oct  5 19:46 malloc_input.c
+-rw-rw-r-- 1 shaik shaik  1048 Oct  5 17:47 malloc_input.o
+-rw-r--r-- 1 shaik shaik   507 Oct  5 17:41 palindrome.c
+-rw-rw-r-- 1 shaik shaik   960 Oct  5 17:47 palindrome.o
+-rw-rw-r-- 1 shaik shaik   268 Nov 21 14:30 pointer.c
+-rw-rw-r-- 1 shaik shaik   388 Dec  4 11:10 remstr.c
+-rw-r--r-- 1 shaik shaik   387 Oct  5 17:36 rev_str.c
+-rw-rw-r-- 1 shaik shaik   976 Oct  5 17:47 rev_str.o
+-rw-r--r-- 1 shaik shaik   354 Oct  5 17:42 sappend.c
+-rw-r--r-- 1 shaik shaik 12288 Nov 20 00:49 .sappend.c.swp
+-rw-rw-r-- 1 shaik shaik   944 Oct  5 17:47 sappend.o
+-rw-r--r-- 1 shaik shaik   397 Nov 20 00:49 snappend.c
+-rw-rw-r-- 1 shaik shaik   968 Oct  5 17:47 snappend.o
+-rw-r--r-- 1 shaik shaik   320 Oct  5 17:43 squeeze.c
+-rw-r--r-- 1 shaik shaik  1081 Oct  5 17:37 strcasecmp.c
+-rw-rw-r-- 1 shaik shaik  1328 Oct  5 17:47 strcasecmp.o
+-rw-r--r-- 1 shaik shaik   575 Oct  5 17:43 str_cmp.c
+-rw-rw-r-- 1 shaik shaik   956 Oct  5 17:47 str_cmp.o
+-rw-rw-r-- 1 shaik shaik   110 Dec  4 10:33 strcpy.c
+-rw-rw-r-- 1 shaik shaik   463 Dec  4 11:12 strncpy.c
+-rw-rw-r-- 1 shaik shaik   487 Dec  4 11:10 strrot.c
+-rw-r--r-- 1 shaik shaik   405 Oct  5 17:38 str_spn.c
+-rw-rw-r-- 1 shaik shaik   908 Oct  5 17:47 str_spn.o
+-rwx------ 1 shaik shaik   646 Nov 20 00:44 strtok.c
+
+./c/assignment/assignment_3:
+total 12
+drwxrwxr-x  3 shaik shaik 4096 Aug 29 11:13 .
+drwxrwxr-x  5 shaik shaik 4096 Oct  8 14:46 ..
+drwxrwxr-x 11 shaik shaik 4096 Oct  5 20:54 cat
+
+./c/assignment/assignment_3/cat:
+total 144
+drwxrwxr-x 11 shaik shaik   4096 Oct  5 20:54 .
+drwxrwxr-x  3 shaik shaik   4096 Aug 29 11:13 ..
+drwxrwxr-x  2 shaik shaik   4096 Sep 27 15:22 docbook
+-rw-rw-r--  1 shaik shaik 102197 Sep 27 15:33 Doxyfile
+drwxrwxr-x  2 shaik shaik   4096 Aug 29 11:13 hdr
+drwxrwxr-x  3 shaik shaik   4096 Sep 27 15:22 html
+drwxrwxr-x  2 shaik shaik   4096 Sep 27 15:22 latex
+-rw-rw-r--  1 shaik shaik      0 Oct  5 20:54 main_wc.c
+drwxrwxr-x  3 shaik shaik   4096 Sep 27 15:22 man
+drwxrwxr-x  2 shaik shaik   4096 Aug 29 11:13 obj
+drwxrwxr-x  2 shaik shaik   4096 Sep 27 15:22 rtf
+drwxrwxr-x  2 shaik shaik   4096 Oct 27 11:37 src
+drwxrwxr-x  2 shaik shaik   4096 Sep 27 15:22 xml
+
+./c/assignment/assignment_3/cat/docbook:
+total 32
+drwxrwxr-x  2 shaik shaik 4096 Sep 27 15:22 .
+drwxrwxr-x 11 shaik shaik 4096 Oct  5 20:54 ..
+-rw-rw-r--  1 shaik shaik 1268 Sep 27 15:22 dir_68267d1309a1af8e8297ef4c3efbcdba.xml
+-rw-rw-r--  1 shaik shaik  910 Sep 27 15:22 header_8h.xml
+-rw-rw-r--  1 shaik shaik  838 Sep 27 15:22 index.xml
+-rw-rw-r--  1 shaik shaik  860 Sep 27 15:22 main_8c.xml
+-rw-rw-r--  1 shaik shaik  417 Sep 27 15:22 main__wc_8c.xml
+-rw-rw-r--  1 shaik shaik  884 Sep 27 15:22 src_2main__wc_8c.xml
+
+./c/assignment/assignment_3/cat/hdr:
+total 8
+drwxrwxr-x  2 shaik shaik 4096 Aug 29 11:13 .
+drwxrwxr-x 11 shaik shaik 4096 Oct  5 20:54 ..
+
+./c/assignment/assignment_3/cat/html:
+total 464
+drwxrwxr-x  3 shaik shaik   4096 Sep 27 15:22 .
+drwxrwxr-x 11 shaik shaik   4096 Oct  5 20:54 ..
+-rw-rw-r--  1 shaik shaik    687 Sep 27 15:22 bc_s.png
+-rw-rw-r--  1 shaik shaik    148 Sep 27 15:22 bdwn.png
+-rw-rw-r--  1 shaik shaik    133 Sep 27 15:22 closed.png
+-rw-rw-r--  1 shaik shaik   5980 Sep 27 15:22 dir_68267d1309a1af8e8297ef4c3efbcdba.html
+-rw-rw-r--  1 shaik shaik    208 Sep 27 15:22 dir_68267d1309a1af8e8297ef4c3efbcdba.js
+-rw-rw-r--  1 shaik shaik  23935 Sep 27 15:22 doxygen.css
+-rw-rw-r--  1 shaik shaik   3843 Sep 27 15:22 doxygen.png
+-rw-rw-r--  1 shaik shaik   3265 Sep 27 15:22 dynsections.js
+-rw-rw-r--  1 shaik shaik   6983 Sep 27 15:22 files.html
+-rw-rw-r--  1 shaik shaik    162 Sep 27 15:22 files.js
+-rw-rw-r--  1 shaik shaik     86 Sep 27 15:22 ftv2blank.png
+-rw-rw-r--  1 shaik shaik    463 Sep 27 15:22 ftv2cl.png
+-rw-rw-r--  1 shaik shaik    854 Sep 27 15:22 ftv2doc.png
+-rw-rw-r--  1 shaik shaik    694 Sep 27 15:22 ftv2folderclosed.png
+-rw-rw-r--  1 shaik shaik    694 Sep 27 15:22 ftv2folderopen.png
+-rw-rw-r--  1 shaik shaik     86 Sep 27 15:22 ftv2lastnode.png
+-rw-rw-r--  1 shaik shaik    854 Sep 27 15:22 ftv2link.png
+-rw-rw-r--  1 shaik shaik    240 Sep 27 15:22 ftv2mlastnode.png
+-rw-rw-r--  1 shaik shaik    240 Sep 27 15:22 ftv2mnode.png
+-rw-rw-r--  1 shaik shaik    418 Sep 27 15:22 ftv2mo.png
+-rw-rw-r--  1 shaik shaik     86 Sep 27 15:22 ftv2node.png
+-rw-rw-r--  1 shaik shaik    388 Sep 27 15:22 ftv2ns.png
+-rw-rw-r--  1 shaik shaik    217 Sep 27 15:22 ftv2plastnode.png
+-rw-rw-r--  1 shaik shaik    217 Sep 27 15:22 ftv2pnode.png
+-rw-rw-r--  1 shaik shaik    312 Sep 27 15:22 ftv2splitbar.png
+-rw-rw-r--  1 shaik shaik     86 Sep 27 15:22 ftv2vertline.png
+-rw-rw-r--  1 shaik shaik   5327 Sep 27 15:22 globals_defs.html
+-rw-rw-r--  1 shaik shaik   5419 Sep 27 15:22 globals_func.html
+-rw-rw-r--  1 shaik shaik   5648 Sep 27 15:22 globals.html
+-rw-rw-r--  1 shaik shaik   6345 Sep 27 15:22 header_8h.html
+-rw-rw-r--  1 shaik shaik     92 Sep 27 15:22 header_8h.js
+-rw-rw-r--  1 shaik shaik   4825 Sep 27 15:22 index.html
+-rw-rw-r--  1 shaik shaik  12417 Sep 27 15:22 index.jpeg
+-rw-rw-r--  1 shaik shaik 146351 Sep 27 15:22 jquery.js
+-rw-rw-r--  1 shaik shaik   9658 Sep 27 15:22 main_8c.html
+-rw-rw-r--  1 shaik shaik     89 Sep 27 15:22 main_8c.js
+-rw-rw-r--  1 shaik shaik   5187 Sep 27 15:22 main__wc_8c.html
+-rw-rw-r--  1 shaik shaik    169 Sep 27 15:22 nav_f.png
+-rw-rw-r--  1 shaik shaik     94 Sep 27 15:22 nav_g.png
+-rw-rw-r--  1 shaik shaik     98 Sep 27 15:22 nav_h.png
+-rw-rw-r--  1 shaik shaik   2036 Sep 27 15:22 navtree.css
+-rw-rw-r--  1 shaik shaik    601 Sep 27 15:22 navtreeindex0.js
+-rw-rw-r--  1 shaik shaik  15241 Sep 27 15:22 navtree.js
+-rw-rw-r--  1 shaik shaik    120 Sep 27 15:22 open.png
+-rw-rw-r--  1 shaik shaik   2800 Sep 27 15:22 resize.js
+drwxrwxr-x  2 shaik shaik   4096 Sep 27 15:22 search
+-rw-rw-r--  1 shaik shaik  12592 Sep 27 15:22 src_2main__wc_8c.html
+-rw-rw-r--  1 shaik shaik    107 Sep 27 15:22 src_2main__wc_8c.js
+-rw-rw-r--  1 shaik shaik    863 Sep 27 15:22 sync_off.png
+-rw-rw-r--  1 shaik shaik    844 Sep 27 15:22 sync_on.png
+-rw-rw-r--  1 shaik shaik    135 Sep 27 15:22 tab_a.png
+-rw-rw-r--  1 shaik shaik    194 Sep 27 15:22 tab_b.png
+-rw-rw-r--  1 shaik shaik    186 Sep 27 15:22 tab_h.png
+-rw-rw-r--  1 shaik shaik   1163 Sep 27 15:22 tabs.css
+-rw-rw-r--  1 shaik shaik    198 Sep 27 15:22 tab_s.png
+
+./c/assignment/assignment_3/cat/html/search:
+total 120
+drwxrwxr-x 2 shaik shaik  4096 Sep 27 15:22 .
+drwxrwxr-x 3 shaik shaik  4096 Sep 27 15:22 ..
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 15:22 all_0.html
+-rw-rw-r-- 1 shaik shaik   108 Sep 27 15:22 all_0.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 15:22 all_1.html
+-rw-rw-r-- 1 shaik shaik    78 Sep 27 15:22 all_1.js
+-rw-rw-r-- 1 shaik shaik  1011 Sep 27 15:22 all_2.html
+-rw-rw-r-- 1 shaik shaik   438 Sep 27 15:22 all_2.js
+-rw-rw-r-- 1 shaik shaik   273 Sep 27 15:22 close.png
+-rw-rw-r-- 1 shaik shaik  1015 Sep 27 15:22 defines_0.html
+-rw-rw-r-- 1 shaik shaik   108 Sep 27 15:22 defines_0.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 15:22 files_0.html
+-rw-rw-r-- 1 shaik shaik    78 Sep 27 15:22 files_0.js
+-rw-rw-r-- 1 shaik shaik  1013 Sep 27 15:22 files_1.html
+-rw-rw-r-- 1 shaik shaik   205 Sep 27 15:22 files_1.js
+-rw-rw-r-- 1 shaik shaik  1017 Sep 27 15:22 functions_0.html
+-rw-rw-r-- 1 shaik shaik   253 Sep 27 15:22 functions_0.js
+-rw-rw-r-- 1 shaik shaik   563 Sep 27 15:22 mag_sel.png
+-rw-rw-r-- 1 shaik shaik   461 Sep 27 15:22 nomatches.html
+-rw-rw-r-- 1 shaik shaik  4461 Sep 27 15:22 search.css
+-rw-rw-r-- 1 shaik shaik 22101 Sep 27 15:22 search.js
+-rw-rw-r-- 1 shaik shaik   604 Sep 27 15:22 search_l.png
+-rw-rw-r-- 1 shaik shaik   158 Sep 27 15:22 search_m.png
+-rw-rw-r-- 1 shaik shaik   612 Sep 27 15:22 search_r.png
+
+./c/assignment/assignment_3/cat/latex:
+total 52
+drwxrwxr-x  2 shaik shaik  4096 Sep 27 15:22 .
+drwxrwxr-x 11 shaik shaik  4096 Oct  5 20:54 ..
+-rw-rw-r--  1 shaik shaik   408 Sep 27 15:22 dir_68267d1309a1af8e8297ef4c3efbcdba.tex
+-rw-rw-r--  1 shaik shaik 10548 Sep 27 15:22 doxygen.sty
+-rw-rw-r--  1 shaik shaik   504 Sep 27 15:22 files.tex
+-rw-rw-r--  1 shaik shaik   700 Sep 27 15:22 header_8h.tex
+-rw-rw-r--  1 shaik shaik  1684 Sep 27 15:22 main_8c.tex
+-rw-rw-r--  1 shaik shaik   133 Sep 27 15:22 main__wc_8c.tex
+-rw-rw-r--  1 shaik shaik   508 Sep 27 15:22 Makefile
+-rw-rw-r--  1 shaik shaik  3362 Sep 27 15:22 refman.tex
+-rw-rw-r--  1 shaik shaik  2817 Sep 27 15:22 src_2main__wc_8c.tex
+
+./c/assignment/assignment_3/cat/man:
+total 12
+drwxrwxr-x  3 shaik shaik 4096 Sep 27 15:22 .
+drwxrwxr-x 11 shaik shaik 4096 Oct  5 20:54 ..
+drwxrwxr-x  2 shaik shaik 4096 Sep 27 15:22 man3
+
+./c/assignment/assignment_3/cat/man/man3:
+total 24
+drwxrwxr-x 2 shaik shaik 4096 Sep 27 15:22 .
+drwxrwxr-x 3 shaik shaik 4096 Sep 27 15:22 ..
+-rw-rw-r-- 1 shaik shaik  454 Sep 27 15:22 header.h.3
+-rw-rw-r-- 1 shaik shaik  320 Sep 27 15:22 _home_shaik_tech-training_c_assignment_assignment_3_cat_src_.3
+-rw-rw-r-- 1 shaik shaik  911 Sep 27 15:22 main.c.3
+-rw-rw-r-- 1 shaik shaik 1504 Sep 27 15:22 main_wc.c.3
+
+./c/assignment/assignment_3/cat/obj:
+total 8
+drwxrwxr-x  2 shaik shaik 4096 Aug 29 11:13 .
+drwxrwxr-x 11 shaik shaik 4096 Oct  5 20:54 ..
+
+./c/assignment/assignment_3/cat/rtf:
+total 40
+drwxrwxr-x  2 shaik shaik  4096 Sep 27 15:22 .
+drwxrwxr-x 11 shaik shaik  4096 Oct  5 20:54 ..
+-rw-rw-r--  1 shaik shaik  9270 Sep 27 15:22 dir_68267d1309a1af8e8297ef4c3efbcdba.rtf
+-rw-rw-r--  1 shaik shaik 16785 Sep 27 15:22 refman.rtf
+
+./c/assignment/assignment_3/cat/src:
+total 52
+drwxrwxr-x  2 shaik shaik 4096 Oct 27 11:37 .
+drwxrwxr-x 11 shaik shaik 4096 Oct  5 20:54 ..
+-rwxrwxr-x  1 shaik shaik 7632 Oct 27 09:32 a.out
+-rw-rw-r--  1 shaik shaik   28 Oct 26 19:50 file2.txt
+-rw-rw-r--  1 shaik shaik  144 Aug 29 19:40 file3.txt
+-rw-rw-r--  1 shaik shaik  108 Aug 29 15:47 file.txt
+-rw-rw-r--  1 shaik shaik   55 Aug 29 11:35 header.h
+-rw-rw-r--  1 shaik shaik  518 Oct 26 19:12 main.c
+-rw-rw-r--  1 shaik shaik 1042 Oct  5 20:54 main_wc.c
+-rw-rw-r--  1 shaik shaik  720 Oct 27 11:37 my_cat.c
+-rw-rw-r--  1 shaik shaik 1492 Oct 26 19:55 my_cat.o
+-rw-rw-r--  1 shaik shaik    0 Aug 29 12:33 sample.txt
+-rw-rw-r--  1 shaik shaik  485 Oct 27 10:02 time.c
+
+./c/assignment/assignment_3/cat/xml:
+total 92
+drwxrwxr-x  2 shaik shaik  4096 Sep 27 15:22 .
+drwxrwxr-x 11 shaik shaik  4096 Oct  5 20:54 ..
+-rw-rw-r--  1 shaik shaik   645 Sep 27 15:22 combine.xslt
+-rw-rw-r--  1 shaik shaik 40039 Sep 27 15:22 compound.xsd
+-rw-rw-r--  1 shaik shaik   664 Sep 27 15:22 dir_68267d1309a1af8e8297ef4c3efbcdba.xml
+-rw-rw-r--  1 shaik shaik  3013 Sep 27 15:22 header_8h.xml
+-rw-rw-r--  1 shaik shaik   942 Sep 27 15:22 index.xml
+-rw-rw-r--  1 shaik shaik  2387 Sep 27 15:22 index.xsd
+-rw-rw-r--  1 shaik shaik  7215 Sep 27 15:22 main_8c.xml
+-rw-rw-r--  1 shaik shaik   528 Sep 27 15:22 main__wc_8c.xml
+-rw-rw-r--  1 shaik shaik 11792 Sep 27 15:22 src_2main__wc_8c.xml
+
+./c/exp:
+total 1636
+drwxrwxr-x 29 shaik shaik    4096 Dec  3 20:10 .
+drwxrwxr-x  6 shaik shaik    4096 Oct  8 14:47 ..
+-rw-rw-r--  1 shaik shaik     357 Oct 12 15:46 '
+-rw-rw-r--  1 shaik shaik      43 Jul 28 10:26 \
+-rw-rw-r--  1 shaik shaik      73 Aug 10 09:13 1.c
+-rwxrwxr-x  1 shaik shaik   26779 Nov 27 12:46 a.out
+-rwxrwxr-x  1 shaik shaik    4348 Jul 28 12:56 a.out~
+-rwxrwxr-x  1 shaik shaik    7341 Jul 31 17:47 bits
+drwxrwxr-x  8 shaik shaik    4096 Aug  6 20:57 bitwise
+drwxrwxr-x 12 shaik shaik    4096 Aug  8 20:07 bitwise2
+drwxrwxr-x  2 shaik shaik    4096 Oct 11 11:19 call_back_fun
+-rw-rw-r--  1 shaik shaik     106 Jul 26 10:56 char_count.c
+-rwxrwxr-x  1 shaik shaik    7407 Jul 26 17:50 cordinates
+-rw-rw-r--  1 shaik shaik     239 Jul 26 18:26 cordinates.c
+-rwxrwxr-x  1 shaik shaik    7470 Jul 31 20:17 dec
+-rw-rw-r--  1 shaik shaik     358 Aug  1 17:46 dec2bin.c
+-rw-rw-r--  1 shaik shaik     367 Aug  2 17:44 dec_to_binary.c
+drwxrwxr-x  2 shaik shaik    4096 Nov  6 14:36 doselect
+-rw-rw-r--  1 shaik shaik     189 Oct 12 15:24 endian.c
+drwxrwxr-x  2 shaik shaik    4096 Jul 31 12:31 enum
+-rw-rw-r--  1 shaik shaik      82 Sep 17 19:40 eq.c
+-rwxrwxr-x  1 shaik shaik    7450 Oct 25 09:17 ex
+-rw-rw-r--  1 shaik shaik     186 Oct 25 09:09 ex.c
+-rw-rw-r--  1 shaik shaik    1304 Aug 13 12:45 ex.o
+-rwxrwxr-x  1 shaik shaik    7375 Aug  1 10:30 exp1
+-rw-rw-r--  1 shaik shaik     185 Sep 11 19:42 exp1.c
+-rw-rw-r--  1 shaik shaik     778 Sep 11 19:40 exp1.s
+drwxrwxr-x  2 shaik shaik    4096 Oct 26 10:48 file
+-rw-rw-r--  1 shaik shaik     720 Sep 14 18:56 file.c
+-rw-rw-r--  1 shaik shaik       0 Jul 28 10:31 file.i
+-rw-rw-r--  1 shaik shaik   42513 Jul 26 20:02 file.txt
+-rw-rw-r--  1 shaik shaik      98 Sep  4 11:28 for_loop.c
+-rw-rw-r--  1 shaik shaik     216 Sep  4 11:28 for_loop.c.004t.gimple
+-rwxrwxr-x  1 shaik shaik    7385 Jul 27 11:33 func
+-rw-rw-r--  1 shaik shaik     144 Jul 27 12:51 func_exp.c
+drwxrwxr-x  4 shaik shaik    4096 Dec  3 20:10 function_pointers
+-rw-rw-r--  1 shaik shaik      91 Aug 14 10:11 generic_pointer.c
+drwxrwxr-x  2 shaik shaik    4096 Aug  2 17:24 goto_experiments
+-rw-rw-r--  1 shaik shaik      19 Jul 25 15:28 heat.c
+-rwxrwxr-x  1 shaik shaik    7343 Jul 30 20:03 hello
+-rw-rw-r--  1 shaik shaik      68 Jul 26 19:12 hello1.c
+-rw-rw-r--  1 shaik shaik      88 Jul 30 12:49 hello2.c
+-rw-rw-r--  1 shaik shaik      66 Jul 28 11:24 hello54.c
+-rw-rw-r--  1 shaik shaik    1032 Jul 27 09:33 hello54.o
+-rw-rw-r--  1 shaik shaik     495 Jul 27 09:32 hello54.s
+-rw-rw-r--  1 shaik shaik     106 Oct 10 18:19 hello.c
+-rw-rw-r--  1 shaik shaik    1033 Aug  1 12:27 hello.o
+-rw-rw-r--  1 shaik shaik     493 Jul 27 09:29 hello.s
+-rw-rw-r--  1 shaik shaik      97 Jul 30 20:03 hello_test.c
+drwxrwxr-x  2 shaik shaik    4096 Sep  3 09:53 hjsdfhsj
+-rw-rw-r--  1 shaik shaik      89 Aug 16 09:53 inc.c
+-rw-rw-r--  1 shaik shaik      88 Aug 20 12:28 infinite_loop.c
+-rw-rw-r--  1 shaik shaik      75 Aug 20 12:32 infinte.c
+drwxrwxr-x  2 shaik shaik    4096 Nov 19 16:03 interview
+drwxrwxr-x  2 shaik shaik    4096 Aug 16 10:00 kruthika@172.16.5.25
+-rw-rw-r--  1 shaik shaik     464 Aug  6 10:33 leftShift.c
+-rw-rw-r--  1 shaik shaik     169 Oct 25 20:08 macro.c
+-rw-rw-r--  1 shaik shaik     138 Aug 24 15:47 malloc.c
+-rw-rw-r--  1 shaik shaik     343 Sep 10 15:02 malloc_fail.c
+drwxrwxr-x  2 shaik shaik    4096 Nov 29 19:58 malloc_magic
+drwxrwxr-x  2 shaik shaik    4096 Nov 22 10:09 my_editor
+-rw-rw-r--  1 shaik shaik      68 Jul 30 15:47 operators.c
+drwxrwxr-x  2 shaik shaik    4096 Nov 19 20:11 pointer
+-rw-rw-r--  1 shaik shaik     453 Oct  2 12:10 pointer.c
+-rw-rw-r--  1 shaik shaik     273 Aug 14 10:54 pointer_cast.c
+drwxrwxr-x  2 shaik shaik    4096 Jul 31 11:57 printf_examples
+drwxrwxr-x  5 shaik shaik    4096 Oct 22 20:28 process_management
+-rw-rw-r--  1 shaik shaik     114 Jul 30 12:48 range.c
+drwxrwxr-x  2 shaik shaik    4096 Sep 12 20:31 rtl
+-rw-rw-r--  1 shaik shaik      79 Jul 26 12:15 sample1.c
+-rw-rw-r--  1 shaik shaik      72 Jul 26 12:13 sample2.c
+drwxrwxr-x  3 shaik shaik    4096 Sep 27 09:57 sayyuf
+-rw-rw-r--  1 shaik shaik      81 Jul 31 17:47 set_bits.c
+drwxrwxr-x  2 shaik shaik    4096 Nov 20 17:20 shared
+-rwxrwxr-x  1 shaik shaik    7388 Jul 31 17:42 shift
+-rw-rw-r--  1 shaik shaik     558 Aug  3 19:45 size.c
+-rw-r--r--  1 shaik shaik   12288 Aug  2 14:52 .size.c.swo
+-rw-r--r--  1 shaik shaik   12288 Aug  2 14:49 .size.c.swp
+drwxrwxr-x  2 shaik shaik    4096 Sep 26 20:40 snippets
+-rw-rw-r--  1 shaik shaik     193 Oct 22 18:21 stack.c
+drwxrwxr-x  2 shaik shaik    4096 Nov 20 17:06 static
+drwxrwxr-x  3 shaik shaik    4096 Oct 12 16:14 storage_class
+drwxrwxr-x  2 shaik shaik    4096 Nov 27 09:28 strings
+-rw-rw-r--  1 shaik shaik       0 Jul 25 17:28 strings.c
+drwxrwxr-x  2 shaik shaik    4096 Oct 26 09:04 struct
+drwxrwxr-x  2 shaik shaik    4096 Nov 27 14:36 structures
+-rw-rw-r--  1 shaik shaik     419 Nov 27 12:29 switch.c
+-rw-rw-r--  1 shaik shaik     476 Nov 27 12:30 switch.c.004t.gimple
+-rw-rw-r--  1 shaik shaik   30343 Sep 27 15:56 tags
+-rw-r--r--  1 shaik shaik 1045022 Oct 12 16:34 ter_tm_clones
+-rwxrwxr-x  1 shaik shaik    7344 Jul 30 14:55 test
+-rw-rw-r--  1 shaik shaik      84 Jul 28 10:52 test_2.c
+-rw-rw-r--  1 shaik shaik      88 Sep 14 18:56 test2.c
+-rw-rw-r--  1 shaik shaik     181 Jul 28 11:21 test_3.c
+-rw-rw-r--  1 shaik shaik      95 Jul 26 10:18 test3.c
+-rw-rw-r--  1 shaik shaik      60 Jul 28 12:15 test_4.c
+-rw-rw-r--  1 shaik shaik     156 Jul 27 15:22 test5.c
+-rw-rw-r--  1 shaik shaik     211 Jul 27 15:21 test5.i
+-rwxrwxr-x  1 shaik shaik    7342 Oct  1 19:18 test_bits
+-rw-rw-r--  1 shaik shaik     109 Oct  1 19:18 test_bits.c
+-rw-rw-r--  1 shaik shaik     163 Jul 25 15:41 test.c
+-rw-rw-r--  1 shaik shaik     148 Jul 30 11:11 test_c.c
+-rw-rw-r--  1 shaik shaik     170 Jul 30 12:46 test_datatypes.c
+-rw-rw-r--  1 shaik shaik     110 Jul 28 12:53 test_d.c
+-rw-rw-r--  1 shaik shaik     190 Jul 28 10:39 test.i
+-rw-rw-r--  1 shaik shaik     101 Jul 30 10:40 test_macro.c
+-rw-rw-r--  1 shaik shaik      73 Jul 30 14:54 test_printf.c
+drwxrwxr-x  2 shaik shaik    4096 Aug 15 14:17 typedef
+drwxrwxr-x  2 shaik shaik    4096 Nov 20 16:08 unions
+-rw-rw-r--  1 shaik shaik     148 Oct  1 20:31 void_test.c
+-rw-rw-r--  1 shaik shaik   24284 Nov 27 13:02 while2.c
+-rw-rw-r--  1 shaik shaik      97 Sep  4 08:25 while.c
+-rw-rw-r--  1 shaik shaik       0 Sep  4 08:45 while.c.245t.statistics
+-rw-rw-r--  1 shaik shaik      94 Jul 25 16:44 while_loop.c
+
+./c/exp/bitwise:
+total 120
+-rw-rw-r--  1 shaik shaik     0 Aug  6 09:22 =
+drwxrwxr-x  8 shaik shaik  4096 Aug  6 20:57 .
+drwxrwxr-x 29 shaik shaik  4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik   505 Aug  4 11:28 '
+-rw-rw-r--  1 shaik shaik   991 Aug  5 12:00 \
+-rwxrwxr-x  1 shaik shaik  7362 Aug  6 20:06 a.out
+-rw-rw-r--  1 shaik shaik   654 Aug  4 16:45 assignment_4.c
+-rw-rw-r--  1 shaik shaik  1451 Aug  5 15:05 assignment_8.c
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 18:57 assignments_11
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 20:20 assignments_12
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 18:55 assignments_6
+drwxrwxr-x  2 shaik shaik  4096 Aug 11 15:37 assignments_9
+-rw-rw-r--  1 shaik shaik   140 Aug  6 12:51 bin.c
+-rw-rw-r--  1 shaik shaik     0 Aug  6 09:06 c
+-rw-rw-r--  1 shaik shaik   991 Aug  4 12:56 count_bits.c
+-rw-rw-r--  1 shaik shaik   286 Aug  3 19:20 dec_to_binary.c
+-rw-------  1 shaik shaik 12288 Aug  3 20:00 .even_bits.c.swp
+-rw-rw-r--  1 shaik shaik    97 Aug  6 20:23 example.c
+-rw-r--r--  1 root  root     19 Aug  6 12:51 header.h
+-rw-rw-r--  1 shaik shaik   112 Aug  6 14:22 left_rotate.c
+-rw-rw-r--  1 shaik shaik   332 Aug  6 14:43 main.c
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 11:13 make
+-rw-rw-r--  1 shaik shaik   776 Aug  2 19:00 mask.c
+-rw-rw-r--  1 shaik shaik   334 Aug  2 20:04 rotate.c
+-rw-rw-r--  1 shaik shaik    96 Aug  3 19:58 size.c
+drwxrwxr-x  2 shaik shaik  4096 Aug  2 12:37 sizeof
+-rw-rw-r--  1 shaik shaik   458 Aug  3 17:44 swap_bits.c
+-rw-rw-r--  1 shaik shaik   720 Aug  3 19:33 swap_external.c
+-rw-rw-r--  1 shaik shaik   496 Aug  4 15:51 ts_bits.c
+
+./c/exp/bitwise/assignments_11:
+total 28
+drwxrwxr-x 2 shaik shaik 4096 Aug  6 18:57 .
+drwxrwxr-x 8 shaik shaik 4096 Aug  6 20:57 ..
+-rwxrwxr-x 1 shaik shaik 7595 Aug  6 18:44 a.out
+-rw-rw-r-- 1 shaik shaik  286 Aug  6 18:20 dec_to_binary.c
+-rw-rw-r-- 1 shaik shaik  155 Aug  6 18:57 invert.c
+-rw-rw-r-- 1 shaik shaik  444 Aug  6 18:44 main.c
+
+./c/exp/bitwise/assignments_12:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Aug  6 20:20 .
+drwxrwxr-x 8 shaik shaik 4096 Aug  6 20:57 ..
+-rw-rw-r-- 1 shaik shaik   73 Aug  6 20:17 main.c
+
+./c/exp/bitwise/assignments_6:
+total 40
+drwxrwxr-x 2 shaik shaik 4096 Aug  6 18:55 .
+drwxrwxr-x 8 shaik shaik 4096 Aug  6 20:57 ..
+-rwxrwxr-x 1 shaik shaik 7811 Aug  6 14:58 a.out
+-rw-rw-r-- 1 shaik shaik  286 Aug  6 14:40 dec_to_binary.c
+-rw-rw-r-- 1 shaik shaik  119 Aug  6 14:48 left_rotate.c
+-rw-rw-r-- 1 shaik shaik  149 Aug  6 14:46 left_rotate_n.c
+-rw-rw-r-- 1 shaik shaik 1268 Aug  6 18:55 main.c
+-rw-rw-r-- 1 shaik shaik  110 Aug  6 17:52 right_rotate.c
+-rw-rw-r-- 1 shaik shaik  170 Aug  6 14:45 right_rotate_n.c
+
+./c/exp/bitwise/assignments_9:
+total 20
+drwxrwxr-x 2 shaik shaik 4096 Aug 11 15:37 .
+drwxrwxr-x 8 shaik shaik 4096 Aug  6 20:57 ..
+-rw-rw-r-- 1 shaik shaik  947 Aug  6 19:04 main
+-rw-rw-r-- 1 shaik shaik 1406 Aug  6 20:21 main.c
+-rw-rw-r-- 1 shaik shaik   69 Aug 11 15:37 toggle.c
+
+./c/exp/bitwise/make:
+total 60
+drwxrwxr-x 2 shaik shaik 4096 Aug  6 11:13 .
+drwxrwxr-x 8 shaik shaik 4096 Aug  6 20:57 ..
+-rwxrwxr-x 1 shaik shaik 7475 Aug  6 11:13 app
+-rw-rw-r-- 1 shaik shaik   78 Aug  6 11:08 fun_a.c
+-rw-rw-r-- 1 shaik shaik 1072 Aug  6 11:11 fun_a.o
+-rw-rw-r-- 1 shaik shaik   77 Aug  6 11:09 fun_b.c
+-rw-rw-r-- 1 shaik shaik 1072 Aug  6 11:09 fun_b.o
+-rw-rw-r-- 1 shaik shaik   55 Aug  6 10:43 fun_c.c
+-rw-rw-r-- 1 shaik shaik 1028 Aug  6 10:51 fun_c.o
+-rw-rw-r-- 1 shaik shaik   68 Aug  6 10:47 header.h
+-rw-rw-r-- 1 shaik shaik   84 Aug  6 10:39 main.c
+-rw-rw-r-- 1 shaik shaik 1068 Aug  6 10:50 main.o
+-rw-rw-r-- 1 shaik shaik   63 Aug  6 11:00 make
+-rw-rw-r-- 1 shaik shaik  222 Aug  6 11:13 makefile
+
+./c/exp/bitwise/sizeof:
+total 20
+drwxrwxr-x 2 shaik shaik 4096 Aug  2 12:37 .
+drwxrwxr-x 8 shaik shaik 4096 Aug  6 20:57 ..
+-rwxrwxr-x 1 shaik shaik 7337 Aug  2 12:37 a.out
+-rw-rw-r-- 1 shaik shaik   66 Aug  2 12:37 exp.c
+
+./c/exp/bitwise2:
+total 1216
+-rw-rw-r--  1 shaik shaik       0 Aug  6 09:22 =
+drwxrwxr-x 12 shaik shaik    4096 Aug  8 20:07 .
+drwxrwxr-x 29 shaik shaik    4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik     505 Aug  4 11:28 '
+-rw-rw-r--  1 shaik shaik     991 Aug  5 12:00 \
+drwxrwxr-x  2 shaik shaik    4096 Aug  9 11:10 assignment
+drwxr-xr-x  2 shaik shaik    4096 Aug  8 12:26 assignment_3
+drwxrwxr-x  4 shaik shaik    4096 Aug  8 10:21 assignments_11
+drwxrwxr-x  2 shaik shaik    4096 Aug  6 23:16 assignments_12
+drwxrwxr-x  2 shaik shaik    4096 Aug  6 18:55 assignments_6
+drwxrwxr-x  2 shaik shaik    4096 Aug  8 08:23 assignments_8
+drwxrwxr-x  2 shaik shaik    4096 Aug  9 18:58 assignments_9
+-rw-rw-r--  1 shaik shaik     140 Aug  8 19:25 bin.c
+drwxrwxr-x 10 shaik shaik    4096 Aug  8 15:41 bitwise
+-rw-rw-r--  1 shaik shaik       0 Aug  6 09:06 c
+-rw-rw-r--  1 shaik shaik      97 Aug  6 20:23 example.c
+-rw-rw-r--  1 shaik shaik    1648 Aug  8 19:06 file.c
+-rw-rw-r--  1 shaik shaik 1156252 Aug  8 19:35 header.h.gch
+-rw-rw-r--  1 shaik shaik    2706 Aug  8 20:07 main.c
+drwxrwxr-x  2 shaik shaik    4096 Aug  6 11:13 make
+-rw-rw-r--  1 shaik shaik     776 Aug  2 19:00 mask.c
+-rw-rw-r--  1 shaik shaik     334 Aug  2 20:04 rotate.c
+-rw-rw-r--  1 shaik shaik      96 Aug  3 19:58 size.c
+drwxrwxr-x  2 shaik shaik    4096 Aug  2 12:37 sizeof
+
+./c/exp/bitwise2/assignment:
+total 1196
+drwxrwxr-x  2 shaik shaik    4096 Aug  9 11:10 .
+drwxrwxr-x 12 shaik shaik    4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik    7555 Aug  9 11:05 a.out
+-rw-rw-r--  1 shaik shaik     304 Aug  8 19:33 assignment_4.c
+-rw-rw-r--  1 shaik shaik    1455 Aug  8 20:21 assignment_8.c
+-rw-rw-r--  1 shaik shaik     969 Aug  9 11:10 assignment_9.c
+-rw-rw-r--  1 shaik shaik     379 Aug  8 12:26 bits_copy.c
+-rw-rw-r--  1 shaik shaik     795 Aug  8 20:19 count_bits.c
+-rw-rw-r--  1 shaik shaik     286 Aug  3 19:20 dec_to_binary.c
+-rw-r--r--  1 shaik shaik     148 Aug  8 20:18 header.h
+-rw-rw-r--  1 shaik shaik 1156252 Aug  8 20:37 header.h.gch
+-rw-rw-r--  1 shaik shaik     112 Aug  6 14:22 left_rotate.c
+-rw-rw-r--  1 shaik shaik    2706 Aug  8 20:36 main.c
+-rw-rw-r--  1 shaik shaik     285 Aug  8 15:42 swap_bits.c
+-rw-rw-r--  1 shaik shaik     387 Aug  8 18:13 swap_external.c
+-rw-rw-r--  1 shaik shaik     500 Aug  8 20:20 ts_bits.c
+
+./c/exp/bitwise2/assignment_3:
+total 28
+drwxr-xr-x  2 shaik shaik 4096 Aug  8 12:26 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik 7600 Aug  8 11:31 app
+-rw-rw-r--  1 shaik shaik  379 Aug  8 12:26 bits_copy.c
+-rw-r--r--  1 shaik shaik  286 Aug  7 01:08 dec_to_binary.c
+-rw-r--r--  1 shaik shaik  807 Aug  7 10:11 main.c
+
+./c/exp/bitwise2/assignments_11:
+total 36
+drwxrwxr-x  4 shaik shaik 4096 Aug  8 10:21 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik 7595 Aug  7 18:21 a.out
+drwxr-xr-x  2 shaik shaik 4096 Aug  7 01:00 assignments_10
+drwxr-xr-x  2 shaik shaik 4096 Aug  6 23:58 bitwise
+-rw-rw-r--  1 shaik shaik  286 Aug  6 18:20 dec_to_binary.c
+-rw-rw-r--  1 shaik shaik  155 Aug  8 10:21 invert.c
+-rw-rw-r--  1 shaik shaik  444 Aug  7 00:32 main.c
+
+./c/exp/bitwise2/assignments_11/assignments_10:
+total 32
+drwxr-xr-x 2 shaik shaik 4096 Aug  7 01:00 .
+drwxrwxr-x 4 shaik shaik 4096 Aug  8 10:21 ..
+-rwxr-xr-x 1 shaik shaik 8616 Aug  7 00:26 a.out
+-rw-r--r-- 1 shaik shaik  126 Aug  7 00:26 copy_bits.c
+-rw-r--r-- 1 shaik shaik  286 Aug  6 23:59 dec_to_binary.c
+-rw-r--r-- 1 shaik shaik  639 Aug  7 00:29 main.c
+
+./c/exp/bitwise2/assignments_11/bitwise:
+total 16
+drwxr-xr-x 2 shaik shaik 4096 Aug  6 23:58 .
+drwxrwxr-x 4 shaik shaik 4096 Aug  8 10:21 ..
+-rw-r--r-- 1 shaik shaik  128 Aug  6 23:58 copy_bits.c
+-rw-r--r-- 1 shaik shaik  637 Aug  6 23:58 main.c
+
+./c/exp/bitwise2/assignments_12:
+total 28
+drwxrwxr-x  2 shaik shaik 4096 Aug  6 23:16 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxr-xr-x  1 shaik shaik 8544 Aug  6 23:16 a.out
+-rw-r--r--  1 shaik shaik  286 Aug  6 22:52 dec_to_binary.c
+-rw-rw-r--  1 shaik shaik  506 Aug  6 23:16 main.c
+
+./c/exp/bitwise2/assignments_6:
+total 40
+drwxrwxr-x  2 shaik shaik 4096 Aug  6 18:55 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik 7811 Aug  6 14:58 a.out
+-rw-rw-r--  1 shaik shaik  286 Aug  6 14:40 dec_to_binary.c
+-rw-rw-r--  1 shaik shaik  119 Aug  6 14:48 left_rotate.c
+-rw-rw-r--  1 shaik shaik  149 Aug  6 14:46 left_rotate_n.c
+-rw-rw-r--  1 shaik shaik 1268 Aug  6 18:55 main.c
+-rw-rw-r--  1 shaik shaik  110 Aug  6 17:52 right_rotate.c
+-rw-rw-r--  1 shaik shaik  170 Aug  6 14:45 right_rotate_n.c
+
+./c/exp/bitwise2/assignments_8:
+total 24
+drwxrwxr-x  2 shaik shaik 4096 Aug  8 08:23 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik 7831 Aug  8 08:21 app
+-rw-rw-r--  1 shaik shaik 1896 Aug  8 08:21 assignment_8.c
+-rw-rw-r--  1 shaik shaik  286 Aug  7 19:16 dec_to_binary.c
+
+./c/exp/bitwise2/assignments_9:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Aug  9 18:58 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rw-rw-r--  1 shaik shaik  947 Aug  6 19:04 main
+-rw-rw-r--  1 shaik shaik 1406 Aug  6 20:21 main.c
+-rw-rw-r--  1 shaik shaik   69 Aug  9 18:58 toggle.c
+
+./c/exp/bitwise2/bitwise:
+total 128
+-rw-rw-r--  1 shaik shaik     0 Aug  6 09:22 =
+drwxrwxr-x 10 shaik shaik  4096 Aug  8 15:41 .
+drwxrwxr-x 12 shaik shaik  4096 Aug  8 20:07 ..
+-rw-rw-r--  1 shaik shaik   505 Aug  4 11:28 '
+-rw-rw-r--  1 shaik shaik   991 Aug  5 12:00 \
+-rwxrwxr-x  1 shaik shaik  7398 Aug  8 11:55 a.out
+drwxr-xr-x  2 shaik shaik  4096 Aug  8 12:26 assignment_3
+-rw-rw-r--  1 shaik shaik   304 Aug  8 12:33 assignment_4.c
+-rw-rw-r--  1 shaik shaik  1451 Aug  7 18:34 assignment_8.c
+drwxrwxr-x  4 shaik shaik  4096 Aug  8 10:21 assignments_11
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 23:16 assignments_12
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 18:55 assignments_6
+drwxrwxr-x  2 shaik shaik  4096 Aug  8 08:23 assignments_8
+drwxrwxr-x  2 shaik shaik  4096 Aug  9 10:53 assignments_9
+-rw-rw-r--  1 shaik shaik   140 Aug  6 12:51 bin.c
+-rw-rw-r--  1 shaik shaik     0 Aug  6 09:06 c
+-rw-rw-r--  1 shaik shaik   991 Aug  4 12:56 count_bits.c
+-rw-rw-r--  1 shaik shaik   286 Aug  3 19:20 dec_to_binary.c
+-rw-------  1 shaik shaik 12288 Aug  3 20:00 .even_bits.c.swp
+-rw-rw-r--  1 shaik shaik    97 Aug  6 20:23 example.c
+-rw-r--r--  1 shaik shaik   128 Aug  8 12:38 header.h
+-rw-rw-r--  1 shaik shaik   112 Aug  6 14:22 left_rotate.c
+-rw-rw-r--  1 shaik shaik   332 Aug  8 15:41 main.c
+drwxrwxr-x  2 shaik shaik  4096 Aug  6 11:13 make
+-rw-rw-r--  1 shaik shaik   776 Aug  2 19:00 mask.c
+-rw-rw-r--  1 shaik shaik   334 Aug  2 20:04 rotate.c
+-rw-rw-r--  1 shaik shaik    96 Aug  3 19:58 size.c
+drwxrwxr-x  2 shaik shaik  4096 Aug  2 12:37 sizeof
+-rw-rw-r--  1 shaik shaik   285 Aug  8 12:13 swap_bits.c
+-rw-rw-r--  1 shaik shaik   386 Aug  8 12:18 swap_external.c
+-rw-rw-r--  1 shaik shaik   496 Aug  8 12:38 ts_bits.c
+
+./c/exp/bitwise2/bitwise/assignment_3:
+total 28
+drwxr-xr-x  2 shaik shaik 4096 Aug  8 12:26 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxrwxr-x  1 shaik shaik 7600 Aug  8 11:31 app
+-rw-rw-r--  1 shaik shaik  379 Aug  8 12:26 bits_copy.c
+-rw-r--r--  1 shaik shaik  286 Aug  7 01:08 dec_to_binary.c
+-rw-r--r--  1 shaik shaik  807 Aug  7 10:11 main.c
+
+./c/exp/bitwise2/bitwise/assignments_11:
+total 36
+drwxrwxr-x  4 shaik shaik 4096 Aug  8 10:21 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxrwxr-x  1 shaik shaik 7595 Aug  7 18:21 a.out
+drwxr-xr-x  2 shaik shaik 4096 Aug  7 01:00 assignments_10
+drwxr-xr-x  2 shaik shaik 4096 Aug  6 23:58 bitwise
+-rw-rw-r--  1 shaik shaik  286 Aug  6 18:20 dec_to_binary.c
+-rw-rw-r--  1 shaik shaik  155 Aug  8 10:21 invert.c
+-rw-rw-r--  1 shaik shaik  444 Aug  7 00:32 main.c
+
+./c/exp/bitwise2/bitwise/assignments_11/assignments_10:
+total 32
+drwxr-xr-x 2 shaik shaik 4096 Aug  7 01:00 .
+drwxrwxr-x 4 shaik shaik 4096 Aug  8 10:21 ..
+-rwxr-xr-x 1 shaik shaik 8616 Aug  7 00:26 a.out
+-rw-r--r-- 1 shaik shaik  126 Aug  7 00:26 copy_bits.c
+-rw-r--r-- 1 shaik shaik  286 Aug  6 23:59 dec_to_binary.c
+-rw-r--r-- 1 shaik shaik  639 Aug  7 00:29 main.c
+
+./c/exp/bitwise2/bitwise/assignments_11/bitwise:
+total 16
+drwxr-xr-x 2 shaik shaik 4096 Aug  6 23:58 .
+drwxrwxr-x 4 shaik shaik 4096 Aug  8 10:21 ..
+-rw-r--r-- 1 shaik shaik  128 Aug  6 23:58 copy_bits.c
+-rw-r--r-- 1 shaik shaik  637 Aug  6 23:58 main.c
+
+./c/exp/bitwise2/bitwise/assignments_12:
+total 28
+drwxrwxr-x  2 shaik shaik 4096 Aug  6 23:16 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxr-xr-x  1 shaik shaik 8544 Aug  6 23:16 a.out
+-rw-r--r--  1 shaik shaik  286 Aug  6 22:52 dec_to_binary.c
+-rw-rw-r--  1 shaik shaik  506 Aug  6 23:16 main.c
+
+./c/exp/bitwise2/bitwise/assignments_6:
+total 40
+drwxrwxr-x  2 shaik shaik 4096 Aug  6 18:55 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxrwxr-x  1 shaik shaik 7811 Aug  6 14:58 a.out
+-rw-rw-r--  1 shaik shaik  286 Aug  6 14:40 dec_to_binary.c
+-rw-rw-r--  1 shaik shaik  119 Aug  6 14:48 left_rotate.c
+-rw-rw-r--  1 shaik shaik  149 Aug  6 14:46 left_rotate_n.c
+-rw-rw-r--  1 shaik shaik 1268 Aug  6 18:55 main.c
+-rw-rw-r--  1 shaik shaik  110 Aug  6 17:52 right_rotate.c
+-rw-rw-r--  1 shaik shaik  170 Aug  6 14:45 right_rotate_n.c
+
+./c/exp/bitwise2/bitwise/assignments_8:
+total 24
+drwxrwxr-x  2 shaik shaik 4096 Aug  8 08:23 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxrwxr-x  1 shaik shaik 7831 Aug  8 08:21 app
+-rw-rw-r--  1 shaik shaik 1896 Aug  8 08:21 assignment_8.c
+-rw-rw-r--  1 shaik shaik  286 Aug  7 19:16 dec_to_binary.c
+
+./c/exp/bitwise2/bitwise/assignments_9:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Aug  9 10:53 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rw-rw-r--  1 shaik shaik  947 Aug  6 19:04 main
+-rw-rw-r--  1 shaik shaik 1406 Aug  9 10:53 main.c
+-rw-rw-r--  1 shaik shaik   69 Aug  6 20:22 toggle.c
+
+./c/exp/bitwise2/bitwise/make:
+total 60
+drwxrwxr-x  2 shaik shaik 4096 Aug  6 11:13 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxrwxr-x  1 shaik shaik 7475 Aug  6 11:13 app
+-rw-rw-r--  1 shaik shaik   78 Aug  6 11:08 fun_a.c
+-rw-rw-r--  1 shaik shaik 1072 Aug  6 11:11 fun_a.o
+-rw-rw-r--  1 shaik shaik   77 Aug  6 11:09 fun_b.c
+-rw-rw-r--  1 shaik shaik 1072 Aug  6 11:09 fun_b.o
+-rw-rw-r--  1 shaik shaik   55 Aug  6 10:43 fun_c.c
+-rw-rw-r--  1 shaik shaik 1028 Aug  6 10:51 fun_c.o
+-rw-rw-r--  1 shaik shaik   68 Aug  6 10:47 header.h
+-rw-rw-r--  1 shaik shaik   84 Aug  6 10:39 main.c
+-rw-rw-r--  1 shaik shaik 1068 Aug  6 10:50 main.o
+-rw-rw-r--  1 shaik shaik   63 Aug  6 11:00 make
+-rw-rw-r--  1 shaik shaik  222 Aug  6 11:13 makefile
+
+./c/exp/bitwise2/bitwise/sizeof:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Aug  2 12:37 .
+drwxrwxr-x 10 shaik shaik 4096 Aug  8 15:41 ..
+-rwxrwxr-x  1 shaik shaik 7337 Aug  2 12:37 a.out
+-rw-rw-r--  1 shaik shaik   66 Aug  2 12:37 exp.c
+
+./c/exp/bitwise2/make:
+total 60
+drwxrwxr-x  2 shaik shaik 4096 Aug  6 11:13 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik 7475 Aug  6 11:13 app
+-rw-rw-r--  1 shaik shaik   78 Aug  6 11:08 fun_a.c
+-rw-rw-r--  1 shaik shaik 1072 Aug  6 11:11 fun_a.o
+-rw-rw-r--  1 shaik shaik   77 Aug  6 11:09 fun_b.c
+-rw-rw-r--  1 shaik shaik 1072 Aug  6 11:09 fun_b.o
+-rw-rw-r--  1 shaik shaik   55 Aug  6 10:43 fun_c.c
+-rw-rw-r--  1 shaik shaik 1028 Aug  6 10:51 fun_c.o
+-rw-rw-r--  1 shaik shaik   68 Aug  6 10:47 header.h
+-rw-rw-r--  1 shaik shaik   84 Aug  6 10:39 main.c
+-rw-rw-r--  1 shaik shaik 1068 Aug  6 10:50 main.o
+-rw-rw-r--  1 shaik shaik   63 Aug  6 11:00 make
+-rw-rw-r--  1 shaik shaik  222 Aug  6 11:13 makefile
+
+./c/exp/bitwise2/sizeof:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Aug  2 12:37 .
+drwxrwxr-x 12 shaik shaik 4096 Aug  8 20:07 ..
+-rwxrwxr-x  1 shaik shaik 7337 Aug  2 12:37 a.out
+-rw-rw-r--  1 shaik shaik   66 Aug  2 12:37 exp.c
+
+./c/exp/call_back_fun:
+total 8
+drwxrwxr-x  2 shaik shaik 4096 Oct 11 11:19 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+
+./c/exp/doselect:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Nov  6 14:36 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7689 Nov  6 10:20 a.out
+-rw-rw-r--  1 shaik shaik 1713 Nov  6 14:36 doselect.c
+
+./c/exp/enum:
+total 32
+drwxrwxr-x  2 shaik shaik 4096 Jul 31 12:31 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik  431 Jul 31 12:21 \
+-rwxrwxr-x  1 shaik shaik 7339 Jul 31 12:25 enum
+-rw-rw-r--  1 shaik shaik  162 Jul 31 10:40 enum_1.c
+-rw-rw-r--  1 shaik shaik  255 Jul 31 10:52 enum_2.c
+-rw-rw-r--  1 shaik shaik  457 Jul 31 12:31 enum_3.c
+
+./c/exp/file:
+total 52
+drwxrwxr-x  2 shaik shaik 4096 Oct 26 10:48 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7677 Oct 26 10:43 a.out
+-rw-rw-r--  1 shaik shaik  376 Oct 26 10:19 exp1.c
+-rw-rw-r--  1 shaik shaik  464 Aug 28 17:57 exp2.c
+-rw-rw-r--  1 shaik shaik  138 Aug 28 19:43 fdfkdh.c
+-rw-rw-r--  1 shaik shaik  275 Aug 28 18:47 fopen.c
+-rwxrwxr-x  1 shaik shaik 7677 Oct 26 10:41 fread
+-rw-rw-r--  1 shaik shaik  316 Aug 28 19:38 fread.c
+-rw-rw-r--  1 shaik shaik  726 Oct 26 10:48 freadexp.c
+-rw-rw-r--  1 shaik shaik    0 Oct 26 10:44 new.txt
+-rw-rw-r--  1 shaik shaik   51 Oct 26 10:35 sample.txt
+
+./c/exp/function_pointers:
+total 36
+drwxrwxr-x  4 shaik shaik 4096 Dec  3 20:10 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+drwxrwxr-x  2 shaik shaik 4096 Nov 20 10:22 call_back
+-rw-rw-r--  1 shaik shaik    0 Oct  9 18:43 fork.c
+-rw-rw-r--  1 shaik shaik  119 Nov 20 10:10 fp2.c
+-rw-rw-r--  1 shaik shaik  284 Oct 15 13:56 fp.c
+-rw-rw-r--  1 shaik shaik   38 Oct  9 14:39 func.c
+-rw-rw-r--  1 shaik shaik   52 Oct  4 19:59 header.h
+-rw-rw-r--  1 shaik shaik  487 Nov 19 12:07 inline_func_exp.c
+drwxrwxr-x  2 shaik shaik 4096 Nov 20 17:08 static_func_access_out
+
+./c/exp/function_pointers/call_back:
+total 20
+drwxrwxr-x 2 shaik shaik 4096 Nov 20 10:22 .
+drwxrwxr-x 4 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x 1 shaik shaik 7588 Oct 15 14:18 a.out
+-rw-rw-r-- 1 shaik shaik 1242 Oct 15 14:43 main.c
+
+./c/exp/function_pointers/static_func_access_out:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Nov 20 17:08 .
+drwxrwxr-x 4 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r-- 1 shaik shaik  193 Nov 20 10:58 ]
+-rwxrwxr-x 1 shaik shaik 7416 Nov 20 11:13 a.out
+-rw-rw-r-- 1 shaik shaik  191 Nov 20 16:34 main.c
+-rw-rw-r-- 1 shaik shaik 1124 Nov 20 11:13 main.o
+-rw-rw-r-- 1 shaik shaik  203 Nov 20 17:08 out.c
+-rw-rw-r-- 1 shaik shaik 1084 Nov 20 11:11 out.o
+
+./c/exp/goto_experiments:
+total 24
+drwxrwxr-x  2 shaik shaik 4096 Aug  2 17:24 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7337 Aug  2 16:13 a.out
+-rw-rw-r--  1 shaik shaik  124 Aug  2 17:24 exp1.c
+-rw-rw-r--  1 shaik shaik   77 Aug  2 15:59 exp2.c
+
+./c/exp/hjsdfhsj:
+total 8
+drwxrwxr-x  2 shaik shaik 4096 Sep  3 09:53 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+
+./c/exp/interview:
+total 40
+drwxrwxr-x  2 shaik shaik  4096 Nov 19 16:03 .
+drwxrwxr-x 29 shaik shaik  4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik  7345 Nov 19 16:03 a.out
+-rw-rw-r--  1 shaik shaik   379 Nov 19 16:03 size_of_null.c
+-rw-r--r--  1 shaik shaik 12288 Nov 19 16:03 .size_of_null.c.swp
+-rw-rw-r--  1 shaik shaik  1224 Nov 16 16:44 size_of_null.o
+-rw-rw-r--  1 shaik shaik   400 Nov 16 18:45 type_of.c
+
+./c/exp/kruthika@172.16.5.25:
+total 32
+drwxrwxr-x  2 shaik shaik 4096 Aug 16 10:00 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik  431 Aug 16 10:00 \
+-rwxrwxr-x  1 shaik shaik 7339 Aug 16 10:00 enum
+-rw-rw-r--  1 shaik shaik  162 Aug 16 10:00 enum_1.c
+-rw-rw-r--  1 shaik shaik  255 Aug 16 10:00 enum_2.c
+-rw-rw-r--  1 shaik shaik  457 Aug 16 10:00 enum_3.c
+
+./c/exp/malloc_magic:
+total 24
+drwxrwxr-x  2 shaik shaik 4096 Nov 29 19:58 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7378 Nov 27 14:49 a.out
+-rw-rw-r--  1 shaik shaik  264 Nov 29 19:58 malloc2.c
+-rw-rw-r--  1 shaik shaik  243 Nov 27 14:38 str_cpy.c
+
+./c/exp/my_editor:
+total 12
+drwxrwxr-x  2 shaik shaik 4096 Nov 22 10:09 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik  293 Nov 22 10:09 vim.c
+
+./c/exp/pointer:
+total 512
+drwxrwxr-x  2 shaik shaik  4096 Nov 19 20:11 .
+drwxrwxr-x 29 shaik shaik  4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik    90 Aug 16 16:23 \
+-rw-rw-r--  1 shaik shaik   127 Oct 11 11:10 a.c
+-rw-rw-r--  1 shaik shaik   876 Oct 11 11:11 a.o
+-rwxrwxr-x  1 shaik shaik  7425 Nov 19 16:40 a.out
+-rwxrwxr-x  1 shaik shaik  7340 Oct 11 10:53 app
+-rw-rw-r--  1 shaik shaik   230 Aug 17 19:19 array.c
+-rw-rw-r--  1 shaik shaik    13 Oct 11 10:53 b.c
+-rw-rw-r--  1 shaik shaik   669 Oct 11 10:50 b.o
+-rw-rw-r--  1 shaik shaik   783 Oct 10 20:21 double_pointer.c
+-rw-rw-r--  1 shaik shaik 20385 Oct 10 14:19 double_pointer.c.166r.expand
+-rw-rw-r--  1 shaik shaik  8648 Oct 10 14:19 double_pointer.c.167r.vregs
+-rw-rw-r--  1 shaik shaik  8649 Oct 10 14:19 double_pointer.c.168r.into_cfglayout
+-rw-rw-r--  1 shaik shaik 17517 Oct 10 14:19 double_pointer.c.169r.jump
+-rw-rw-r--  1 shaik shaik  8617 Oct 10 14:19 double_pointer.c.181r.reginfo
+-rw-rw-r--  1 shaik shaik  8681 Oct 10 14:19 double_pointer.c.201r.outof_cfglayout
+-rw-rw-r--  1 shaik shaik  8648 Oct 10 14:19 double_pointer.c.202r.split1
+-rw-rw-r--  1 shaik shaik 10278 Oct 10 14:19 double_pointer.c.204r.dfinit
+-rw-rw-r--  1 shaik shaik 10266 Oct 10 14:19 double_pointer.c.205r.mode_sw
+-rw-rw-r--  1 shaik shaik 10184 Oct 10 14:19 double_pointer.c.206r.asmcons
+-rw-rw-r--  1 shaik shaik 19559 Oct 10 14:19 double_pointer.c.209r.ira
+-rw-rw-r--  1 shaik shaik 19685 Oct 10 14:19 double_pointer.c.210r.reload
+-rw-rw-r--  1 shaik shaik 11022 Oct 10 14:19 double_pointer.c.213r.split2
+-rw-rw-r--  1 shaik shaik 12605 Oct 10 14:19 double_pointer.c.217r.pro_and_epilogue
+-rw-rw-r--  1 shaik shaik 12087 Oct 10 14:19 double_pointer.c.220r.jump2
+-rw-rw-r--  1 shaik shaik 12137 Oct 10 15:41 double_pointer.c.231r.stack
+-rw-rw-r--  1 shaik shaik 12055 Oct 10 14:19 double_pointer.c.232r.alignments
+-rw-rw-r--  1 shaik shaik 11334 Oct 10 14:19 double_pointer.c.235r.mach
+-rw-rw-r--  1 shaik shaik 11334 Oct 10 14:19 double_pointer.c.236r.barriers
+-rw-rw-r--  1 shaik shaik 11446 Oct 10 14:19 double_pointer.c.240r.shorten
+-rw-rw-r--  1 shaik shaik 11446 Oct 10 14:19 double_pointer.c.241r.nothrow
+-rw-rw-r--  1 shaik shaik 12084 Oct 10 14:19 double_pointer.c.242r.dwarf2
+-rw-rw-r--  1 shaik shaik 11591 Oct 10 14:19 double_pointer.c.243r.final
+-rw-rw-r--  1 shaik shaik 10194 Oct 10 14:19 double_pointer.c.244r.dfinish
+-rw-r--r--  1 shaik shaik 12288 Oct 10 19:21 .double_pointer.c.swp
+-rw-rw-r--  1 shaik shaik   397 Nov 19 20:11 double_pointer_exp.c
+-rwxrwxr-x  1 shaik shaik  7337 Aug 16 15:59 exp
+-rw-rw-r--  1 shaik shaik   207 Aug 16 11:00 exp2.c
+-rw-rw-r--  1 shaik shaik   111 Aug 16 11:13 exp3.c
+-rw-rw-r--  1 shaik shaik   111 Aug 16 11:45 exp4.c
+-rw-rw-r--  1 shaik shaik   226 Oct 11 10:49 exp.c
+-rwxrwxr-x  1 shaik shaik  8410 Oct 10 10:12 int_point
+-rw-rw-r--  1 shaik shaik   130 Oct 10 10:11 int_point.c
+-rw-rw-r--  1 shaik shaik   807 Aug 24 14:58 my_strtok.c
+-rw-rw-r--  1 shaik shaik     5 Oct 10 10:08 obj_ptr.c
+-rw-rw-r--  1 shaik shaik   280 Oct 26 12:38 pointer1.c
+-rw-rw-r--  1 shaik shaik   455 Oct 26 12:38 pointer2.c
+-rw-rw-r--  1 shaik shaik  1332 Aug 17 16:59 pointer2.o
+-rw-rw-r--  1 shaik shaik   124 Aug 20 19:28 pointer_arithmatic.c
+-rw-rw-r--  1 shaik shaik   174 Aug 16 19:57 pointer.c
+-rw-rw-r--  1 shaik shaik   107 Aug 20 20:21 pointer_l.c
+-rw-rw-r--  1 shaik shaik   238 Nov 16 08:58 pointer_to_array.c
+-rw-rw-r--  1 shaik shaik   118 Aug 16 12:43 ptr01.c
+-rw-rw-r--  1 shaik shaik   208 Aug 16 19:56 ptr02.c
+-rw-rw-r--  1 shaik shaik   122 Aug 16 14:09 ptr03.c
+-rw-rw-r--  1 shaik shaik   131 Aug 16 11:49 ptr1.c
+-rw-rw-r--  1 shaik shaik   529 Aug 24 17:40 str_cmp.c
+-rw-rw-r--  1 shaik shaik   205 Aug 17 11:02 strcmp.c
+-rw-rw-r--  1 shaik shaik     0 Aug 24 15:05 str_cmp.swp.c
+-rw-rw-r--  1 shaik shaik   459 Nov 19 18:00 strtok.c
+-rw-------  1 shaik shaik 12288 Aug 17 09:03 .str_tok.c.swp
+-rw-rw-r--  1 shaik shaik   119 Aug 20 10:41 volatle.c
+
+./c/exp/printf_examples:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Jul 31 11:57 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7389 Jul 31 11:57 experiment
+-rw-rw-r--  1 shaik shaik   98 Jul 31 11:45 experiment_1.c
+
+./c/exp/process_management:
+total 124
+drwxrwxr-x  5 shaik shaik 4096 Oct 22 20:28 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik 1003 Oct 17 14:58 2_thread.c
+-rwxrwxr-x  1 shaik shaik 7990 Oct 17 17:36 a.out
+-rwxrwxr-x  1 shaik shaik 7654 Oct 16 09:56 app
+-rwxrwxr-x  1 shaik shaik 7486 Oct 11 16:20 execv
+-rw-rw-r--  1 shaik shaik  348 Oct 15 10:30 execv.c
+-rwxrwxr-x  1 shaik shaik 7596 Oct 11 12:57 fork
+-rw-rw-r--  1 shaik shaik 1053 Oct 12 11:39 fork.c
+-rw-rw-r--  1 shaik shaik   58 Oct  9 15:40 global.c
+-rwxrwxr-x  1 shaik shaik 7457 Oct 11 16:21 hello_execv
+-rw-rw-r--  1 shaik shaik  242 Oct 12 12:14 hello_execv.c
+drwxrwxr-x  2 shaik shaik 4096 Oct 22 20:02 mutex
+-rw-rw-r--  1 shaik shaik    0 Oct 22 20:21 mutex.c
+-rwxrwxr-x  1 shaik shaik 7990 Oct 22 14:38 odd
+-rw-rw-r--  1 shaik shaik 1632 Oct 22 14:38 odd.c
+-rw-rw-r--  1 shaik shaik  320 Oct 22 20:21 pthread_attribute.c
+drwxrwxr-x  2 shaik shaik 4096 Oct 16 15:41 semaphore
+-rwxrwxr-x  1 shaik shaik 7669 Oct 12 12:00 shell
+-rw-rw-r--  1 shaik shaik  596 Oct 15 20:05 shell.c
+drwxrwxr-x  2 shaik shaik 4096 Oct 22 14:35 signals
+-rwxr-xr-x  1 root  root  7744 Oct 14 16:02 thread
+-rw-rw-r--  1 shaik shaik 1114 Oct 17 10:01 thread.c
+-rw-rw-r--  1 shaik shaik 1385 Oct 22 20:21 thread_create.c
+
+./c/exp/process_management/mutex:
+total 24
+drwxrwxr-x 2 shaik shaik 4096 Oct 22 20:02 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 22 20:28 ..
+-rw-rw-r-- 1 shaik shaik 1204 Oct 17 09:59 \
+-rwxrwxr-x 1 shaik shaik 7729 Oct 17 09:58 a.out
+-rw-rw-r-- 1 shaik shaik 1204 Oct 22 20:01 mutex.c
+-rw-rw-r-- 1 shaik shaik    0 Oct 22 20:02 pthread_attribute.c
+
+./c/exp/process_management/semaphore:
+total 28
+drwxrwxr-x 2 shaik shaik 4096 Oct 16 15:41 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 22 20:28 ..
+-rw-rw-r-- 1 shaik shaik 5128 Oct 16 14:46 alarm.c
+-rwxrwxr-x 1 shaik shaik 7679 Oct 16 15:39 a.out
+-rw-rw-r-- 1 shaik shaik  844 Oct 16 15:41 thread_create.c
+
+./c/exp/process_management/signals:
+total 32
+drwxrwxr-x 2 shaik shaik 4096 Oct 22 14:35 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 22 20:28 ..
+-rwxrwxr-x 1 shaik shaik 7748 Oct 16 14:15 raise
+-rw-rw-r-- 1 shaik shaik 1018 Oct 22 14:35 raise.c
+-rwxrwxr-x 1 shaik shaik 7590 Oct 22 12:35 sig_catch
+-rw-rw-r-- 1 shaik shaik  716 Oct 22 14:27 sig_catch.c
+
+./c/exp/rtl:
+total 164
+drwxrwxr-x  2 shaik shaik 4096 Sep 12 20:31 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7355 Sep 12 19:48 a.out
+-rw-rw-r--  1 shaik shaik  164 Sep 12 19:48 exp1.c
+-rw-rw-r--  1 shaik shaik 2159 Sep 12 19:51 exp1.c.166r.expand
+-rw-rw-r--  1 shaik shaik 1744 Sep 12 19:58 exp1.c.167r.vregs
+-rw-rw-r--  1 shaik shaik 1745 Sep 12 19:48 exp1.c.168r.into_cfglayout
+-rw-rw-r--  1 shaik shaik 3419 Sep 12 19:48 exp1.c.169r.jump
+-rw-rw-r--  1 shaik shaik 1713 Sep 12 19:48 exp1.c.181r.reginfo
+-rw-rw-r--  1 shaik shaik 1777 Sep 12 19:48 exp1.c.201r.outof_cfglayout
+-rw-rw-r--  1 shaik shaik 1744 Sep 12 19:48 exp1.c.202r.split1
+-rw-rw-r--  1 shaik shaik 3076 Sep 12 19:48 exp1.c.204r.dfinit
+-rw-rw-r--  1 shaik shaik 3112 Sep 12 19:48 exp1.c.205r.mode_sw
+-rw-rw-r--  1 shaik shaik 3030 Sep 12 19:48 exp1.c.206r.asmcons
+-rw-rw-r--  1 shaik shaik 5414 Sep 12 19:48 exp1.c.209r.ira
+-rw-rw-r--  1 shaik shaik 4546 Sep 12 19:48 exp1.c.210r.reload
+-rw-rw-r--  1 shaik shaik 2931 Sep 12 19:48 exp1.c.213r.split2
+-rw-rw-r--  1 shaik shaik 4776 Sep 12 19:48 exp1.c.217r.pro_and_epilogue
+-rw-rw-r--  1 shaik shaik 4306 Sep 12 19:48 exp1.c.220r.jump2
+-rw-rw-r--  1 shaik shaik 4356 Sep 12 19:48 exp1.c.231r.stack
+-rw-rw-r--  1 shaik shaik 4274 Sep 12 19:48 exp1.c.232r.alignments
+-rw-rw-r--  1 shaik shaik 4274 Sep 12 19:48 exp1.c.235r.mach
+-rw-rw-r--  1 shaik shaik 4274 Sep 12 19:48 exp1.c.236r.barriers
+-rw-rw-r--  1 shaik shaik 4386 Sep 12 19:48 exp1.c.240r.shorten
+-rw-rw-r--  1 shaik shaik 4386 Sep 12 19:48 exp1.c.241r.nothrow
+-rw-rw-r--  1 shaik shaik 5024 Sep 12 20:15 exp1.c.242r.dwarf2
+-rw-rw-r--  1 shaik shaik 4531 Sep 12 20:16 exp1.c.243r.final
+-rw-rw-r--  1 shaik shaik 3163 Sep 12 20:14 exp1.c.244r.dfinish
+-rw-rw-r--  1 shaik shaik    0 Sep 12 20:15 exp1.c.244r.final
+
+./c/exp/sayyuf:
+total 12
+drwxrwxr-x  3 shaik shaik 4096 Sep 27 09:57 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+drwxrwxr-x  3 shaik shaik 4096 Sep 27 18:29 char_new
+
+./c/exp/sayyuf/char_new:
+total 28
+drwxrwxr-x 3 shaik shaik 4096 Sep 27 18:29 .
+drwxrwxr-x 3 shaik shaik 4096 Sep 27 09:57 ..
+-rw-rw-r-- 1 shaik shaik  260 Sep 27 17:44 app_kmod.c
+-rw-rw-r-- 1 shaik shaik 3491 Sep 27 18:29 kmod.c
+-rw-rw-r-- 1 shaik shaik  194 Sep 27 17:42 Makefile
+-rw-rw-r-- 1 shaik shaik   63 Sep 27 18:27 modules.order
+-rw-rw-r-- 1 shaik shaik    0 Sep 27 16:42 Module.symvers
+drwxrwxr-x 2 shaik shaik 4096 Sep 27 12:30 .tmp_versions
+
+./c/exp/sayyuf/char_new/.tmp_versions:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Sep 27 12:30 .
+drwxrwxr-x 3 shaik shaik 4096 Sep 27 18:29 ..
+
+./c/exp/shared:
+total 48
+drwxrwxr-x  2 shaik shaik 4096 Nov 20 17:20 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7396 Nov 20 17:20 app
+-rw-rw-r--  1 shaik shaik  196 Oct  5 09:33 app.c
+-rwxrwxr-x  1 shaik shaik 6857 Nov 20 17:17 libmathops.so
+-rw-rw-r--  1 shaik shaik   49 Oct  5 09:33 mathops_1.c
+-rw-rw-r--  1 shaik shaik  868 Oct  5 09:34 mathops_1.o
+-rw-rw-r--  1 shaik shaik   49 Oct  5 09:33 mathops_2.c
+-rw-rw-r--  1 shaik shaik  868 Oct  5 09:34 mathops_2.o
+-rw-rw-r--  1 shaik shaik  115 Oct  5 09:33 mathops.h
+
+./c/exp/snippets:
+total 36
+drwxrwxr-x  2 shaik shaik 4096 Sep 26 20:40 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7361 Sep 26 20:24 a.out
+-rw-rw-r--  1 shaik shaik  157 Sep 18 16:59 exp2.c
+-rw-rw-r--  1 shaik shaik   89 Sep 26 20:24 exp_global.c
+-rwxrwxr-x  1 shaik shaik 7337 Sep 21 17:16 main
+-rw-rw-r--  1 shaik shaik  903 Sep 21 17:16 main.c
+
+./c/exp/static:
+total 48
+drwxrwxr-x  2 shaik shaik 4096 Nov 20 17:06 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik   49 Oct  5 09:00 \
+-rwxrwxr-x  1 shaik shaik 7444 Nov 20 17:06 app
+-rw-rw-r--  1 shaik shaik  196 Oct  5 09:13 app.c
+-rw-rw-r--  1 shaik shaik 1956 Nov 20 17:06 libmathops.a
+-rw-rw-r--  1 shaik shaik   49 Oct  5 09:10 mathops_1.c
+-rw-rw-r--  1 shaik shaik  868 Nov 20 17:05 mathops_1.o
+-rw-rw-r--  1 shaik shaik   49 Oct  5 09:10 mathops_2.c
+-rw-rw-r--  1 shaik shaik  868 Nov 20 17:05 mathops_2.o
+-rw-rw-r--  1 shaik shaik  115 Oct  5 08:59 mathops.h
+
+./c/exp/storage_class:
+total 84
+drwxrwxr-x  3 shaik shaik 4096 Oct 12 16:14 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik   80 Oct 12 16:14 all_storage_class.c
+-rwxrwxr-x  1 shaik shaik 7330 Oct 12 16:14 a.out
+-rwxrwxr-x  1 shaik shaik 7411 Jul 31 17:06 exp
+-rw-rw-r--  1 shaik shaik  146 Jul 31 16:12 exp_1.c
+-rw-rw-r--  1 shaik shaik  171 Jul 31 16:06 exp_2.c
+-rw-rw-r--  1 shaik shaik 1032 Jul 31 15:38 exp_2.o
+-rwxrwxr-x  1 shaik shaik 7360 Aug  1 15:20 file
+-rw-rw-r--  1 shaik shaik   70 Aug  1 12:58 file1.c
+-rw-rw-r--  1 shaik shaik  120 Aug  1 15:20 file2.c
+-rw-rw-r--  1 shaik shaik 1064 Aug  1 15:10 file2.o
+-rw-rw-r--  1 shaik shaik   85 Aug  1 15:19 file.c
+-rw-rw-r--  1 shaik shaik  670 Aug  1 15:10 file.o
+-rw-rw-r--  1 shaik shaik   88 Jul 31 17:19 gets_exp.c
+-rwxrwxr-x  1 shaik shaik 7417 Aug  1 18:04 stat
+drwxrwxr-x  2 shaik shaik 4096 Aug  2 15:53 static
+
+./c/exp/storage_class/static:
+total 28
+drwxrwxr-x 2 shaik shaik 4096 Aug  2 15:53 .
+drwxrwxr-x 3 shaik shaik 4096 Oct 12 16:14 ..
+-rw-rw-r-- 1 shaik shaik   60 Aug  2 15:38 auto_exp.c
+-rw-rw-r-- 1 shaik shaik  123 Aug  2 15:53 external.c
+-rwxrwxr-x 1 shaik shaik 7444 Aug  2 15:39 stat
+-rw-rw-r-- 1 shaik shaik  150 Aug  2 15:41 stat.c
+-rw-rw-r-- 1 shaik shaik    0 Aug  1 18:19 static.c
+
+./c/exp/strings:
+total 44
+drwxrwxr-x  2 shaik shaik 4096 Nov 27 09:28 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik  632 Nov 12 20:09 \
+-rwxrwxr-x  1 shaik shaik 7337 Nov 27 09:28 a.out
+-rw-rw-r--  1 shaik shaik 1283 Nov 13 09:12 const_vowel.c
+-rw-rw-r--  1 shaik shaik  124 Sep 15 16:46 file1.txt
+-rw-rw-r--  1 shaik shaik  192 Nov 27 09:28 str1.c
+-rw-rw-r--  1 shaik shaik  235 Nov 27 09:27 str1.c.004t.gimple
+-rw-rw-r--  1 shaik shaik   90 Nov 27 09:06 str.c
+-rw-rw-r--  1 shaik shaik  201 Sep 15 16:13 string.c
+
+./c/exp/struct:
+total 8
+drwxrwxr-x  2 shaik shaik 4096 Oct 26 09:04 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+
+./c/exp/structures:
+total 684
+drwxrwxr-x  2 shaik shaik   4096 Nov 27 14:36 .
+drwxrwxr-x 29 shaik shaik   4096 Dec  3 20:10 ..
+-rw-rw-r--  1 shaik shaik    515 Oct 16 10:41 '
+-rwxrwxr-x  1 shaik shaik   7339 Oct 26 12:03 a.out
+-rwxrwxr-x  1 shaik shaik   7373 Nov 20 15:27 attribute_exp
+-rw-rw-r--  1 shaik shaik    190 Nov 20 15:29 attribute_exp.c
+-rw-rw-r--  1 shaik shaik   5940 Oct 10 19:25 elf.c
+-rw-rw-r--  1 shaik shaik   1341 Aug 31 08:38 elf.o
+-rw-rw-r--  1 shaik shaik    143 Nov 27 14:36 fprintf.c
+-rw-rw-r--  1 shaik shaik    700 Aug 29 08:49 input.c
+-rwxrwxr-x  1 shaik shaik   7339 Oct 26 09:54 pragma
+-rw-rw-r--  1 shaik shaik    671 Oct 26 14:14 pragma.c
+-rw-rw-r--  1 shaik shaik   1048 Oct 26 09:34 pragma.o
+-rwxrwxr-x  1 shaik shaik   7604 Aug 30 12:07 read
+-rw-rw-r--  1 shaik shaik    447 Aug 30 12:05 read_file.c
+-rw-rw-r--  1 shaik shaik    116 Aug 30 12:09 sample.txt
+-rw-rw-r--  1 shaik shaik   1139 Oct 26 10:50 struct_exp.c
+-rw-rw-r--  1 shaik shaik    551 Oct 26 10:51 structure.c
+-rw-rw-r--  1 shaik shaik 528432 Oct 16 10:44 structure.c.001t.tu
+-rw-rw-r--  1 shaik shaik   9044 Oct 16 10:43 structure.c.003t.original
+-rw-rw-r--  1 shaik shaik    359 Oct 16 11:05 structure.c.004t.gimple
+-rw-rw-r--  1 shaik shaik    584 Oct 16 10:40 structure.c.007t.omplower
+-rw-rw-r--  1 shaik shaik    579 Oct 16 10:40 structure.c.008t.lower
+-rw-rw-r--  1 shaik shaik    579 Oct 16 10:40 structure.c.011t.eh
+-rw-rw-r--  1 shaik shaik    590 Oct 16 10:40 structure.c.012t.cfg
+-rw-rw-r--  1 shaik shaik    590 Oct 16 10:40 structure.c.016t.ssa
+-rw-rw-r--  1 shaik shaik    590 Oct 16 10:40 structure.c.017t.veclower
+-rw-rw-r--  1 shaik shaik   1796 Oct 16 10:40 structure.c.018t.inline_param1
+-rw-rw-r--  1 shaik shaik    590 Oct 16 10:40 structure.c.019t.einline
+-rw-rw-r--  1 shaik shaik    631 Oct 16 10:40 structure.c.037t.release_ssa
+-rw-rw-r--  1 shaik shaik   1796 Oct 16 10:40 structure.c.038t.inline_param2
+-rw-rw-r--  1 shaik shaik    590 Oct 16 10:40 structure.c.158t.cplxlower0
+-rw-rw-r--  1 shaik shaik    590 Oct 16 10:40 structure.c.165t.optimized
+-rw-rw-r--  1 shaik shaik      0 Oct 16 10:40 structure.c.245t.statistics
+-rwxrwxr-x  1 shaik shaik   7707 Aug 30 12:09 write
+
+./c/exp/typedef:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Aug 15 14:17 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7445 Aug 15 14:17 a.out
+-rw-rw-r--  1 shaik shaik  385 Aug 15 14:17 exp1.c
+
+./c/exp/unions:
+total 48
+drwxrwxr-x  2 shaik shaik 4096 Nov 20 16:08 .
+drwxrwxr-x 29 shaik shaik 4096 Dec  3 20:10 ..
+-rwxrwxr-x  1 shaik shaik 7355 Aug 29 09:57 a.out
+-rw-rw-r--  1 shaik shaik  148 Nov 20 15:29 exp1.c
+-rw-rw-r--  1 shaik shaik  142 Nov 20 15:29 exp2.c
+-rw-rw-r--  1 shaik shaik    0 Aug 29 09:41 exp2.x
+-rwxrwxr-x  1 shaik shaik 7379 Nov 20 15:53 union_exp_bit_fields
+-rw-rw-r--  1 shaik shaik  337 Nov 20 16:08 union_exp_bit_fields.c
+-rwxrwxr-x  1 shaik shaik 7375 Nov 20 15:31 union_exp_sizeof
+-rw-rw-r--  1 shaik shaik  169 Nov 20 15:32 union_exp_sizeof.c
+
+./c/lab_assessment:
+total 28
+drwxrwxr-x 5 shaik shaik 4096 Oct 22 18:56 .
+drwxrwxr-x 6 shaik shaik 4096 Oct  8 14:47 ..
+drwxrwxr-x 2 shaik shaik 4096 Oct  2 14:11 lab1
+drwxrwxr-x 5 shaik shaik 4096 Sep  3 20:13 lab2
+drwxrwxr-x 2 shaik shaik 4096 Oct 22 19:16 lab_bitwise
+-rw-rw-r-- 1 shaik shaik 7886 Oct 16 21:07 lab_bitwise.tar.gz
+
+./c/lab_assessment/lab1:
+total 40
+drwxrwxr-x 2 shaik shaik 4096 Oct  2 14:11 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 22 18:56 ..
+-rw-rw-r-- 1 shaik shaik  498 Oct  2 12:21 bits_copy.c
+-rw-rw-r-- 1 shaik shaik  154 Aug 29 09:08 dec_to_binary.c
+-rw-rw-r-- 1 shaik shaik  261 Sep  3 18:03 header.h
+-rw-rw-r-- 1 shaik shaik  700 Oct  2 12:24 input.c
+-rwxrwxr-x 1 shaik shaik 7237 Sep  3 18:06 lib_bitwise.so
+-rw-rw-r-- 1 shaik shaik  609 Sep  3 18:04 main.c
+-rw-rw-r-- 1 shaik shaik  339 Aug 28 09:34 malloc_input.c
+
+./c/lab_assessment/lab2:
+total 60
+drwxrwxr-x 5 shaik shaik 4096 Sep  3 20:13 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 22 18:56 ..
+-rwxrwxr-x 1 shaik shaik 7677 Sep  3 20:13 a.out
+drwxrwxr-x 2 shaik shaik 4096 Sep  3 15:33 hdr
+-rw-rw-r-- 1 shaik shaik  202 Sep  3 19:17 header.h
+-rwxrwxr-x 1 shaik shaik 7154 Sep  3 16:09 lib_string.so
+-rw-rw-r-- 1 shaik shaik  798 Sep  3 20:03 main.c
+-rw-rw-r-- 1 shaik shaik  248 Sep  3 15:33 makefile
+-rw-rw-r-- 1 shaik shaik  170 Sep  3 18:44 malloc_input.c
+drwxrwxr-x 2 shaik shaik 4096 Sep  3 15:33 obj
+drwxrwxr-x 2 shaik shaik 4096 Sep  3 15:33 src
+-rw-rw-r-- 1 shaik shaik 1100 Sep  3 20:13 strcasecmp.c
+-rw-rw-r-- 1 shaik shaik  248 Sep  3 20:00 validate_string.c
+
+./c/lab_assessment/lab2/hdr:
+total 16
+drwxrwxr-x 2 shaik shaik 4096 Sep  3 15:33 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  3 20:13 ..
+-rw-rw-r-- 1 shaik shaik  180 Sep  3 15:33 header.h
+-rw-rw-r-- 1 shaik shaik  640 Sep  3 13:57 header.h~
+
+./c/lab_assessment/lab2/obj:
+total 20
+drwxrwxr-x 2 shaik shaik 4096 Sep  3 15:33 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  3 20:13 ..
+-rw-rw-r-- 1 shaik shaik 1260 Sep  3 15:32 main.o
+-rw-rw-r-- 1 shaik shaik 1048 Sep  3 15:33 malloc_input.o
+-rw-rw-r-- 1 shaik shaik 1328 Sep  3 15:33 strcasecmp.o
+
+./c/lab_assessment/lab2/src:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Sep  3 15:33 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  3 20:13 ..
+-rwxrwxr-x 1 shaik shaik 7584 Sep  3 15:33 app
+-rw-rw-r-- 1 shaik shaik  376 Sep  3 15:32 main.c
+-rw-rw-r-- 1 shaik shaik  472 Sep  3 15:28 main.c~
+-rw-rw-r-- 1 shaik shaik  248 Sep  3 15:33 makefile
+-rw-rw-r-- 1 shaik shaik  170 Aug 27 13:50 malloc_input.c
+-rw-rw-r-- 1 shaik shaik 1081 Sep  3 15:00 strcasecmp.c
+
+./c/lab_assessment/lab_bitwise:
+total 60
+drwxrwxr-x 2 shaik shaik  4096 Oct 22 19:16 .
+drwxrwxr-x 5 shaik shaik  4096 Oct 22 18:56 ..
+-rwxrwxr-x 1 shaik shaik 12075 Oct 22 19:15 a.out
+-rw-r--r-- 1 shaik shaik   305 Oct 22 19:15 bitcopy.c
+-rw-r--r-- 1 shaik shaik   535 Oct 16 20:53 bits_copy.c
+-rw-r--r-- 1 shaik shaik   154 Oct 16 17:27 dec_to_binary.c
+-rw-r--r-- 1 shaik shaik   270 Oct 22 19:01 getbits.c
+-rw-r--r-- 1 shaik shaik   455 Oct 17 00:13 header.h
+-rw-r--r-- 1 shaik shaik  1109 Oct 22 18:57 input.c
+-rw-r--r-- 1 shaik shaik   282 Oct 22 19:02 invert.c
+-rw-r--r-- 1 shaik shaik  2425 Oct 17 00:19 main.c
+-rw-r--r-- 1 shaik shaik   187 Oct 16 20:13 read_input.c
+-rw-r--r-- 1 shaik shaik   284 Oct 22 19:16 setbits.c
+
+./ds:
+total 40
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 .
+drwxrwxr-x  7 shaik shaik 4096 Dec  4 11:33 ..
+drwxrwxr-x  7 shaik shaik 4096 Oct 22 14:32 assignment
+drwxrwxr-x  2 shaik shaik 4096 Oct 22 14:28 assignment1
+drwxrwxr-x  5 shaik shaik 4096 Nov 23 09:08 qeue_with_linked_list
+drwxrwxr-x  5 shaik shaik 4096 Nov 22 11:30 reverse_linked_list
+drwxrwxr-x  5 shaik shaik 4096 Nov 23 09:45 reverse_string
+drwxrwxr-x  2 shaik shaik 4096 Oct 23 21:07 sorting
+drwxrwxr-x  5 shaik shaik 4096 Sep  7 23:35 stack
+drwxrwxr-x  5 shaik shaik 4096 Nov 22 16:47 stack_using_linked_list
+
+./ds/assignment:
+total 28
+drwxrwxr-x  7 shaik shaik 4096 Oct 22 14:32 .
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ..
+drwxrwxr-x  5 shaik shaik 4096 Sep 10 10:04 double_linked_list
+drwxrwxr-x  5 shaik shaik 4096 Sep  5 17:32 linked_list
+drwxrwxr-x  4 shaik shaik 4096 Sep 10 12:38 searching
+drwxrwxr-x  5 shaik shaik 4096 Sep  7 23:35 stack
+drwxrwxr-x  5 shaik shaik 4096 Sep 11 17:07 trees
+
+./ds/assignment/double_linked_list:
+total 20
+drwxrwxr-x 5 shaik shaik 4096 Sep 10 10:04 .
+drwxrwxr-x 7 shaik shaik 4096 Oct 22 14:32 ..
+drwxrwxr-x 2 shaik shaik 4096 Oct 27 16:12 hdr
+drwxrwxr-x 2 shaik shaik 4096 Sep 15 11:43 obj
+drwxrwxr-x 2 shaik shaik 4096 Nov 21 11:59 src
+
+./ds/assignment/double_linked_list/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Oct 27 16:12 .
+drwxrwxr-x 5 shaik shaik 4096 Sep 10 10:04 ..
+-rw-rw-r-- 1 shaik shaik  585 Oct 27 16:12 header.h
+
+./ds/assignment/double_linked_list/obj:
+total 60
+drwxrwxr-x 2 shaik shaik 4096 Sep 15 11:43 .
+drwxrwxr-x 5 shaik shaik 4096 Sep 10 10:04 ..
+-rw-rw-r-- 1 shaik shaik 2480 Sep 15 11:43 create_node.o
+-rw-rw-r-- 1 shaik shaik 2732 Sep 15 11:43 delete_begin.o
+-rw-rw-r-- 1 shaik shaik 2600 Sep 15 11:43 delete_end.o
+-rw-rw-r-- 1 shaik shaik 2608 Sep 15 11:43 display.o
+-rw-rw-r-- 1 shaik shaik 3864 Sep 15 11:43 input.o
+-rw-rw-r-- 1 shaik shaik 4484 Sep 15 11:43 insert_after.o
+-rw-rw-r-- 1 shaik shaik 2772 Sep 15 11:43 insert_begin.o
+-rw-rw-r-- 1 shaik shaik 3080 Sep 15 11:43 insert_middle.o
+-rw-rw-r-- 1 shaik shaik 3276 Sep 15 11:43 insert_pos.o
+-rw-rw-r-- 1 shaik shaik 5576 Sep 15 11:43 main.o
+-rw-rw-r-- 1 shaik shaik 2720 Sep 15 11:43 reverse_display.o
+
+./ds/assignment/double_linked_list/src:
+total 84
+drwxrwxr-x 2 shaik shaik  4096 Nov 21 11:59 .
+drwxrwxr-x 5 shaik shaik  4096 Sep 10 10:04 ..
+-rw-rw-r-- 1 shaik shaik   260 Sep 14 18:12 \
+-rwxrwxr-x 1 shaik shaik 21567 Sep 15 11:43 app
+-rw-rw-r-- 1 shaik shaik   144 Oct 27 15:50 create_node.c
+-rw-rw-r-- 1 shaik shaik   413 Sep 14 18:35 delete_begin.c
+-rw-rw-r-- 1 shaik shaik   395 Sep 14 20:36 delete_end.c
+-rw-rw-r-- 1 shaik shaik   221 Sep 14 16:35 display.c
+-rw-rw-r-- 1 shaik shaik   203 Sep 10 10:33 input.c
+-rw-rw-r-- 1 shaik shaik     0 Sep 14 15:28 insert_
+-rw-rw-r-- 1 shaik shaik   636 Nov 21 11:58 insert_after.c
+-rw-rw-r-- 1 shaik shaik   456 Oct 27 15:49 insert_begin.c
+-rw-rw-r-- 1 shaik shaik   778 Nov 21 11:59 insert_middle.c
+-rw-rw-r-- 1 shaik shaik  1184 Sep 15 11:44 insert_pos.c
+-rw-rw-r-- 1 shaik shaik  1990 Oct 27 15:49 main.c
+-rw-rw-r-- 1 shaik shaik   909 Sep 15 11:26 makefile
+-rw-rw-r-- 1 shaik shaik   416 Sep 14 18:11 reverse_display.c
+
+./ds/assignment/linked_list:
+total 20
+drwxrwxr-x 5 shaik shaik 4096 Sep  5 17:32 .
+drwxrwxr-x 7 shaik shaik 4096 Oct 22 14:32 ..
+drwxrwxr-x 2 shaik shaik 4096 Sep  9 12:40 hdr
+drwxrwxr-x 2 shaik shaik 4096 Sep  5 17:32 obj
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 11:29 src
+
+./ds/assignment/linked_list/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Sep  9 12:40 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  5 17:32 ..
+-rw-rw-r-- 1 shaik shaik  517 Sep  9 12:40 header.h
+
+./ds/assignment/linked_list/obj:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Sep  5 17:32 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  5 17:32 ..
+
+./ds/assignment/linked_list/src:
+total 140
+drwxrwxr-x 2 shaik shaik  4096 Nov 22 11:29 .
+drwxrwxr-x 5 shaik shaik  4096 Sep  5 17:32 ..
+-rwxrwxr-x 1 shaik shaik 17665 Sep  9 14:40 app
+-rw-rw-r-- 1 shaik shaik   144 Sep  7 10:42 create_node.c
+-rw-rw-r-- 1 shaik shaik  2440 Sep  9 12:36 create_node.o
+-rw-rw-r-- 1 shaik shaik   163 Nov 21 11:33 delete_begin.c
+-rw-rw-r-- 1 shaik shaik  2412 Sep  9 12:46 delete_begin.o
+-rw-rw-r-- 1 shaik shaik   354 Nov 21 11:35 delete_end.c
+-rw-rw-r-- 1 shaik shaik  2608 Sep  9 14:40 delete_end.o
+-rw-rw-r-- 1 shaik shaik   221 Nov 21 11:36 display.c
+-rw-rw-r-- 1 shaik shaik  2568 Sep  9 12:36 display.o
+-rw-rw-r-- 1 shaik shaik   314 Sep  6 19:37 header.h
+-rw-rw-r-- 1 shaik shaik  3856 Sep  9 12:36 input.o
+-rw-rw-r-- 1 shaik shaik   622 Nov 22 11:20 insert_after.c
+-rw-rw-r-- 1 shaik shaik  4424 Sep  9 12:36 insert_after.o
+-rw-rw-r-- 1 shaik shaik   499 Nov 22 11:29 insert_begin.c
+-rw-rw-r-- 1 shaik shaik  4352 Sep  9 12:36 insert_begin.o
+-rw-rw-r-- 1 shaik shaik  3068 Sep  9 12:36 insert_middle.o
+-rw-rw-r-- 1 shaik shaik   781 Nov 21 11:31 insert_pos.c
+-rw-rw-r-- 1 shaik shaik  3000 Sep  9 12:36 insert_pos.o
+-rw-rw-r-- 1 shaik shaik   363 Sep  7 10:13 linuc_builtin.txt
+-rw-rw-r-- 1 shaik shaik 24540 Sep  7 10:11 linux_commands.txt
+-rw-rw-r-- 1 shaik shaik  5444 Sep  9 12:36 main.o
+
+./ds/assignment/searching:
+total 16
+drwxrwxr-x 4 shaik shaik 4096 Sep 10 12:38 .
+drwxrwxr-x 7 shaik shaik 4096 Oct 22 14:32 ..
+drwxrwxr-x 2 shaik shaik 4096 Sep 10 20:40 binary_search
+drwxrwxr-x 2 shaik shaik 4096 Sep 10 18:42 linear_search
+
+./ds/assignment/searching/binary_search:
+total 84
+drwxrwxr-x 2 shaik shaik  4096 Sep 10 20:40 .
+drwxrwxr-x 4 shaik shaik  4096 Sep 10 12:38 ..
+-rwxrwxr-x 1 shaik shaik  7749 Sep 10 20:40 app
+-rw-rw-r-- 1 shaik shaik   189 Sep 10 11:32 array_input.c
+-rw-rw-r-- 1 shaik shaik  1144 Sep 10 20:06 array_input.o
+-rw-rw-r-- 1 shaik shaik   352 Sep 10 20:40 bin_search.c
+-rw-rw-r-- 1 shaik shaik  1128 Sep 10 20:40 bin_search.o
+-rw-rw-r-- 1 shaik shaik   341 Sep 10 20:08 bubble_sort.c
+-rw-rw-r-- 1 shaik shaik  1164 Sep 10 20:08 bubble_sort.o
+-rw-rw-r-- 1 shaik shaik   137 Sep 10 20:03 display.c
+-rw-rw-r-- 1 shaik shaik  1064 Sep 10 20:06 display.o
+-rw-rw-r-- 1 shaik shaik   233 Sep 10 20:34 header.h
+-rw-rw-r-- 1 shaik shaik   203 Sep 10 20:06 input.c
+-rw-rw-r-- 1 shaik shaik  1080 Sep 10 20:06 input.o
+-rw-rw-r-- 1 shaik shaik   427 Sep 10 20:36 main.c
+-rw-rw-r-- 1 shaik shaik  1488 Sep 10 20:36 main.o
+-rw-rw-r-- 1 shaik shaik   368 Sep 10 20:37 makefile
+-rw------- 1 shaik shaik 12288 Sep 10 18:50 .selectio_sort.c.swp
+
+./ds/assignment/searching/linear_search:
+total 56
+drwxrwxr-x 2 shaik shaik 4096 Sep 10 18:42 .
+drwxrwxr-x 4 shaik shaik 4096 Sep 10 12:38 ..
+-rwxrwxr-x 1 shaik shaik 7647 Sep 10 11:33 app
+-rw-rw-r-- 1 shaik shaik  189 Sep 10 11:32 array_input.c
+-rw-rw-r-- 1 shaik shaik 1144 Sep 10 11:33 array_input.o
+-rw-rw-r-- 1 shaik shaik  189 Sep 10 11:28 header.h
+-rw-rw-r-- 1 shaik shaik  203 Sep 10 10:33 input.c
+-rw-rw-r-- 1 shaik shaik 1080 Sep 10 11:24 input.o
+-rw-rw-r-- 1 shaik shaik  173 Sep 10 18:42 linear_search.c
+-rw-rw-r-- 1 shaik shaik 1112 Sep 10 11:24 linear_search.o
+-rw-rw-r-- 1 shaik shaik  339 Sep 10 11:33 main.c
+-rw-rw-r-- 1 shaik shaik 1324 Sep 10 11:33 main.o
+-rw-rw-r-- 1 shaik shaik  256 Sep 10 11:29 makefile
+
+./ds/assignment/stack:
+total 20
+drwxrwxr-x 5 shaik shaik 4096 Sep  7 23:35 .
+drwxrwxr-x 7 shaik shaik 4096 Oct 22 14:32 ..
+drwxrwxr-x 2 shaik shaik 4096 Sep  8 01:13 hdr
+drwxrwxr-x 2 shaik shaik 4096 Sep  7 23:35 obj
+drwxrwxr-x 2 shaik shaik 4096 Sep  8 01:25 src
+
+./ds/assignment/stack/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Sep  8 01:13 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  7 23:35 ..
+-rw-rw-r-- 1 shaik shaik  237 Sep  8 01:13 header.h
+
+./ds/assignment/stack/obj:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Sep  7 23:35 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  7 23:35 ..
+
+./ds/assignment/stack/src:
+total 96
+drwxrwxr-x 2 shaik shaik  4096 Sep  8 01:25 .
+drwxrwxr-x 5 shaik shaik  4096 Sep  7 23:35 ..
+-rwxrwxr-x 1 shaik shaik 21344 Sep  8 01:23 app
+-rw-rw-r-- 1 shaik shaik   137 Sep  8 01:19 display.c
+-rw-rw-r-- 1 shaik shaik  6208 Sep  8 01:19 display.o
+-rw-rw-r-- 1 shaik shaik   158 Sep  8 01:13 input.c
+-rw-rw-r-- 1 shaik shaik  6088 Sep  8 01:13 input.o
+-rw-rw-r-- 1 shaik shaik   806 Sep  8 01:13 main.c
+-rw-rw-r-- 1 shaik shaik  7432 Sep  8 01:13 main.o
+-rw-rw-r-- 1 shaik shaik   308 Sep  8 01:25 makefile
+-rw-rw-r-- 1 shaik shaik   195 Sep  8 01:19 pop.c
+-rw-rw-r-- 1 shaik shaik  6288 Sep  8 01:19 pop.o
+-rw-rw-r-- 1 shaik shaik   198 Sep  8 01:23 push.c
+-rw-rw-r-- 1 shaik shaik  6336 Sep  8 01:23 push.o
+
+./ds/assignment/trees:
+total 20
+drwxrwxr-x 5 shaik shaik 4096 Sep 11 17:07 .
+drwxrwxr-x 7 shaik shaik 4096 Oct 22 14:32 ..
+drwxrwxr-x 2 shaik shaik 4096 Sep 16 12:25 hdr
+drwxrwxr-x 2 shaik shaik 4096 Sep 18 18:35 obj
+drwxrwxr-x 2 shaik shaik 4096 Nov 21 14:00 src
+
+./ds/assignment/trees/hdr:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Sep 16 12:25 .
+drwxrwxr-x 5 shaik shaik 4096 Sep 11 17:07 ..
+
+./ds/assignment/trees/obj:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Sep 18 18:35 .
+drwxrwxr-x 5 shaik shaik 4096 Sep 11 17:07 ..
+-rw-rw-r-- 1 shaik shaik 2504 Sep 18 18:35 count_nodes.o
+-rw-rw-r-- 1 shaik shaik 2480 Sep 18 18:35 create_node.o
+-rw-rw-r-- 1 shaik shaik 3032 Sep 18 18:35 delete_node.o
+-rw-rw-r-- 1 shaik shaik 2560 Sep 18 18:35 display.o
+-rw-rw-r-- 1 shaik shaik 3852 Sep 18 18:35 input.o
+-rw-rw-r-- 1 shaik shaik 3036 Sep 18 18:35 insert_tree.o
+-rw-rw-r-- 1 shaik shaik 3432 Sep 18 18:35 main.o
+
+./ds/assignment/trees/src:
+total 64
+drwxrwxr-x 2 shaik shaik  4096 Nov 21 14:00 .
+drwxrwxr-x 5 shaik shaik  4096 Sep 11 17:07 ..
+-rwxrwxr-x 1 shaik shaik 13432 Sep 18 18:35 app
+-rw-rw-r-- 1 shaik shaik   249 Sep 17 11:46 count_nodes.c
+-rw-rw-r-- 1 shaik shaik   203 Sep 14 10:36 create_node.c
+-rw-rw-r-- 1 shaik shaik  1844 Nov 21 14:00 delete_node.c
+-rw-rw-r-- 1 shaik shaik   221 Sep 18 09:21 display.c
+-rw-rw-r-- 1 shaik shaik   391 Sep 17 10:56 header.h
+-rw-rw-r-- 1 shaik shaik   203 Sep  7 15:27 input.c
+-rw-rw-r-- 1 shaik shaik   986 Sep 16 11:18 insert_tree_b.c
+-rw-rw-r-- 1 shaik shaik   919 Nov 21 12:06 insert_tree.c
+-rw-rw-r-- 1 shaik shaik  1339 Sep 17 19:39 main.c
+-rw-rw-r-- 1 shaik shaik   549 Sep 17 15:56 makefile
+
+./ds/assignment1:
+total 12
+drwxrwxr-x  2 shaik shaik 4096 Oct 22 14:28 .
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ..
+-rw-rw-r--  1 shaik shaik   45 Oct 22 14:28 main.c
+
+./ds/qeue_with_linked_list:
+total 40
+drwxrwxr-x  5 shaik shaik  4096 Nov 23 09:08 .
+drwxrwxr-x 10 shaik shaik  4096 Dec  3 20:09 ..
+drwxrwxr-x  2 shaik shaik  4096 Nov 22 17:45 hdr
+-rw-rw-r--  1 shaik shaik   372 Nov 22 17:06 makefile
+drwxrwxr-x  2 shaik shaik  4096 Nov 23 09:08 obj
+-rwxrwxr-x  1 shaik shaik 12390 Nov 23 09:08 qeue
+drwxrwxr-x  2 shaik shaik  4096 Nov 23 09:08 src
+
+./ds/qeue_with_linked_list/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 17:45 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 23 09:08 ..
+-rw-rw-r-- 1 shaik shaik  311 Nov 22 17:45 header.h
+
+./ds/qeue_with_linked_list/obj:
+total 32
+drwxrwxr-x 2 shaik shaik 4096 Nov 23 09:08 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 23 09:08 ..
+-rw-rw-r-- 1 shaik shaik 2712 Nov 23 09:08 deque.o
+-rw-rw-r-- 1 shaik shaik 2736 Nov 23 09:08 display_node.o
+-rw-rw-r-- 1 shaik shaik 4468 Nov 23 09:08 enque.o
+-rw-rw-r-- 1 shaik shaik 4676 Nov 23 09:08 main.o
+
+./ds/qeue_with_linked_list/src:
+total 24
+drwxrwxr-x 2 shaik shaik 4096 Nov 23 09:08 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 23 09:08 ..
+-rw-rw-r-- 1 shaik shaik  646 Nov 23 09:08 deque.c
+-rw-rw-r-- 1 shaik shaik  448 Nov 23 09:04 display_node.c
+-rw-rw-r-- 1 shaik shaik  933 Nov 23 09:04 enque.c
+-rw-rw-r-- 1 shaik shaik  911 Nov 23 08:56 main.c
+
+./ds/reverse_linked_list:
+total 32
+drwxrwxr-x  5 shaik shaik 4096 Nov 22 11:30 .
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ..
+drwxrwxr-x  2 shaik shaik 4096 Nov 22 11:26 hdr
+-rwxrwxr-x  1 shaik shaik 7858 Nov 22 11:26 linked_list
+-rw-rw-r--  1 shaik shaik  376 Nov 22 10:27 makefile
+drwxrwxr-x  2 shaik shaik 4096 Nov 22 11:26 obj
+drwxrwxr-x  2 shaik shaik 4096 Nov 23 09:25 src
+
+./ds/reverse_linked_list/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 11:26 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 22 11:30 ..
+-rw-rw-r-- 1 shaik shaik  314 Nov 22 11:26 header.h
+
+./ds/reverse_linked_list/obj:
+total 28
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 11:26 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 22 11:30 ..
+-rw-rw-r-- 1 shaik shaik 1172 Nov 22 11:26 display_node.o
+-rw-rw-r-- 1 shaik shaik 1552 Nov 22 11:26 insert_after.o
+-rw-rw-r-- 1 shaik shaik 1468 Nov 22 11:26 insert_begin.o
+-rw-rw-r-- 1 shaik shaik 1776 Nov 22 11:26 main.o
+-rw-rw-r-- 1 shaik shaik  940 Nov 22 11:26 reverse.o
+
+./ds/reverse_linked_list/src:
+total 28
+drwxrwxr-x 2 shaik shaik 4096 Nov 23 09:25 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 22 11:30 ..
+-rw-rw-r-- 1 shaik shaik  243 Nov 22 10:44 display_node.c
+-rw-rw-r-- 1 shaik shaik  924 Nov 23 09:19 insert_after.c
+-rw-rw-r-- 1 shaik shaik  757 Nov 23 09:21 insert_begin.c
+-rw-rw-r-- 1 shaik shaik  711 Nov 22 11:19 main.c
+-rw-rw-r-- 1 shaik shaik  550 Nov 23 09:25 reverse.c
+
+./ds/reverse_string:
+total 32
+drwxrwxr-x  5 shaik shaik 4096 Nov 23 09:45 .
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ..
+drwxrwxr-x  2 shaik shaik 4096 Nov 22 16:07 hdr
+-rw-rw-r--  1 shaik shaik  379 Nov 22 16:12 makefile
+drwxrwxr-x  2 shaik shaik 4096 Nov 23 09:45 obj
+-rwxrwxr-x  1 shaik shaik 7573 Nov 23 09:45 reverse_string
+drwxrwxr-x  2 shaik shaik 4096 Nov 23 09:45 src
+
+./ds/reverse_string/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 16:07 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 23 09:45 ..
+-rw-rw-r-- 1 shaik shaik   92 Nov 22 16:07 header.h
+
+./ds/reverse_string/obj:
+total 20
+drwxrwxr-x 2 shaik shaik 4096 Nov 23 09:45 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 23 09:45 ..
+-rw-rw-r-- 1 shaik shaik 1452 Nov 23 09:45 main.o
+-rw-rw-r-- 1 shaik shaik 1124 Nov 23 09:45 reverse_str.o
+-rw-rw-r-- 1 shaik shaik  663 Nov 23 09:31 rever_str_recursion.o
+
+./ds/reverse_string/src:
+total 16
+drwxrwxr-x 2 shaik shaik 4096 Nov 23 09:45 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 23 09:45 ..
+-rw-rw-r-- 1 shaik shaik  437 Nov 23 09:45 main.c
+-rw-rw-r-- 1 shaik shaik  477 Nov 23 09:44 reverse_str.c
+
+./ds/sorting:
+total 20
+drwxrwxr-x  2 shaik shaik 4096 Oct 23 21:07 .
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ..
+-rwxrwxr-x  1 shaik shaik 7498 Oct 10 09:59 a.out
+-rw-rw-r--  1 shaik shaik 1072 Oct 22 14:28 quicksort.c
+
+./ds/stack:
+total 20
+drwxrwxr-x  5 shaik shaik 4096 Sep  7 23:35 .
+drwxrwxr-x 10 shaik shaik 4096 Dec  3 20:09 ..
+drwxrwxr-x  2 shaik shaik 4096 Sep  8 01:13 hdr
+drwxrwxr-x  2 shaik shaik 4096 Sep  7 23:35 obj
+drwxrwxr-x  2 shaik shaik 4096 Sep  8 01:25 src
+
+./ds/stack/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Sep  8 01:13 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  7 23:35 ..
+-rw-rw-r-- 1 shaik shaik  237 Sep  8 01:13 header.h
+
+./ds/stack/obj:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Sep  7 23:35 .
+drwxrwxr-x 5 shaik shaik 4096 Sep  7 23:35 ..
+
+./ds/stack/src:
+total 96
+drwxrwxr-x 2 shaik shaik  4096 Sep  8 01:25 .
+drwxrwxr-x 5 shaik shaik  4096 Sep  7 23:35 ..
+-rwxrwxr-x 1 shaik shaik 21344 Sep  8 01:23 app
+-rw-rw-r-- 1 shaik shaik   137 Sep  8 01:19 display.c
+-rw-rw-r-- 1 shaik shaik  6208 Sep  8 01:19 display.o
+-rw-rw-r-- 1 shaik shaik   158 Sep  8 01:13 input.c
+-rw-rw-r-- 1 shaik shaik  6088 Sep  8 01:13 input.o
+-rw-rw-r-- 1 shaik shaik   806 Sep  8 01:13 main.c
+-rw-rw-r-- 1 shaik shaik  7432 Sep  8 01:13 main.o
+-rw-rw-r-- 1 shaik shaik   308 Sep  8 01:25 makefile
+-rw-rw-r-- 1 shaik shaik   195 Sep  8 01:19 pop.c
+-rw-rw-r-- 1 shaik shaik  6288 Sep  8 01:19 pop.o
+-rw-rw-r-- 1 shaik shaik   198 Sep  8 01:23 push.c
+-rw-rw-r-- 1 shaik shaik  6336 Sep  8 01:23 push.o
+
+./ds/stack_using_linked_list:
+total 32
+drwxrwxr-x  5 shaik shaik  4096 Nov 22 16:47 .
+drwxrwxr-x 10 shaik shaik  4096 Dec  3 20:09 ..
+drwxrwxr-x  2 shaik shaik  4096 Nov 22 16:47 hdr
+drwxrwxr-x  2 shaik shaik  4096 Nov 22 12:27 obj
+drwxrwxr-x  2 shaik shaik  4096 Nov 23 09:16 src
+-rwxrwxr-x  1 shaik shaik 12287 Nov 22 12:27 stack
+
+./ds/stack_using_linked_list/hdr:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 16:47 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 22 16:47 ..
+
+./ds/stack_using_linked_list/obj:
+total 32
+drwxrwxr-x 2 shaik shaik 4096 Nov 22 12:27 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 22 16:47 ..
+-rw-rw-r-- 1 shaik shaik 2632 Nov 22 12:27 display_node.o
+-rw-rw-r-- 1 shaik shaik 4520 Nov 22 12:24 main.o
+-rw-rw-r-- 1 shaik shaik 2608 Nov 22 12:26 pop.o
+-rw-rw-r-- 1 shaik shaik 4388 Nov 22 12:27 push.o
+
+./ds/stack_using_linked_list/src:
+total 24
+drwxrwxr-x 2 shaik shaik 4096 Nov 23 09:16 .
+drwxrwxr-x 5 shaik shaik 4096 Nov 22 16:47 ..
+-rw-rw-r-- 1 shaik shaik  241 Nov 22 12:27 display_node.c
+-rw-rw-r-- 1 shaik shaik  695 Nov 23 09:16 main.c
+-rw-rw-r-- 1 shaik shaik  403 Nov 23 09:15 pop.c
+-rw-rw-r-- 1 shaik shaik  803 Nov 23 09:14 push.c
+
+./linux:
+total 36
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 14:31 .
+drwxrwxr-x 7 shaik shaik 4096 Dec  4 11:33 ..
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 exp
+drwxr-xr-x 2 root  root  4096 Sep 30 13:48 fork
+drwxr-xr-x 3 root  root  4096 Sep 28 14:20 hello_module
+drwxrwxr-x 3 shaik shaik 4096 Oct 15 10:17 lab_assessment
+drwxr-xr-x 3 root  root  4096 Oct  4 12:01 my_driver
+drwxrwxr-x 2 shaik shaik 4096 Oct 15 19:32 process_management
+drwxrwxr-x 2 shaik shaik 4096 Dec  3 14:46 virtual_file_system
+
+./linux/exp:
+total 1468
+drwxrwxr-x 9 shaik shaik   4096 Dec  3 19:53 .
+drwxrwxr-x 9 shaik shaik   4096 Dec  3 14:31 ..
+-rw-rw-r-- 1 shaik shaik      0 Oct 30 16:40 '
+-rw-rw-r-- 1 shaik shaik   1088 Nov 20 19:36 2_thread.c
+-rwxrwxr-x 1 shaik shaik   7993 Oct 24 19:55 add
+-rwxrwxr-x 1 shaik shaik   7544 Nov 20 19:36 a.out
+-rwxrwxr-x 1 shaik shaik   8029 Oct 24 20:29 app
+-rwxrwxr-x 1 shaik shaik   7613 Oct 28 10:41 client
+-rwxrwxr-x 1 shaik shaik   7486 Oct 23 11:02 execv
+-rw-rw-r-- 1 shaik shaik    348 Oct 23 11:02 execv.c
+drwxrwxr-x 2 shaik shaik   4096 Nov 14 18:25 fork
+-rw-rw-r-- 1 shaik shaik   1053 Oct 29 09:27 fork.c
+-rw-rw-r-- 1 shaik shaik     58 Oct 23 11:02 global.c
+-rwxrwxr-x 1 shaik shaik   7457 Oct 23 11:02 hello_execv
+-rw-rw-r-- 1 shaik shaik    242 Oct 23 11:02 hello_execv.c
+drwxrwxr-x 2 shaik shaik   4096 Nov 19 09:06 message_qeue
+-rw-rw-r-- 1 shaik shaik   1331 Oct 28 12:24 mrecv.c
+-rw-rw-r-- 1 shaik shaik   1168 Oct 28 12:25 msend.c
+drwxrwxr-x 2 shaik shaik   4096 Nov 19 14:08 mutex
+-rw-rw-r-- 1 shaik shaik      0 Oct 23 11:02 mutex.c
+-rwxrwxr-x 1 shaik shaik   7990 Oct 23 11:02 odd
+-rw-rw-r-- 1 shaik shaik   1532 Nov 13 18:04 odd.c
+drwxrwxr-x 2 shaik shaik   4096 Nov 20 19:03 pipes
+-rw-rw-r-- 1 shaik shaik   1226 Oct 24 16:48 pthread_attribute.c
+-rwxrwxr-x 1 shaik shaik   7793 Oct 30 18:14 r
+-rwxrwxr-x 1 shaik shaik   7800 Oct 31 08:45 r_1
+-rw-rw-r-- 1 shaik shaik   2156 Oct 30 18:54 r.c
+-rwxrwxr-x 1 shaik shaik   7724 Oct 30 15:07 rec
+-rw-rw-r-- 1 shaik shaik   1518 Oct 30 15:41 receive.c
+-rwxrwxr-x 1 shaik shaik  10516 Oct 30 18:13 s
+-rwxrwxr-x 1 shaik shaik   7800 Oct 31 08:45 s_1
+drwxrwxr-x 2 shaik shaik   4096 Nov 13 18:03 semaphore
+-rwxrwxr-x 1 shaik shaik   7759 Oct 30 15:04 send
+-rw-rw-r-- 1 shaik shaik   1352 Oct 30 16:24 send.c
+-rwxrwxr-x 1 shaik shaik   7680 Oct 27 17:24 server
+drwxrwxr-x 2 shaik shaik   4096 Nov 21 20:12 shared_memory
+-rwxrwxr-x 1 shaik shaik   7669 Oct 23 11:02 shell
+-rw-rw-r-- 1 shaik shaik    596 Oct 23 11:02 shell.c
+drwxrwxr-x 2 shaik shaik   4096 Nov 14 11:17 signals
+-rwxrwxr-x 1 shaik shaik   7716 Oct 28 10:46 sned
+-rw-rw-r-- 1 shaik shaik 235417 Nov 27 18:13 sockets.tar.gz
+-rw-rw-r-- 1 shaik shaik    171 Nov 14 19:01 sys_info.c
+-rw-rw-r-- 1 shaik shaik    140 Nov 14 18:58 sys_info.h
+-rw-rw-r-- 1 shaik shaik 988204 Nov 14 18:58 sys_info.h.gch
+-rwxr-xr-x 1 shaik shaik   7744 Oct 23 11:02 thread
+-rw-rw-r-- 1 shaik shaik   1114 Oct 23 11:02 thread.c
+-rw-rw-r-- 1 shaik shaik   1385 Oct 24 11:38 thread_create.c
+-rw-rw-r-- 1 shaik shaik   1673 Nov 19 14:26 thread_r.c
+-rw-rw-r-- 1 shaik shaik   1653 Nov 19 14:08 thread_rec.c
+-rw-rw-r-- 1 shaik shaik   1629 Oct 31 08:45 thread_s.c
+-rw-rw-r-- 1 shaik shaik   1352 Oct 31 08:36 thread_send.c
+-rwxrwxr-x 1 shaik shaik   7860 Oct 30 17:01 tr
+
+./linux/exp/fork:
+total 28
+drwxrwxr-x 2 shaik shaik 4096 Nov 14 18:25 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 ..
+-rwxrwxr-x 1 shaik shaik 7601 Nov 14 14:07 a.out
+-rw-rw-r-- 1 shaik shaik 1213 Nov 14 14:07 fork_file.c
+-rw-rw-r-- 1 shaik shaik    5 Nov 14 18:25 sample2.txt
+-rw-rw-r-- 1 shaik shaik   10 Nov 14 12:35 sample.txt
+
+./linux/exp/message_qeue:
+total 52
+drwxrwxr-x 2 shaik shaik 4096 Nov 19 09:06 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 ..
+-rwxrwxr-x 1 shaik shaik 7675 Oct 30 12:14 handle
+-rwxr-xr-x 1 root  root  7675 Oct 30 12:35 handler
+-rw-rw-r-- 1 shaik shaik 2788 Nov 19 09:06 mq_handler.c
+-rw-rw-r-- 1 shaik shaik 1074 Nov 19 09:06 mq_main.c
+-rwxrwxr-x 1 shaik shaik 7561 Oct 30 14:12 send
+-rw-rw-r-- 1 shaik shaik  724 Oct 30 14:17 send.c
+-rwxrwxr-x 1 shaik shaik 7612 Oct 30 12:20 sender
+
+./linux/exp/mutex:
+total 32
+drwxrwxr-x 2 shaik shaik 4096 Nov 19 14:08 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 ..
+-rw-rw-r-- 1 shaik shaik 1204 Oct 23 11:02 \
+-rwxrwxr-x 1 shaik shaik 7729 Oct 23 11:02 a.out
+-rwxrwxr-x 1 shaik shaik 7729 Nov 19 10:03 mutex
+-rw-rw-r-- 1 shaik shaik 1204 Nov 19 10:03 mutex.c
+-rw-rw-r-- 1 shaik shaik    0 Oct 23 11:02 pthread_attribute.c
+
+./linux/exp/pipes:
+total 68
+drwxrwxr-x 2 shaik shaik 4096 Nov 20 19:03 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 ..
+-rwxrwxr-x 1 shaik shaik 7629 Nov 20 19:03 pipe
+-rw-rw-r-- 1 shaik shaik 1312 Nov 20 19:03 pipe.c
+-rwxrwxr-x 1 shaik shaik 7597 Oct 29 12:37 r
+-rwxrwxr-x 1 shaik shaik 7559 Oct 31 10:09 rec
+-rw-rw-r-- 1 shaik shaik  775 Nov 13 18:05 rec_pipe.c
+-rw-rw-r-- 1 shaik shaik  975 Nov 20 18:55 r_pipe.c
+-rwxrwxr-x 1 shaik shaik 7593 Oct 29 12:37 s
+-rwxrwxr-x 1 shaik shaik 7669 Oct 31 10:09 send
+-rw-rw-r-- 1 shaik shaik  868 Nov 16 17:10 send_pipe.c
+-rw-rw-r-- 1 shaik shaik  902 Nov 20 18:55 s_pipe.c
+
+./linux/exp/semaphore:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Nov 13 18:03 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 ..
+-rw-rw-r-- 1 shaik shaik 5128 Nov 13 14:43 alarm.c
+-rwxrwxr-x 1 shaik shaik 7717 Nov 13 17:52 a.out
+-rw-rw-r-- 1 shaik shaik  227 Nov 13 18:03 process_sema.c
+-rw-rw-r-- 1 shaik shaik 1212 Nov 13 17:54 thread_create2.c
+-rw-rw-r-- 1 shaik shaik 1212 Nov 13 17:55 thread_create.c
+
+./linux/exp/shared_memory:
+total 60
+drwxrwxr-x 2 shaik shaik  4096 Nov 21 20:12 .
+drwxrwxr-x 9 shaik shaik  4096 Dec  3 19:53 ..
+-rwxrwxr-x 1 shaik shaik  7624 Nov  2 18:33 a.out
+-rwxrwxr-x 1 shaik shaik  7711 Nov  2 15:51 r
+-rwxrwxr-x 1 shaik shaik  7606 Oct 31 09:33 rec
+-rw-rw-r-- 1 shaik shaik  1839 Nov 21 20:12 receive.c
+-rwxrwxr-x 1 shaik shaik  7636 Oct 30 19:42 s
+-rwxrwxr-x 1 shaik shaik 10013 Nov  2 20:02 send
+-rw-rw-r-- 1 shaik shaik  1782 Nov  2 20:02 send.c
+
+./linux/exp/signals:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Nov 14 11:17 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 19:53 ..
+-rwxrwxr-x 1 shaik shaik 7748 Oct 23 11:02 raise
+-rw-rw-r-- 1 shaik shaik 1018 Oct 23 11:02 raise.c
+-rwxrwxr-x 1 shaik shaik 7591 Nov 14 11:15 sig_catch
+-rw-rw-r-- 1 shaik shaik  716 Nov 14 11:15 sig_catch.c
+-rw-rw-r-- 1 shaik shaik   50 Nov 14 11:17 sig_child.c
+
+./linux/fork:
+total 20
+drwxr-xr-x 2 root  root  4096 Sep 30 13:48 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 14:31 ..
+-rwxr-xr-x 1 root  root  7448 Sep 30 13:48 a.out
+-rw-r--r-- 1 root  root   144 Sep 30 13:48 hello.c
+
+./linux/hello_module:
+total 228
+drwxr-xr-x 3 root  root   4096 Sep 28 14:20 .
+drwxrwxr-x 9 shaik shaik  4096 Dec  3 14:31 ..
+-rw-r--r-- 1 root  root    301 Sep 28 14:11 hello_mod.c
+-rw-r--r-- 1 root  root  62550 Sep 28 14:18 hello_mod.ko
+-rw-r--r-- 1 root  root    315 Sep 28 14:18 .hello_mod.ko.cmd
+-rw-r--r-- 1 root  root    793 Sep 28 14:18 hello_mod.mod.c
+-rw-r--r-- 1 root  root  39780 Sep 28 14:18 hello_mod.mod.o
+-rw-r--r-- 1 root  root  30370 Sep 28 14:18 .hello_mod.mod.o.cmd
+-rw-r--r-- 1 root  root  24824 Sep 28 14:18 hello_mod.o
+-rw-r--r-- 1 root  root  30264 Sep 28 14:18 .hello_mod.o.cmd
+-rw-r--r-- 1 root  root    200 Sep 28 14:18 Makefile
+-rw-r--r-- 1 root  root     65 Sep 28 14:18 modules.order
+-rw-r--r-- 1 root  root      0 Sep 28 14:18 Module.symvers
+drwxr-xr-x 2 root  root   4096 Sep 28 14:18 .tmp_versions
+
+./linux/hello_module/.tmp_versions:
+total 12
+drwxr-xr-x 2 root root 4096 Sep 28 14:18 .
+drwxr-xr-x 3 root root 4096 Sep 28 14:20 ..
+-rw-r--r-- 1 root root  116 Sep 28 14:18 hello_mod.mod
+
+./linux/lab_assessment:
+total 12
+drwxrwxr-x 3 shaik shaik 4096 Oct 15 10:17 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 14:31 ..
+drwxrwxr-x 5 shaik shaik 4096 Oct 15 16:34 lab01
+
+./linux/lab_assessment/lab01:
+total 60
+drwxrwxr-x 5 shaik shaik  4096 Oct 15 16:34 .
+drwxrwxr-x 3 shaik shaik  4096 Oct 15 10:17 ..
+-rwxrwxr-x 1 shaik shaik  7820 Oct 15 16:34 app
+-rw-rw-r-- 1 shaik shaik  2088 Oct 15 16:33 file.c
+-rw-rw-r-- 1 shaik shaik 15828 Oct 15 15:56 file.txt
+drwxrwxr-x 2 shaik shaik  4096 Oct 15 15:55 hdr
+-rw-rw-r-- 1 shaik shaik   388 Oct 15 16:16 makefile
+drwxrwxr-x 2 shaik shaik  4096 Oct 15 16:34 obj
+-rw-rw-r-- 1 shaik shaik  2088 Oct 15 16:35 sample22.txt
+drwxrwxr-x 2 shaik shaik  4096 Oct 26 10:29 src
+-rw-rw-r-- 1 shaik shaik    27 Oct 15 15:36 txt.txt
+
+./linux/lab_assessment/lab01/hdr:
+total 12
+drwxrwxr-x 2 shaik shaik 4096 Oct 15 15:55 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 15 16:34 ..
+-rw-rw-r-- 1 shaik shaik  559 Oct 15 15:55 header.h
+
+./linux/lab_assessment/lab01/obj:
+total 16
+drwxrwxr-x 2 shaik shaik 4096 Oct 15 16:34 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 15 16:34 ..
+-rw-rw-r-- 1 shaik shaik 2152 Oct 15 16:34 main.o
+-rw-rw-r-- 1 shaik shaik 1292 Oct 15 15:59 thread.o
+
+./linux/lab_assessment/lab01/src:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Oct 26 10:29 .
+drwxrwxr-x 5 shaik shaik 4096 Oct 15 16:34 ..
+-rwxrwxr-x 1 shaik shaik 7843 Oct 15 13:11 app
+-rw-rw-r-- 1 shaik shaik 2092 Oct 15 16:34 main.c
+-rw-rw-r-- 1 shaik shaik  112 Oct 15 14:51 sample22.txt
+-rw-rw-r-- 1 shaik shaik  112 Oct 15 15:40 sample.txt
+-rw-rw-r-- 1 shaik shaik  342 Oct 26 10:29 thread.c
+-rw-rw-r-- 1 shaik shaik  112 Oct 15 14:47 txt.txt
+
+./linux/my_driver:
+total 420
+drwxr-xr-x 3 root  root    4096 Oct  4 12:01 .
+drwxrwxr-x 9 shaik shaik   4096 Dec  3 14:31 ..
+-rwxr-xr-x 1 root  root    7621 Oct  3 20:10 app
+-rw-r--r-- 1 root  root     507 Oct  3 20:09 app_kmod.c
+-rw-r--r-- 1 root  root     194 Oct  3 19:51 Makefile
+-rw-r--r-- 1 root  root      57 Oct  3 20:08 modules.order
+-rw-r--r-- 1 root  root       0 Oct  3 19:51 Module.symvers
+-rw-r--r-- 1 root  root    2095 Oct  4 12:01 smod.c
+-rw-r--r-- 1 root  root  148232 Oct  3 20:08 smod.ko
+-rw-r--r-- 1 root  root     283 Oct  3 20:08 .smod.ko.cmd
+-rw-r--r-- 1 root  root     960 Oct  3 20:08 smod.mod.c
+-rw-r--r-- 1 root  root   41624 Oct  3 20:08 smod.mod.o
+-rw-r--r-- 1 root  root   30317 Oct  3 20:08 .smod.mod.o.cmd
+-rw-r--r-- 1 root  root  108908 Oct  3 20:08 smod.o
+-rw-r--r-- 1 root  root   41482 Oct  3 20:08 .smod.o.cmd
+drwxr-xr-x 2 root  root    4096 Oct  3 20:08 .tmp_versions
+
+./linux/my_driver/.tmp_versions:
+total 12
+drwxr-xr-x 2 root root 4096 Oct  3 20:08 .
+drwxr-xr-x 3 root root 4096 Oct  4 12:01 ..
+-rw-r--r-- 1 root root  100 Oct  3 20:08 smod.mod
+
+./linux/process_management:
+total 36
+drwxrwxr-x 2 shaik shaik 4096 Oct 15 19:32 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 14:31 ..
+-rwxrwxr-x 1 shaik shaik 7419 Oct  7 15:42 create_process
+-rw-rw-r-- 1 shaik shaik  291 Oct 10 19:28 create_process.c
+-rwxrwxr-x 1 shaik shaik 7417 Oct  7 12:55 process
+-rw-rw-r-- 1 shaik shaik  104 Oct 10 19:28 process.c
+-rw-rw-r-- 1 shaik shaik   43 Oct 15 19:32 thread_sort.c
+
+./linux/virtual_file_system:
+total 16
+drwxrwxr-x 2 shaik shaik 4096 Dec  3 14:46 .
+drwxrwxr-x 9 shaik shaik 4096 Dec  3 14:31 ..
+-rw-rw-r-- 1 shaik shaik  568 Dec  3 14:46 get_vfs_names.c
+-rw-rw-r-- 1 shaik shaik  142 Dec  3 14:37 vfs_name.c
+
+./networking:
+total 12
+drwxrwxr-x 3 shaik shaik 4096 Dec  3 19:53 .
+drwxrwxr-x 7 shaik shaik 4096 Dec  4 11:33 ..
+drwxrwxr-x 5 shaik shaik 4096 Dec  3 19:55 sockets
+
+./networking/sockets:
+total 188
+drwxrwxr-x 5 shaik shaik  4096 Dec  3 19:55 .
+drwxrwxr-x 3 shaik shaik  4096 Dec  3 19:53 ..
+-rwxrwxr-x 1 shaik shaik  7834 Nov  9 11:29 anjula@172.
+-rwxrwxr-x 1 shaik shaik  7785 Nov  2 12:58 c
+drwxrwxr-x 2 shaik shaik  4096 Nov  9 15:05 chat
+-rw-r--r-- 1 shaik shaik  1708 Nov 15 09:45 chat_client.c
+-rw-r--r-- 1 shaik shaik  3051 Nov 15 09:45 chat_server.c
+-rwxrwxr-x 1 shaik shaik  7833 Nov 26 10:20 client
+-rwxrwxr-x 1 shaik shaik  7834 Nov  6 17:58 client2
+-rwxrwxr-x 1 shaik shaik  7749 Nov  9 11:33 client23
+-rw-rw---- 1 shaik shaik  1356 Nov  7 17:54 client2.c
+-rwxrwxr-x 1 shaik shaik  7680 Nov  7 17:41 client3
+-rw-rw---- 1 shaik shaik  1953 Nov 26 10:55 client.c
+-rwxrwxr-x 1 shaik shaik  7845 Nov 17 14:44 client_file
+-rw-rw---- 1 shaik shaik  2090 Nov 17 14:44 client_file.c
+-rwxrwxr-x 1 shaik shaik  7781 Nov  2 12:58 s
+-rw-rw-r-- 1 shaik shaik  1025 Nov 11 14:21 sample2.txt
+-rw-rw-r-- 1 shaik shaik  1623 Nov 11 14:21 sample.txt
+-rwxrwxr-x 1 shaik shaik  7783 Nov 26 10:20 server
+-rwxrwxr-x 1 shaik shaik  7823 Nov  4 13:19 server1
+-rwxrwxr-x 1 shaik shaik  7747 Nov  6 18:07 server2
+-rwxrwxr-x 1 shaik shaik  7674 Nov  9 11:45 server23
+-rw-rw---- 1 shaik shaik  3123 Nov 26 10:24 server.c
+-rw-rw-r-- 1 shaik shaik  4597 Nov 13 20:33 server_copy.c
+-rw-r----- 1 shaik shaik 12288 Nov 16 17:22 .server.c.swp
+-rw-rw---- 1 shaik shaik  3194 Nov 17 11:45 server_file.c
+-rwxr-xr-x 1 root  root  12133 Nov  9 15:10 server_s
+-rw-rw---- 1 shaik shaik  2653 Nov  9 15:17 server_select.c
+drwxrwxr-x 2 shaik shaik  4096 Nov 26 10:16 udp
+drwxrwxr-x 2 shaik shaik  4096 Dec  3 14:24 wireshark
+
+./networking/sockets/chat:
+total 16
+drwxrwxr-x 2 shaik shaik 4096 Nov  9 15:05 .
+drwxrwxr-x 5 shaik shaik 4096 Dec  3 19:55 ..
+-rw-rw---- 1 shaik shaik 1329 Nov  9 08:45 client.c
+-rw-rw---- 1 shaik shaik 3648 Nov  9 15:05 server.c
+
+./networking/sockets/udp:
+total 32
+drwxrwxr-x 2 shaik shaik 4096 Nov 26 10:16 .
+drwxrwxr-x 5 shaik shaik 4096 Dec  3 19:55 ..
+-rwxrwxr-x 1 shaik shaik 7835 Nov 19 14:30 client
+-rw-rw-r-- 1 shaik shaik    0 Nov  8 09:00 client2.c
+-rw-rw-r-- 1 shaik shaik 1273 Nov 19 14:30 client.c
+-rwxrwxr-x 1 shaik shaik 7800 Nov 19 14:31 server
+-rw-rw-r-- 1 shaik shaik 1372 Nov 26 10:16 server.c
+
+./networking/sockets/wireshark:
+total 32
+drwxrwxr-x 2 shaik shaik 4096 Dec  3 14:24 .
+drwxrwxr-x 5 shaik shaik 4096 Dec  3 19:55 ..
+-rw-r--r-- 1 root  root  3122 Nov 15 19:14 my_sniffer.c
+-rwxr-xr-x 1 root  root  7643 Nov 15 19:14 sniffer
+-rwxr-xr-x 1 root  root  7679 Nov 15 18:39 wire
+-rw-rw-r-- 1 shaik shaik 2655 Dec  3 12:53 wireshark.c
+
+./tc:
+total 8
+drwxrwxr-x 2 shaik shaik 4096 Jul 25 16:00 .
+drwxrwxr-x 7 shaik shaik 4096 Dec  4 11:33 ..

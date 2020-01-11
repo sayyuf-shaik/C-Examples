@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="header_8h" kind="file">
+    <compoundname>header.h</compoundname>
+    <includes local="no">stdio.h</includes>
+    <includes local="no">stdlib.h</includes>
+    <includedby refid="main_8c" local="yes">src/main.c</includedby>
+    <includedby refid="src_2main__wc_8c" local="yes">src/main_wc.c</includedby>
+    <incdepgraph>
+      <node id="9">
+        <label>stdlib.h</label>
+      </node>
+      <node id="7">
+        <label>src/header.h</label>
+        <link refid="header.h"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>stdio.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="11">
+        <label>src/main.c</label>
+        <link refid="main_8c"/>
+      </node>
+      <node id="10">
+        <label>src/header.h</label>
+        <link refid="header.h"/>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>src/main_wc.c</label>
+        <link refid="src_2main__wc_8c"/>
+      </node>
+    </invincdepgraph>
+      <sectiondef kind="define">
+      <memberdef kind="define" id="header_8h_1a24f52ac52d6e714cb04a5aa01be3bdd0" prot="public" static="no">
+        <name>BUF</name>
+        <initializer>256</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/shaik/tech-training/c/assignment/assignment_3/cat/src/header.h" line="3" column="11" bodyfile="/home/shaik/tech-training/c/assignment/assignment_3/cat/src/header.h" bodystart="3" bodyend="-1"/>
+        <referencedby refid="src_2main__wc_8c_1a0ddf1224851353fc92bfbff6f499fa97" compoundref="src_2main__wc_8c" startline="5" endline="46">main</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#include<sp/>&lt;stdio.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;stdlib.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3" refid="header_8h_1a24f52ac52d6e714cb04a5aa01be3bdd0" refkind="member"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>BUF<sp/>256</highlight></codeline>
+    </programlisting>
+    <location file="/home/shaik/tech-training/c/assignment/assignment_3/cat/src/header.h"/>
+  </compounddef>
+</doxygen>

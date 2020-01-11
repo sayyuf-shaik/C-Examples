@@ -1,0 +1,1 @@
+cmd_/home/shaik/tech-training/linux/my_driver/smod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds  --build-id  -o /home/shaik/tech-training/linux/my_driver/smod.ko /home/shaik/tech-training/linux/my_driver/smod.o /home/shaik/tech-training/linux/my_driver/smod.mod.o ;  true

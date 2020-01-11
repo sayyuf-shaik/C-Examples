@@ -1,0 +1,24 @@
+main ()
+{
+  try
+    {
+      i = 1;
+      p = &i;
+      D.1829 = *p;
+      if (D.1829 != 0) goto <D.1830>; else goto <D.1831>;
+      <D.1830>:
+      printf ("Little Endian %s", p);
+      goto <D.1832>;
+      <D.1831>:
+      printf ("Little Endian");
+      <D.1832>:
+      D.1833 = 0;
+      return D.1833;
+    }
+  finally
+    {
+      i = {CLOBBER};
+    }
+}
+
+

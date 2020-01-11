@@ -1,0 +1,1 @@
+cmd_/home/shaik/tech-training/linux/hello_module/hello_mod.ko := ld -r -m elf_i386 -T ../scripts/module-common.lds  --build-id  -o /home/shaik/tech-training/linux/hello_module/hello_mod.ko /home/shaik/tech-training/linux/hello_module/hello_mod.o /home/shaik/tech-training/linux/hello_module/hello_mod.mod.o ;  true

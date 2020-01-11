@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="header_8h">
+    <title>header.h File Reference</title>
+    <programlisting>#include &lt;stdio.h&gt;</programlisting>
+    <programlisting>#include &lt;stdlib.h&gt;</programlisting>
+        <simplesect>
+            <title>Defines</title>
+            <para>
+                <itemizedlist>
+                    <listitem>
+                            <para>#define <link linkend="header_8h_1a24f52ac52d6e714cb04a5aa01be3bdd0">BUF</link> 256</para>
+                    </listitem>
+                </itemizedlist>
+            </para>
+        </simplesect>
+    <simplesect>
+        <title>Detailed Description</title>
+    <para>Definition in file /home/shaik/tech-training/c/assignment/assignment_3/cat/src/header.h</para>
+    </simplesect>
+</section>

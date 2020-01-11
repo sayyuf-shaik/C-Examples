@@ -1,0 +1,48 @@
+.TH "src/main.c" 3 "Thu Sep 27 2018" "Version 0.19" "Implentation Of Cat" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+src/main.c \- 
+.SH SYNOPSIS
+.br
+.PP
+\fC#include 'header\&.h'\fP
+.br
+
+.SS "Functions"
+
+.in +1c
+.ti -1c
+.RI "int \fBmain\fP (int argc, char *argv[])"
+.br
+.in -1c
+.SH "Function Documentation"
+.PP 
+.SS "int main (intargc, char *argv[])"
+
+.PP
+.nf
+6 {
+7     int i = 0;
+8     FILE *fp;
+9     char *buf = NULL;
+10     buf = ( char * ) malloc ( sizeof(char) * BUF );
+11     for ( i = 1; i < argc; i++) {
+12     fp = fopen ( argv[i] , "r" );
+13     if( fp == NULL ) {
+14         printf( "File is not created");
+15     }
+16     else
+17     {
+18         while ( fgets ( buf, BUF, fp ) != NULL ) {
+19         fputs ( buf , stdout );
+20         }
+21         fclose(fp);
+22     }
+23     }
+24     return 0;
+25 }
+.fi
+.SH "Author"
+.PP 
+Generated automatically by Doxygen for Implentation Of Cat from the source code\&.

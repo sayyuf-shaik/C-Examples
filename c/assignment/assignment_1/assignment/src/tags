@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+bit_copy	bits_copy.c	/^unsigned int bit_copy(unsigned snum, unsigned int dnum,int n,int s, int d)$/;"	f
+bit_swap	swap_bits.c	/^int bit_swap (unsigned int number, int s, int d)$/;"	f
+bits_swap	swap_external.c	/^int bits_swap(unsigned int number1,unsigned int number2,unsigned int d,unsigned int s)$/;"	f
+cnt_lead_clear	assignment_8.c	/^int cnt_lead_clear;$/;"	v
+cnt_lead_set	assignment_8.c	/^int cnt_lead_set;$/;"	v
+cnt_leading_clear_bits	assignment_8.c	/^int cnt_leading_clear_bits( unsigned int number  ) {$/;"	f
+cnt_leading_set_bits	assignment_8.c	/^int cnt_leading_set_bits( unsigned int number  )$/;"	f
+cnt_trail_clear	assignment_8.c	/^int cnt_trail_clear;$/;"	v
+cnt_trail_set	assignment_8.c	/^int cnt_trail_set;$/;"	v
+cnt_trailing_clear_bits	assignment_8.c	/^int cnt_trailing_clear_bits( unsigned int number  )$/;"	f
+cnt_trailing_set_bits	assignment_8.c	/^int cnt_trailing_set_bits( unsigned int number  )$/;"	f
+copy_bits	copy_bits.c	/^unsigned int copy_bits( unsigned int x, unsigned int y, int p, int n)$/;"	f
+count_bit_clear	count_bits.c	/^int count_bit_clear( unsigned int number )$/;"	f
+count_bit_set	count_bits.c	/^int count_bit_set( unsigned int number )$/;"	f
+dec2bin	dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+even_bit_toggle	assignment_4.c	/^unsigned int even_bit_toggle( unsigned int number )$/;"	f
+getbits	12.c	2;"	d	file:
+input	input.c	/^unsigned int input()$/;"	f
+invert	invert.c	/^unsigned int invert (unsigned int x, int p, int n)$/;"	f
+left_rotate_bits	left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_n_bits	left_rotate_n.c	/^unsigned int left_rotate_n_bits ( unsigned int number, int n )$/;"	f
+main	main.c	/^int main (void)$/;"	f
+odd_bit_toggle	assignment_4.c	/^unsigned int odd_bit_toggle( unsigned int number )$/;"	f
+read_input	read_input.c	/^int read_input( )$/;"	f
+right_rotate_bits	right_rotate.c	/^unsigned int right_rotate_bits (unsigned int num)$/;"	f
+right_rotate_n_bits	right_rotate_n.c	/^unsigned int right_rotate_n_bits( unsigned int number, int by_times )$/;"	f
+ts_bits	ts_bits.c	4;"	d	file:

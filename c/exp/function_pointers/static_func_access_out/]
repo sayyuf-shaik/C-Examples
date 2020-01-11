@@ -1,0 +1,11 @@
+#include <stdio.h>
+typedef (*static_func_type) (void );
+//static_func_type static_func_ptr;
+
+static void func ( )
+{
+
+    printf( " i am a static function " );
+}
+
+    static_func_type() = func;

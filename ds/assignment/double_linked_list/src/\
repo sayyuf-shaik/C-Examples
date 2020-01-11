@@ -1,0 +1,14 @@
+#include "header.h"
+node *delete_begin ( node *start )
+{
+    if ( start == NULL ) {
+        printf ( "\n Empty List!!!" );
+
+    }
+    node *temp = NULL;
+    temp = start;
+    start = start -> next;
+    start -> prev = NULL;
+    free(temp);
+    return start;
+}

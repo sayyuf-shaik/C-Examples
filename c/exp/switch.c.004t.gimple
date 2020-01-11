@@ -1,0 +1,29 @@
+main ()
+{
+  int D.1836;
+  int a;
+
+  a = 5;
+  switch (a) <default: <D.1835>, case 2: <D.1830>, case 3: <D.1831>, case 4: <D.1832>, case 5: <D.1833>>
+  <D.1828>:
+  printf ("i am one ");
+  goto <D.1829>;
+  <D.1830>:
+  printf ("i am two ");
+  goto <D.1829>;
+  <D.1831>:
+  printf ("i am three ");
+  goto <D.1829>;
+  <D.1832>:
+  printf ("i am four ");
+  goto <D.1829>;
+  <D.1833>:
+  printf ("i am fivr ");
+  goto <D.1829>;
+  <D.1835>:
+  <D.1829>:
+  D.1836 = 0;
+  return D.1836;
+}
+
+

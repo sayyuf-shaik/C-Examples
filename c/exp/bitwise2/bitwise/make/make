@@ -1,0 +1,3 @@
+app: main.c fun_a.c fun_b.c header.h
+	gcc -o app *.c header.h
+

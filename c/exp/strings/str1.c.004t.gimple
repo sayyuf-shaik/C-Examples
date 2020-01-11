@@ -1,0 +1,20 @@
+main ()
+{
+  int D.1832;
+  int a;
+  int b;
+
+  a = -5;
+  b = -5;
+  if (a == b) goto <D.1829>; else goto <D.1830>;
+  <D.1829>:
+  printf ("hi");
+  goto <D.1831>;
+  <D.1830>:
+  printf ("bye");
+  <D.1831>:
+  D.1832 = 0;
+  return D.1832;
+}
+
+

@@ -1,0 +1,18 @@
+main ()
+{
+  int D.1830;
+  int i;
+
+  i = 0;
+  goto <D.1827>;
+  <D.1826>:
+  printf ("%d\n", i);
+  i = i + 1;
+  <D.1827>:
+  if (i <= 24) goto <D.1826>; else goto <D.1828>;
+  <D.1828>:
+  D.1830 = 0;
+  return D.1830;
+}
+
+

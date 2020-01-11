@@ -1,0 +1,422 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CLEAR_LEFT	bitwise2/assignment/assignment_9.c	8;"	d	file:
+CLEAR_RIGHT	bitwise2/assignment/assignment_9.c	5;"	d	file:
+FIRST_MINOR	sayyuf/char_new/kmod.c	14;"	d	file:
+INPUT	test_c.c	3;"	d	file:
+INTARR	typedef/exp1.c	/^typedef int INTARR [10];$/;"	t	file:
+INTARRAY	typedef/exp1.c	/^typedef int (*INTARRAY) [10];$/;"	t	file:
+KDIR	sayyuf/char_new/Makefile	/^KDIR:=\/lib\/modules\/$(shell uname -r)\/build$/;"	m
+MAX	bitwise2/assignment/assignment_9.c	3;"	d	file:
+MAX	snippets/main.c	47;"	d	file:
+MAX	test5.c	5;"	d	file:
+MAX_SIZE	bitwise2/assignment/assignment_9.c	2;"	d	file:
+MIN	bitwise2/assignment/assignment_9.c	4;"	d	file:
+NR_DEVS	sayyuf/char_new/kmod.c	15;"	d	file:
+OUTPUT	test_c.c	2;"	d	file:
+PWD	sayyuf/char_new/Makefile	/^PWD:=$(shell pwd)$/;"	m
+SET_LEFT	bitwise2/assignment/assignment_9.c	7;"	d	file:
+SET_RIGHT	bitwise2/assignment/assignment_9.c	6;"	d	file:
+TOGGLE	bitwise/assignments_9/toggle.c	1;"	d	file:
+TOGGLE	bitwise2/assignments_9/toggle.c	1;"	d	file:
+TOGGLE	bitwise2/bitwise/assignments_9/toggle.c	1;"	d	file:
+a	dec2bin.c	/^int a[32];$/;"	v
+a	dec_to_binary.c	/^int a[32];$/;"	v
+a	leftShift.c	/^int a[32];$/;"	v
+a	sample1.c	/^int a=50;$/;"	v
+a	storage_class/file.c	/^int a=45;\/\/global variable$/;"	v
+a	storage_class/file1.c	/^int a;$/;"	v
+a	structures/struct_exp.c	/^}a;$/;"	v	typeref:struct:details_employee
+a	typedef/exp1.c	/^INTARRAY a;\/\/it creates array of pointers of type int$/;"	v
+a	unions/exp2.c	/^    char a;$/;"	m	struct:p	file:
+add	snippets/exp2.c	/^void add ( int *c, int *d )$/;"	f
+age	structures/struct_exp.c	/^    int age;$/;"	m	struct:details_employee	file:
+apr	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+apr	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+apr	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+apr	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+aug	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+aug	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+aug	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+aug	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+b	typedef/exp1.c	/^INTARR b = {1,2,3,4,5};\/\/array$/;"	v
+b	unions/exp1.c	/^    int b;$/;"	m	struct:tag	file:
+b	unions/exp2.c	/^    int b;$/;"	m	struct:p	file:
+bit_copy	bitwise2/assignment/bits_copy.c	/^unsigned int bit_copy(unsigned snum, unsigned int dnum,int n,int s, int d)$/;"	f
+bit_copy	bitwise2/assignment_3/bits_copy.c	/^unsigned int bit_copy(unsigned snum, unsigned int dnum,int n,int s, int d)$/;"	f
+bit_copy	bitwise2/bitwise/assignment_3/bits_copy.c	/^unsigned int bit_copy(unsigned snum, unsigned int dnum,int n,int s, int d)$/;"	f
+bit_swap	bitwise2/assignment/swap_bits.c	/^int bit_swap (unsigned int number, int s, int d)$/;"	f
+bit_swap	bitwise2/bitwise/swap_bits.c	/^int bit_swap (unsigned int number, int s, int d)$/;"	f
+bits_swap	bitwise/swap_external.c	/^int bits_swap(unsigned int number1,unsigned int number2,unsigned int d,unsigned int s)$/;"	f
+bits_swap	bitwise2/assignment/swap_external.c	/^int bits_swap(unsigned int number1,unsigned int number2,unsigned int d,unsigned int s)$/;"	f
+bits_swap	bitwise2/bitwise/swap_external.c	/^int bits_swap(unsigned int number1,unsigned int number2,unsigned int d,unsigned int s)$/;"	f
+c	test_d.c	/^static int c=32000;$/;"	v	file:
+c	unions/exp1.c	/^    char c;$/;"	m	struct:tag	file:
+c	unions/exp2.c	/^    char c;$/;"	m	struct:p	file:
+ch	cordinates.c	/^	char ch;$/;"	m	struct:point	file:
+cnt_lead_clear	bitwise2/assignments_8/assignment_8.c	/^int cnt_lead_clear;$/;"	v
+cnt_lead_clear	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_lead_clear;$/;"	v
+cnt_lead_set	bitwise2/assignments_8/assignment_8.c	/^int cnt_lead_set;$/;"	v
+cnt_lead_set	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_lead_set;$/;"	v
+cnt_leading_clear_bits	bitwise/assignment_8.c	/^int cnt_leading_clear_bits( unsigned int number  )$/;"	f
+cnt_leading_clear_bits	bitwise2/assignment/assignment_8.c	/^int cnt_leading_clear_bits( unsigned int number  )$/;"	f
+cnt_leading_clear_bits	bitwise2/assignments_8/assignment_8.c	/^int cnt_leading_clear_bits( unsigned int number  ) {$/;"	f
+cnt_leading_clear_bits	bitwise2/bitwise/assignment_8.c	/^int cnt_leading_clear_bits( unsigned int number  )$/;"	f
+cnt_leading_clear_bits	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_leading_clear_bits( unsigned int number  ) {$/;"	f
+cnt_leading_set_bits	bitwise/assignment_8.c	/^int cnt_leading_set_bits( unsigned int number  )$/;"	f
+cnt_leading_set_bits	bitwise2/assignment/assignment_8.c	/^int cnt_leading_set_bits( unsigned int number  )$/;"	f
+cnt_leading_set_bits	bitwise2/assignments_8/assignment_8.c	/^int cnt_leading_set_bits( unsigned int number  )$/;"	f
+cnt_leading_set_bits	bitwise2/bitwise/assignment_8.c	/^int cnt_leading_set_bits( unsigned int number  )$/;"	f
+cnt_leading_set_bits	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_leading_set_bits( unsigned int number  )$/;"	f
+cnt_trail_clear	bitwise2/assignments_8/assignment_8.c	/^int cnt_trail_clear;$/;"	v
+cnt_trail_clear	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_trail_clear;$/;"	v
+cnt_trail_set	bitwise2/assignments_8/assignment_8.c	/^int cnt_trail_set;$/;"	v
+cnt_trail_set	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_trail_set;$/;"	v
+cnt_trailing_clear_bits	bitwise/assignment_8.c	/^int cnt_trailing_clear_bits( unsigned int number  )$/;"	f
+cnt_trailing_clear_bits	bitwise2/assignment/assignment_8.c	/^int cnt_trailing_clear_bits( unsigned int number  )$/;"	f
+cnt_trailing_clear_bits	bitwise2/assignments_8/assignment_8.c	/^int cnt_trailing_clear_bits( unsigned int number  )$/;"	f
+cnt_trailing_clear_bits	bitwise2/bitwise/assignment_8.c	/^int cnt_trailing_clear_bits( unsigned int number  )$/;"	f
+cnt_trailing_clear_bits	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_trailing_clear_bits( unsigned int number  )$/;"	f
+cnt_trailing_set_bits	bitwise/assignment_8.c	/^int cnt_trailing_set_bits( unsigned int number  )$/;"	f
+cnt_trailing_set_bits	bitwise2/assignment/assignment_8.c	/^int cnt_trailing_set_bits( unsigned int number  )$/;"	f
+cnt_trailing_set_bits	bitwise2/assignments_8/assignment_8.c	/^int cnt_trailing_set_bits( unsigned int number  )$/;"	f
+cnt_trailing_set_bits	bitwise2/bitwise/assignment_8.c	/^int cnt_trailing_set_bits( unsigned int number  )$/;"	f
+cnt_trailing_set_bits	bitwise2/bitwise/assignments_8/assignment_8.c	/^int cnt_trailing_set_bits( unsigned int number  )$/;"	f
+convert	structures/input.c	/^unsigned  int convert( unsigned char * buffer )$/;"	f
+copy_bits	bitwise2/assignments_11/assignments_10/copy_bits.c	/^unsigned int copy_bits( unsigned int x, int p, unsigned int y, int n)$/;"	f
+copy_bits	bitwise2/assignments_11/bitwise/copy_bits.c	/^unsigned int copy_bits( unsigned int x, int p, unsigned int y, int n)$/;"	f
+copy_bits	bitwise2/bitwise/assignments_11/assignments_10/copy_bits.c	/^unsigned int copy_bits( unsigned int x, int p, unsigned int y, int n)$/;"	f
+copy_bits	bitwise2/bitwise/assignments_11/bitwise/copy_bits.c	/^unsigned int copy_bits( unsigned int x, int p, unsigned int y, int n)$/;"	f
+count_bit_clear	bitwise/count_bits.c	/^int count_bit_clear( unsigned int number )$/;"	f
+count_bit_clear	bitwise2/assignment/count_bits.c	/^int count_bit_clear( unsigned int number )$/;"	f
+count_bit_clear	bitwise2/bitwise/count_bits.c	/^int count_bit_clear( unsigned int number )$/;"	f
+count_bit_set	bitwise/count_bits.c	/^int count_bit_set( unsigned int number )$/;"	f
+count_bit_set	bitwise/count_bits.c	/^nt count_bit_set( unsigned int number )$/;"	f
+count_bit_set	bitwise2/assignment/count_bits.c	/^int count_bit_set( unsigned int number )$/;"	f
+count_bit_set	bitwise2/bitwise/count_bits.c	/^int count_bit_set( unsigned int number )$/;"	f
+count_bit_set	bitwise2/bitwise/count_bits.c	/^nt count_bit_set( unsigned int number )$/;"	f
+d	rtl/exp1.c	/^    int d;$/;"	m	struct:p	file:
+dec	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+dec	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+dec	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+dec	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+dec2bin	bitwise/assignments_11/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise/assignments_6/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignment/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignment_3/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignments_11/assignments_10/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignments_11/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignments_12/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignments_6/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/assignments_8/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/assignment_3/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/assignments_11/assignments_10/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/assignments_11/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/assignments_12/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/assignments_6/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/assignments_8/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	bitwise2/bitwise/dec_to_binary.c	/^int dec2bin(unsigned int number)$/;"	f
+dec2bin	dec_to_binary.c	/^int dec2bin(int number)$/;"	f
+dec2bin	leftShift.c	/^int dec2bin(int number)$/;"	f
+dec_to_bin	dec2bin.c	/^int dec_to_bin(int number)$/;"	f
+details_employee	structures/struct_exp.c	/^struct details_employee {$/;"	s	file:
+devname	sayyuf/char_new/kmod.c	/^char *devname; \/\/contains device name$/;"	v
+dob	structures/struct_exp.c	/^    char *dob;$/;"	m	struct:details_employee	file:
+empid	structures/struct_exp.c	/^    int empid;$/;"	m	struct:details_employee	file:
+even_bit_toggle	bitwise/assignment_4.c	/^unsigned int even_bit_toggle( unsigned int number )$/;"	f
+even_bit_toggle	bitwise2/assignment/assignment_4.c	/^unsigned int even_bit_toggle( unsigned int number )$/;"	f
+even_bit_toggle	bitwise2/bitwise/assignment_4.c	/^unsigned int even_bit_toggle( unsigned int number )$/;"	f
+examp	storage_class/static/stat.c	/^int examp()$/;"	f
+feb	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+feb	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+feb	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+feb	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+fops	sayyuf/char_new/kmod.c	/^struct file_operations fops = {$/;"	v	typeref:struct:file_operations
+fun	pointer/array.c	/^int fun()$/;"	f
+fun_a	bitwise/make/fun_a.c	/^void fun_a(void)$/;"	f
+fun_a	bitwise2/bitwise/make/fun_a.c	/^void fun_a(void)$/;"	f
+fun_a	bitwise2/make/fun_a.c	/^void fun_a(void)$/;"	f
+fun_b	bitwise/make/fun_b.c	/^void fun_b(void)$/;"	f
+fun_b	bitwise2/bitwise/make/fun_b.c	/^void fun_b(void)$/;"	f
+fun_b	bitwise2/make/fun_b.c	/^void fun_b(void)$/;"	f
+fun_c	bitwise/make/fun_c.c	/^void fun_c(void)$/;"	f
+fun_c	bitwise2/bitwise/make/fun_c.c	/^void fun_c(void)$/;"	f
+fun_c	bitwise2/make/fun_c.c	/^void fun_c(void)$/;"	f
+func	ex.c	/^void func()$/;"	f
+generate_mask	bitwise/mask.c	/^int generate_mask( unsigned int number, int max, int min)$/;"	f
+generate_mask	bitwise2/bitwise/mask.c	/^int generate_mask( unsigned int number, int max, int min)$/;"	f
+generate_mask	bitwise2/mask.c	/^int generate_mask( unsigned int number, int max, int min)$/;"	f
+getbits	bitwise2/assignments_12/main.c	2;"	d	file:
+getbits	bitwise2/bitwise/assignments_12/main.c	2;"	d	file:
+i	snippets/exp_global.c	/^int i;$/;"	v
+i	storage_class/exp_2.c	/^int i=25;$/;"	v
+input	bitwise2/assignment/main.c	/^unsigned int input()$/;"	f
+input	bitwise2/main.c	/^unsigned int input()$/;"	f
+invert	bitwise/assignments_11/invert.c	/^unsigned  int invert (unsigned int x, int p, int n)$/;"	f
+invert	bitwise2/assignments_11/invert.c	/^unsigned  int invert (unsigned int x, int p, int n)$/;"	f
+invert	bitwise2/bitwise/assignments_11/invert.c	/^unsigned  int invert (unsigned int x, int p, int n)$/;"	f
+jan	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jan	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jan	enum/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+jan	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jan	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jan	kruthika@172.16.5.25/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+jul	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jul	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jul	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jul	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jun	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jun	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jun	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+jun	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+left_rotate_bits	bitwise/assignments_6/left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_bits	bitwise/left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_bits	bitwise2/assignment/left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_bits	bitwise2/assignments_6/left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_bits	bitwise2/bitwise/assignments_6/left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_bits	bitwise2/bitwise/left_rotate.c	/^unsigned int left_rotate_bits (unsigned int num)$/;"	f
+left_rotate_n_bits	bitwise/assignments_6/left_rotate_n.c	/^unsigned int left_rotate_n_bits ( unsigned int number, int n )$/;"	f
+left_rotate_n_bits	bitwise2/assignments_6/left_rotate_n.c	/^unsigned int left_rotate_n_bits ( unsigned int number, int n )$/;"	f
+left_rotate_n_bits	bitwise2/bitwise/assignments_6/left_rotate_n.c	/^unsigned int left_rotate_n_bits ( unsigned int number, int n )$/;"	f
+m	sayyuf/char_new/Makefile	/^obj -m:=kmod.o$/;"	m
+main	1.c	/^int main()$/;"	f
+main	bitwise/assignment_4.c	/^int main(void)$/;"	f
+main	bitwise/assignment_8.c	/^int main( void )$/;"	f
+main	bitwise/assignments_11/main.c	/^int main(void)$/;"	f
+main	bitwise/assignments_12/main.c	/^int main(void)$/;"	f
+main	bitwise/assignments_6/main.c	/^int main(void)$/;"	f
+main	bitwise/assignments_9/main.c	/^int main(void)$/;"	f
+main	bitwise/bin.c	/^int main()$/;"	f
+main	bitwise/count_bits.c	/^int main(void)$/;"	f
+main	bitwise/example.c	/^int main(void )$/;"	f
+main	bitwise/main.c	/^int main(void)$/;"	f
+main	bitwise/make/main.c	/^int main(void)$/;"	f
+main	bitwise/mask.c	/^int main(void)$/;"	f
+main	bitwise/rotate.c	/^int main(void)$/;"	f
+main	bitwise/size.c	/^int main(void)$/;"	f
+main	bitwise/sizeof/exp.c	/^int main()$/;"	f
+main	bitwise/swap_bits.c	/^int main(void)$/;"	f
+main	bitwise/swap_external.c	/^int main(void)$/;"	f
+main	bitwise/ts_bits.c	/^int main(void)$/;"	f
+main	bitwise2/assignment/assignment_9.c	/^int main(void)$/;"	f
+main	bitwise2/assignment/main.c	/^int main (void)$/;"	f
+main	bitwise2/assignment_3/main.c	/^int main(void)$/;"	f
+main	bitwise2/assignments_11/assignments_10/main.c	/^int main(void)$/;"	f
+main	bitwise2/assignments_11/bitwise/main.c	/^int main(void)$/;"	f
+main	bitwise2/assignments_11/main.c	/^int main(void)$/;"	f
+main	bitwise2/assignments_12/main.c	/^int main(void)$/;"	f
+main	bitwise2/assignments_6/main.c	/^int main(void)$/;"	f
+main	bitwise2/assignments_8/assignment_8.c	/^int main( void )$/;"	f
+main	bitwise2/assignments_9/main.c	/^int main(void)$/;"	f
+main	bitwise2/bin.c	/^int main()$/;"	f
+main	bitwise2/bitwise/assignment_3/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/assignment_8.c	/^int main( void )$/;"	f
+main	bitwise2/bitwise/assignments_11/assignments_10/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/assignments_11/bitwise/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/assignments_11/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/assignments_12/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/assignments_6/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/assignments_8/assignment_8.c	/^int main( void )$/;"	f
+main	bitwise2/bitwise/assignments_9/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/bin.c	/^int main()$/;"	f
+main	bitwise2/bitwise/count_bits.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/example.c	/^int main(void )$/;"	f
+main	bitwise2/bitwise/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/make/main.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/mask.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/rotate.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/size.c	/^int main(void)$/;"	f
+main	bitwise2/bitwise/sizeof/exp.c	/^int main()$/;"	f
+main	bitwise2/bitwise/ts_bits.c	/^int main(void)$/;"	f
+main	bitwise2/example.c	/^int main(void )$/;"	f
+main	bitwise2/main.c	/^int main (void)$/;"	f
+main	bitwise2/make/main.c	/^int main(void)$/;"	f
+main	bitwise2/mask.c	/^int main(void)$/;"	f
+main	bitwise2/rotate.c	/^int main(void)$/;"	f
+main	bitwise2/size.c	/^int main(void)$/;"	f
+main	bitwise2/sizeof/exp.c	/^int main()$/;"	f
+main	char_count.c	/^int main()$/;"	f
+main	cordinates.c	/^int main()$/;"	f
+main	dec_to_binary.c	/^int main(void)$/;"	f
+main	enum/enum_1.c	/^int main()$/;"	f
+main	enum/enum_2.c	/^int main()$/;"	f
+main	enum/enum_3.c	/^int main()$/;"	f
+main	eq.c	/^int main ( void )$/;"	f
+main	ex.c	/^int main()$/;"	f
+main	exp1.c	/^int main()$/;"	f
+main	exp1.s	/^main:$/;"	l
+main	file.c	/^int main()$/;"	f
+main	file/exp1.c	/^int main ( void )$/;"	f
+main	file/exp2.c	/^int main ( void )$/;"	f
+main	file/fdfkdh.c	/^int main()$/;"	f
+main	file/fopen.c	/^int main ( void )$/;"	f
+main	file/fread.c	/^int main ( void )$/;"	f
+main	for_loop.c	/^int main()$/;"	f
+main	func_exp.c	/^int main()$/;"	f
+main	generic_pointer.c	/^int main ( void )$/;"	f
+main	goto_experiments/exp1.c	/^int main()$/;"	f
+main	goto_experiments/exp2.c	/^int main(void)$/;"	f
+main	hello.c	/^int main()$/;"	f
+main	hello.s	/^main:$/;"	l
+main	hello1.c	/^int main()$/;"	f
+main	hello2.c	/^int main()$/;"	f
+main	hello54.c	/^int main()$/;"	f
+main	hello54.s	/^main:$/;"	l
+main	hello_test.c	/^int main()$/;"	f
+main	inc.c	/^int main ( void )$/;"	f
+main	infinite_loop.c	/^int main()$/;"	f
+main	infinte.c	/^int main()$/;"	f
+main	kruthika@172.16.5.25/enum_1.c	/^int main()$/;"	f
+main	kruthika@172.16.5.25/enum_2.c	/^int main()$/;"	f
+main	kruthika@172.16.5.25/enum_3.c	/^int main()$/;"	f
+main	leftShift.c	/^int main(void)$/;"	f
+main	malloc.c	/^int main()$/;"	f
+main	malloc_fail.c	/^int main ( void )$/;"	f
+main	operators.c	/^int main()$/;"	f
+main	pointer.c	/^int main(void)$/;"	f
+main	pointer/array.c	/^int main()$/;"	f
+main	pointer/exp2.c	/^int main( void )$/;"	f
+main	pointer/exp3.c	/^int main()$/;"	f
+main	pointer/exp4.c	/^int main ( void )$/;"	f
+main	pointer/int_point.c	/^int main()$/;"	f
+main	pointer/my_strtok.c	/^int main ( void )$/;"	f
+main	pointer/pointer.c	/^int main ( void )$/;"	f
+main	pointer/pointer1.c	/^int main ( void )$/;"	f
+main	pointer/pointer2.c	/^int main( void )$/;"	f
+main	pointer/pointer_arithmatic.c	/^int main()$/;"	f
+main	pointer/pointer_l.c	/^int main ( void )$/;"	f
+main	pointer/ptr01.c	/^int main()$/;"	f
+main	pointer/ptr02.c	/^int main()$/;"	f
+main	pointer/ptr03.c	/^int main()$/;"	f
+main	pointer/ptr1.c	/^int main()$/;"	f
+main	pointer/str_cmp.c	/^int main ( void )$/;"	f
+main	pointer/strcmp.c	/^int main (void )$/;"	f
+main	pointer/strtok.c	/^int main ( void )$/;"	f
+main	pointer/volatle.c	/^int main()$/;"	f
+main	pointer_cast.c	/^int main ( void )$/;"	f
+main	printf_examples/experiment_1.c	/^int main()$/;"	f
+main	range.c	/^int main()$/;"	f
+main	rtl/exp1.c	/^int main( void )$/;"	f
+main	sample2.c	/^int main()$/;"	f
+main	sayyuf/char_new/app_kmod.c	/^int main ( void )$/;"	f
+main	set_bits.c	/^int main(void)$/;"	f
+main	size.c	/^int main()$/;"	f
+main	snippets/exp2.c	/^int main ( void )$/;"	f
+main	snippets/exp_global.c	/^int main( void )$/;"	f
+main	snippets/main.c	/^int main ( void )$/;"	f
+main	storage_class/exp_1.c	/^int main()$/;"	f
+main	storage_class/exp_2.c	/^int main()$/;"	f
+main	storage_class/file1.c	/^int main()$/;"	f
+main	storage_class/file2.c	/^int main()$/;"	f
+main	storage_class/gets_exp.c	/^int main()$/;"	f
+main	storage_class/static/auto_exp.c	/^int main(void)$/;"	f
+main	storage_class/static/external.c	/^int main(void)$/;"	f
+main	strings/str.c	/^int main ( void )$/;"	f
+main	strings/string.c	/^int main ( void ) $/;"	f
+main	structures/elf.c	/^int main( int argc ,char *argv[])$/;"	f
+main	structures/fprintf.c	/^int main()$/;"	f
+main	structures/read_file.c	/^int main ( void ) $/;"	f
+main	structures/struct_exp.c	/^int main ( void ) $/;"	f
+main	switch.c	/^int main ( void ) $/;"	f
+main	test.c	/^int main()$/;"	f
+main	test3.c	/^int main()$/;"	f
+main	test5.c	/^int main()$/;"	f
+main	test_2.c	/^int main()$/;"	f
+main	test_3.c	/^int main()$/;"	f
+main	test_4.c	/^int main()$/;"	f
+main	test_c.c	/^int main()$/;"	f
+main	test_d.c	/^int main()$/;"	f
+main	test_datatypes.c	/^int main()$/;"	f
+main	test_printf.c	/^int main()$/;"	f
+main	typedef/exp1.c	/^int main()$/;"	f
+main	unions/exp1.c	/^int main()$/;"	f
+main	unions/exp2.c	/^int main()$/;"	f
+main	while.c	/^int main()$/;"	f
+main	while2.c	/^int main()$/;"	f
+main	while_loop.c	/^int main()$/;"	f
+majNo	sayyuf/char_new/kmod.c	/^int majNo;$/;"	v
+mar	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+mar	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+mar	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+mar	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+mon	enum/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+mon	kruthika@172.16.5.25/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+month	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	g	file:
+month	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	g	file:
+month	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	g	file:
+month	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	g	file:
+myExit	sayyuf/char_new/kmod.c	/^module_exit(myExit);$/;"	v
+myExit	sayyuf/char_new/kmod.c	/^static void myExit ( void )$/;"	f	file:
+myInit	sayyuf/char_new/kmod.c	/^module_init(myInit);$/;"	v
+myInit	sayyuf/char_new/kmod.c	/^static int __init myInit ( void )$/;"	f	file:
+myOpen	sayyuf/char_new/kmod.c	/^int myOpen ( struct inode *inode, struct file *filep)$/;"	f
+myRelease	sayyuf/char_new/kmod.c	/^int myRelease ( struct inode *in, struct file *fp )$/;"	f
+my_cdev	sayyuf/char_new/kmod.c	/^struct cdev *my_cdev; \/\/holds character device driver description$/;"	v	typeref:struct:cdev
+my_str_cmp	pointer/str_cmp.c	/^int my_str_cmp( char *s1, char *s2 )$/;"	f
+my_strtok	pointer/my_strtok.c	/^char *my_strtok ( char *str, char *token )$/;"	f
+mychar_class	sayyuf/char_new/kmod.c	/^static struct class *mychar_class;$/;"	v	typeref:struct:class	file:
+mychar_device	sayyuf/char_new/kmod.c	/^static struct device *mychar_device;$/;"	v	typeref:struct:device	file:
+mydev	sayyuf/char_new/kmod.c	/^static dev_t mydev; \/\/encodes major and minor no $/;"	v	file:
+name	structures/struct_exp.c	/^    char *name; $/;"	m	struct:details_employee	file:
+nov	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+nov	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+nov	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+nov	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+num	bitwise2/assignment/main.c	/^	char num[20];$/;"	v
+num	bitwise2/main.c	/^	char num[20];$/;"	v
+oct	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+oct	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+oct	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+oct	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+odd_bit_toggle	bitwise/assignment_4.c	/^unsigned int odd_bit_toggle( unsigned int number )$/;"	f
+odd_bit_toggle	bitwise2/assignment/assignment_4.c	/^unsigned int odd_bit_toggle( unsigned int number )$/;"	f
+odd_bit_toggle	bitwise2/bitwise/assignment_4.c	/^unsigned int odd_bit_toggle( unsigned int number )$/;"	f
+okay	test_macro.c	2;"	d	file:
+p	cordinates.c	/^}p;$/;"	v	typeref:struct:point
+p	rtl/exp1.c	/^    int p;$/;"	m	struct:p	file:
+p	rtl/exp1.c	/^struct p{$/;"	s	file:
+p	unions/exp1.c	/^}p;$/;"	v	typeref:struct:tag
+p	unions/exp2.c	/^struct p{$/;"	s	file:
+point	cordinates.c	/^struct point{$/;"	s	file:
+price	cordinates.c	/^	float price;$/;"	m	struct:point	file:
+ptr	bitwise/example.c	/^int *ptr = &a;$/;"	v
+ptr	bitwise2/bitwise/example.c	/^int *ptr = &a;$/;"	v
+ptr	bitwise2/example.c	/^int *ptr = &a;$/;"	v
+result	bitwise/rotate.c	/^int result[16];$/;"	v
+result	bitwise2/bitwise/rotate.c	/^int result[16];$/;"	v
+result	bitwise2/rotate.c	/^int result[16];$/;"	v
+right_rotate_bits	bitwise/assignments_6/right_rotate.c	/^unsigned int right_rotate_bits (unsigned int num)$/;"	f
+right_rotate_bits	bitwise2/assignments_6/right_rotate.c	/^unsigned int right_rotate_bits (unsigned int num)$/;"	f
+right_rotate_bits	bitwise2/bitwise/assignments_6/right_rotate.c	/^unsigned int right_rotate_bits (unsigned int num)$/;"	f
+right_rotate_n_bits	bitwise/assignments_6/right_rotate_n.c	/^unsigned int right_rotate_n_bits( unsigned int number, int by_times )$/;"	f
+right_rotate_n_bits	bitwise2/assignments_6/right_rotate_n.c	/^unsigned int right_rotate_n_bits( unsigned int number, int by_times )$/;"	f
+right_rotate_n_bits	bitwise2/bitwise/assignments_6/right_rotate_n.c	/^unsigned int right_rotate_n_bits( unsigned int number, int by_times )$/;"	f
+s	rtl/exp1.c	/^}s;$/;"	v	typeref:struct:p
+s	unions/exp2.c	/^}s;$/;"	v	typeref:struct:p
+sat	enum/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+sat	kruthika@172.16.5.25/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+sep	enum/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+sep	enum/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+sep	kruthika@172.16.5.25/enum_1.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+sep	kruthika@172.16.5.25/enum_2.c	/^enum month{jan,feb,mar,apr,jun,jul,aug=100,sep,oct,nov,dec};$/;"	e	enum:month	file:
+stat_ptr	storage_class/static/stat.c	/^int *stat_ptr = & stat_var;$/;"	v
+stat_var	storage_class/static/stat.c	/^static int stat_var = 25;$/;"	v	file:
+str_cpy	pointer/pointer1.c	/^char *str_cpy( char *d, const char *s )$/;"	f
+strn_cpy	pointer/pointer2.c	/^char *strn_cpy( char *dest, char *src, size_t n)$/;"	f
+sun	enum/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+sun	kruthika@172.16.5.25/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	e	enum:temp	file:
+tag	unions/exp1.c	/^struct tag {$/;"	s	file:
+temp	enum/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	g	file:
+temp	kruthika@172.16.5.25/enum_2.c	/^enum temp{sun,jan,mon,sat};\/\/generates an error since the jan is in both enums$/;"	g	file:
+ts_bits	bitwise/ts_bits.c	4;"	d	file:
+ts_bits	bitwise2/assignment/header.h	3;"	d
+ts_bits	bitwise2/assignment/ts_bits.c	4;"	d	file:
+ts_bits	bitwise2/bitwise/header.h	2;"	d
+ts_bits	bitwise2/bitwise/ts_bits.c	4;"	d	file:
+x	cordinates.c	/^	int x,y;$/;"	m	struct:point	file:
+y	cordinates.c	/^	int x,y;$/;"	m	struct:point	file:
